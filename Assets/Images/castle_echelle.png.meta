@@ -1,0 +1,2917 @@
+fileFormatVersion: 2
+guid: 1a4601b8a473f854da28c68064c8b177
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3933837293585206130
+    second: castle_echelle_0
+  - first:
+      213: 8539961987477213099
+    second: castle_echelle_1
+  - first:
+      213: 506877428813967991
+    second: castle_echelle_2
+  - first:
+      213: -340327924986106341
+    second: castle_echelle_3
+  - first:
+      213: -7502784770285454092
+    second: castle_echelle_4
+  - first:
+      213: 5024270053743984649
+    second: castle_echelle_5
+  - first:
+      213: 346361581635485924
+    second: castle_echelle_6
+  - first:
+      213: 7659039998735348612
+    second: castle_echelle_7
+  - first:
+      213: 1592837392353741182
+    second: castle_echelle_8
+  - first:
+      213: 3022926655637410610
+    second: castle_echelle_9
+  - first:
+      213: -4571813252931277872
+    second: castle_echelle_10
+  - first:
+      213: 1297205234547140547
+    second: castle_echelle_11
+  - first:
+      213: -8773882345521455039
+    second: castle_echelle_12
+  - first:
+      213: -5799068549540335913
+    second: castle_echelle_13
+  - first:
+      213: 8460130138348329657
+    second: castle_echelle_14
+  - first:
+      213: -7783470313316477766
+    second: castle_echelle_15
+  - first:
+      213: 2635386715455718193
+    second: castle_echelle_16
+  - first:
+      213: -8228713049049829059
+    second: castle_echelle_17
+  - first:
+      213: 8155569028585517361
+    second: castle_echelle_18
+  - first:
+      213: -1201919196673658200
+    second: castle_echelle_19
+  - first:
+      213: 2154049700525617742
+    second: castle_echelle_20
+  - first:
+      213: 8577077602392352716
+    second: castle_echelle_21
+  - first:
+      213: -3629199302292599176
+    second: castle_echelle_22
+  - first:
+      213: 5674202223804590210
+    second: castle_echelle_23
+  - first:
+      213: 4225319753351281685
+    second: castle_echelle_24
+  - first:
+      213: 7857417140632963026
+    second: castle_echelle_25
+  - first:
+      213: -1769487558863868702
+    second: castle_echelle_26
+  - first:
+      213: -7143558502081259467
+    second: castle_echelle_27
+  - first:
+      213: 2018646950260492023
+    second: castle_echelle_28
+  - first:
+      213: -6757207587209338140
+    second: castle_echelle_29
+  - first:
+      213: -7585192253826849940
+    second: castle_echelle_30
+  - first:
+      213: -3713478035578631542
+    second: castle_echelle_31
+  - first:
+      213: 1071286960475739975
+    second: castle_echelle_32
+  - first:
+      213: -3695173325477108486
+    second: castle_echelle_33
+  - first:
+      213: -2860065747202753072
+    second: castle_echelle_34
+  - first:
+      213: -7859068688572324979
+    second: castle_echelle_35
+  - first:
+      213: 3585244195593869604
+    second: castle_echelle_36
+  - first:
+      213: 2086699694180360927
+    second: castle_echelle_37
+  - first:
+      213: 1655593193864125289
+    second: castle_echelle_38
+  - first:
+      213: 439601519140932416
+    second: castle_echelle_39
+  - first:
+      213: -358478494804234546
+    second: castle_echelle_40
+  - first:
+      213: 6309062937369941140
+    second: castle_echelle_41
+  - first:
+      213: 8437363801946137883
+    second: castle_echelle_42
+  - first:
+      213: 7730930445226878998
+    second: castle_echelle_43
+  - first:
+      213: 8025374510889401633
+    second: castle_echelle_44
+  - first:
+      213: -1512621344520843939
+    second: castle_echelle_45
+  - first:
+      213: -8865353163622473497
+    second: castle_echelle_46
+  - first:
+      213: 3991971954650876166
+    second: castle_echelle_47
+  - first:
+      213: 8840239041738105780
+    second: castle_echelle_48
+  - first:
+      213: -4377505348175550328
+    second: castle_echelle_49
+  - first:
+      213: 1662314168467065735
+    second: castle_echelle_50
+  - first:
+      213: -2206984756885873224
+    second: castle_echelle_51
+  - first:
+      213: 9103535983988048414
+    second: castle_echelle_52
+  - first:
+      213: 2149476931415954572
+    second: castle_echelle_53
+  - first:
+      213: 2117056231523191212
+    second: castle_echelle_54
+  - first:
+      213: -386081930077695296
+    second: castle_echelle_55
+  - first:
+      213: -4794888934113565268
+    second: castle_echelle_56
+  - first:
+      213: -7567347799391749538
+    second: castle_echelle_57
+  - first:
+      213: -525139443888849577
+    second: castle_echelle_58
+  - first:
+      213: -702362317827959920
+    second: castle_echelle_59
+  - first:
+      213: -1278184410289922043
+    second: castle_echelle_60
+  - first:
+      213: -1742970993052177004
+    second: castle_echelle_61
+  - first:
+      213: 4378060808315278432
+    second: castle_echelle_62
+  - first:
+      213: -3576013803540314747
+    second: castle_echelle_63
+  - first:
+      213: -4513082165627744008
+    second: castle_echelle_64
+  - first:
+      213: 7370344150722855356
+    second: castle_echelle_65
+  - first:
+      213: 8279421270860072978
+    second: castle_echelle_66
+  - first:
+      213: 7555521162596552774
+    second: castle_echelle_67
+  - first:
+      213: -4672413369026852297
+    second: castle_echelle_68
+  - first:
+      213: -4670268127095763867
+    second: castle_echelle_69
+  - first:
+      213: 2200066853265967459
+    second: castle_echelle_70
+  - first:
+      213: -5626381192144852445
+    second: castle_echelle_71
+  - first:
+      213: -3145327710892726840
+    second: castle_echelle_72
+  - first:
+      213: -6226560106164909797
+    second: castle_echelle_73
+  - first:
+      213: -6628247557827394844
+    second: castle_echelle_74
+  - first:
+      213: 7176965285679597149
+    second: castle_echelle_75
+  - first:
+      213: -5920962193899743119
+    second: castle_echelle_76
+  - first:
+      213: 1904813352652932806
+    second: castle_echelle_77
+  - first:
+      213: 3121721261285232931
+    second: castle_echelle_78
+  - first:
+      213: 6575154028099936847
+    second: castle_echelle_79
+  - first:
+      213: 7694984084868271676
+    second: castle_echelle_80
+  - first:
+      213: 3370470668861200065
+    second: castle_echelle_81
+  - first:
+      213: -8715101979212901052
+    second: castle_echelle_82
+  - first:
+      213: 2534210413931992792
+    second: castle_echelle_83
+  - first:
+      213: 3386822183376884552
+    second: castle_echelle_84
+  - first:
+      213: 7876388167788769292
+    second: castle_echelle_85
+  - first:
+      213: -5399718187714101184
+    second: castle_echelle_86
+  - first:
+      213: 7554319059294513322
+    second: castle_echelle_87
+  - first:
+      213: -5702983895189791756
+    second: castle_echelle_88
+  - first:
+      213: -5469410488565587742
+    second: castle_echelle_89
+  - first:
+      213: 3948893884414090588
+    second: castle_echelle_90
+  - first:
+      213: -8091372696320133938
+    second: castle_echelle_91
+  - first:
+      213: 7856184512522003493
+    second: castle_echelle_92
+  - first:
+      213: 1853132866255865885
+    second: castle_echelle_93
+  - first:
+      213: 4233140203085966720
+    second: castle_echelle_94
+  - first:
+      213: 715711386376460479
+    second: castle_echelle_95
+  - first:
+      213: 3319368193330234574
+    second: castle_echelle_96
+  - first:
+      213: 3108606235411716696
+    second: castle_echelle_97
+  - first:
+      213: -6021132213275755513
+    second: castle_echelle_98
+  - first:
+      213: 8090195236243358983
+    second: castle_echelle_99
+  - first:
+      213: -4948173696556617607
+    second: castle_echelle_100
+  - first:
+      213: 3871080305371846285
+    second: castle_echelle_101
+  - first:
+      213: -4389326551184670896
+    second: castle_echelle_102
+  - first:
+      213: -3213687944949213339
+    second: castle_echelle_103
+  - first:
+      213: 2380528299963674096
+    second: castle_echelle_104
+  - first:
+      213: -4641001051235797163
+    second: castle_echelle_105
+  - first:
+      213: -8338615623792647189
+    second: castle_echelle_106
+  - first:
+      213: 18166503716573111
+    second: castle_echelle_107
+  - first:
+      213: -7969850838104131930
+    second: castle_echelle_108
+  - first:
+      213: -4427813179368887823
+    second: castle_echelle_109
+  - first:
+      213: -352314153728089245
+    second: castle_echelle_110
+  - first:
+      213: 8955924778255893944
+    second: castle_echelle_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: castle_echelle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 624
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b84581d2cc79630800000000000000
+      internalID: 3933837293585206130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 607
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf0be25e2a048670800000000000000
+      internalID: 8539961987477213099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 607
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772be11065ac80700800000000000000
+      internalID: 506877428813967991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 624
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eae0c2e89e64bf0800000000000000
+      internalID: -340327924986106341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 624
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcbcecb001c0e790800000000000000
+      internalID: -7502784770285454092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 607
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000b018efac9b540800000000000000
+      internalID: 5024270053743984649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 607
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c93df5068ec400800000000000000
+      internalID: 346361581635485924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 576
+        width: 28
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f02dac406a4a60800000000000000
+      internalID: 7659039998735348612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 649
+        width: 98
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79443c4b25ea1610800000000000000
+      internalID: 1592837392353741182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 576
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233d353f6c793f920800000000000000
+      internalID: 3022926655637410610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 575
+        width: 14
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbab97a118ad80c0800000000000000
+      internalID: -4571813252931277872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7a5f5b949900210800000000000000
+      internalID: 1297205234547140547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1406f162e78ec3680800000000000000
+      internalID: -8773882345521455039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 554
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de228401e1958fa0800000000000000
+      internalID: -5799068549540335913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 551
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba14d1898b686570800000000000000
+      internalID: 8460130138348329657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_15
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 544
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab419f61dfe8bf390800000000000000
+      internalID: -7783470313316477766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 539
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133858c3146c29420800000000000000
+      internalID: 2635386715455718193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 521
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3173c8541dbdcd80800000000000000
+      internalID: -8228713049049829059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 521
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131740a42d66e2170800000000000000
+      internalID: 8155569028585517361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 522
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a23b81dbdce15fe0800000000000000
+      internalID: -1201919196673658200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 525
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42bd5c3ac8b4ed10800000000000000
+      internalID: 2154049700525617742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 519
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72e85d2a6e70770800000000000000
+      internalID: 8577077602392352716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 525
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e01cf767e72adc0800000000000000
+      internalID: -3629199302292599176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 511
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288aa9dfbd0debe40800000000000000
+      internalID: 5674202223804590210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 416
+        width: 28
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cb1f0dde953aa30800000000000000
+      internalID: 4225319753351281685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 416
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d74e7f42472b0d60800000000000000
+      internalID: 7857417140632963026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 415
+        width: 14
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec227bb0748177e0800000000000000
+      internalID: -1769487558863868702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538993bf36bfcdc90800000000000000
+      internalID: -7143558502081259467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 447
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6c33db4bca30c10800000000000000
+      internalID: 2018646950260492023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 447
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e220da20839932a0800000000000000
+      internalID: -6757207587209338140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 464
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c632b9d45dbfbb690800000000000000
+      internalID: -7585192253826849940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 464
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ace18c663177cc0800000000000000
+      internalID: -3713478035578631542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 447
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7471aab80d9fdde00800000000000000
+      internalID: 1071286960475739975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 447
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42077307b18bcc0800000000000000
+      internalID: -3695173325477108486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 489
+        width: 98
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddb7bf2b510f48d0800000000000000
+      internalID: -2860065747202753072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d836048baaafee290800000000000000
+      internalID: -7859068688572324979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 401
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4295767b99851c130800000000000000
+      internalID: 3585244195593869604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 394
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd26988e05275fc10800000000000000
+      internalID: 2086699694180360927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 391
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b53d4fc39d9f610800000000000000
+      internalID: 1655593193864125289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_39
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 384
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b0e17a047c91600800000000000000
+      internalID: 439601519140932416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 379
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea39155bd660bf0800000000000000
+      internalID: -358478494804234546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 361
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494948f805b4e8750800000000000000
+      internalID: 6309062937369941140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 361
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b152dbfbca9871570800000000000000
+      internalID: 8437363801946137883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 362
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618200b9748c94b60800000000000000
+      internalID: 7730930445226878998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 365
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d790fe89bdf5f60800000000000000
+      internalID: 8025374510889401633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_45
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 359
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d4920c6e6120be0800000000000000
+      internalID: -1512621344520843939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 365
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a5e1b440f7f480800000000000000
+      internalID: -8865353163622473497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 351
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6098946a755566730800000000000000
+      internalID: 3991971954650876166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 28
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e6542296deaa70800000000000000
+      internalID: 8840239041738105780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 256
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888af9f241aff33c0800000000000000
+      internalID: -4377505348175550328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_50
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 255
+        width: 14
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b049ccde9b11710800000000000000
+      internalID: 1662314168467065735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd9d158e073f51e0800000000000000
+      internalID: -2206984756885873224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 287
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12089daeb1465e70800000000000000
+      internalID: 9103535983988048414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d1f571e974dd10800000000000000
+      internalID: 2149476931415954572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 304
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca987790d6b416d10800000000000000
+      internalID: 2117056231523191212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_55
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 304
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29587b78c54aaf0800000000000000
+      internalID: -386081930077695296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 287
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a5b83be1257db0800000000000000
+      internalID: -4794888934113565268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 287
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5abb6d15416bf690800000000000000
+      internalID: -7567347799391749538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 329
+        width: 98
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d7575457456b8f0800000000000000
+      internalID: -525139443888849577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0939e367135b046f0800000000000000
+      internalID: -702362317827959920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5002a3b0d0af24ee0800000000000000
+      internalID: -1278184410289922043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_61
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 234
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da051dd19bfc7e0800000000000000
+      internalID: -1742970993052177004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_62
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 231
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06411b4fb1ff1cc30800000000000000
+      internalID: 4378060808315278432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_63
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585061864627f5ec0800000000000000
+      internalID: -3576013803540314747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 219
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f09b938eaf4e51c0800000000000000
+      internalID: -4513082165627744008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 201
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1c63094f8b84660800000000000000
+      internalID: 7370344150722855356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2188d6397c966e270800000000000000
+      internalID: 8279421270860072978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_67
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 202
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640938d677a9ad860800000000000000
+      internalID: 7555521162596552774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_68
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 205
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a4e5fdbc0482fb0800000000000000
+      internalID: -4672413369026852297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_69
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 199
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cc0aee1efdf2fb0800000000000000
+      internalID: -4670268127095763867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_70
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 205
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36987078525388e10800000000000000
+      internalID: 2200066853265967459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 191
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a64479d141be1b0800000000000000
+      internalID: -5626381192144852445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 96
+        width: 28
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5eb029c1d8954d0800000000000000
+      internalID: -3145327710892726840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_73
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 96
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b190c6bb290d699a0800000000000000
+      internalID: -6226560106164909797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_74
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 95
+        width: 14
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e20950d6fbb304a0800000000000000
+      internalID: -6628247557827394844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d560e32f6e3b99360800000000000000
+      internalID: 7176965285679597149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_76
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 127
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1789618514484dda0800000000000000
+      internalID: -5920962193899743119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_77
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c68c40f6a14f6a10800000000000000
+      internalID: 1904813352652932806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_78
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 144
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321d0b292f4925b20800000000000000
+      internalID: 3121721261285232931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_79
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 144
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42206c70c3af3b50800000000000000
+      internalID: 6575154028099936847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 127
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8bd261431aca60800000000000000
+      internalID: 7694984084868271676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 127
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6585f373156ce20800000000000000
+      internalID: 3370470668861200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_82
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 169
+        width: 98
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44516bbacecbd0780800000000000000
+      internalID: -8715101979212901052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d61384d1f25b2320800000000000000
+      internalID: 2534210413931992792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8439795e4d8600f20800000000000000
+      internalID: 3386822183376884552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 74
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b326ce4d8e4d60800000000000000
+      internalID: 7876388167788769292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_86
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 71
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c51ecae85015b0800000000000000
+      internalID: -5399718187714101184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_87
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 64
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa86631f82556d860800000000000000
+      internalID: 7554319059294513322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 59
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb507fec5eead0b0800000000000000
+      internalID: -5702983895189791756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_89
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 41
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0a04a8320c814b0800000000000000
+      internalID: -5469410488565587742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_90
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 41
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dd634d01a4dc630800000000000000
+      internalID: 3948893884414090588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_91
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 42
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec43b82176ba5bf80800000000000000
+      internalID: -8091372696320133938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 45
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524acc6b036c60d60800000000000000
+      internalID: 7856184512522003493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_93
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 39
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1848c60686a7b910800000000000000
+      internalID: 1853132866255865885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 45
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d2d5926922fba30800000000000000
+      internalID: 4233140203085966720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 31
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8dba2c6b7bee900800000000000000
+      internalID: 715711386376460479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_96
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4cd2af8c3c01e20800000000000000
+      internalID: 3319368193330234574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_97
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a9748a6ecf32b20800000000000000
+      internalID: 3108606235411716696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_98
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c79024724a07ca0800000000000000
+      internalID: -6021132213275755513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_99
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c7d324b5264070800000000000000
+      internalID: 8090195236243358983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_100
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970bfc15d3e845bb0800000000000000
+      internalID: -4948173696556617607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_101
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8613b22707d8b530800000000000000
+      internalID: 3871080305371846285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_102
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f7271e1caf513c0800000000000000
+      internalID: -4389326551184670896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_103
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d85647dfa663d0800000000000000
+      internalID: -3213687944949213339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd691150e5590120800000000000000
+      internalID: 2380528299963674096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_105
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55730ea022ad79fb0800000000000000
+      internalID: -4641001051235797163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_106
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be321512549474c80800000000000000
+      internalID: -8338615623792647189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf46d0c65a804000800000000000000
+      internalID: 18166503716573111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_108
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 10
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a634f983e6656190800000000000000
+      internalID: -7969850838104131930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_109
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9ace77f5f3d82c0800000000000000
+      internalID: -4427813179368887823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_110
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 7
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e1b1d4245c1bf0800000000000000
+      internalID: -352314153728089245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle_echelle_111
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 13
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5cf03a226d94c70800000000000000
+      internalID: 8955924778255893944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
