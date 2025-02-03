@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1009,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BELT_leather_0: 4038344425654984701
+      BELT_leather_1: -2496825779555119690
+      BELT_leather_10: -109928274472386994
+      BELT_leather_11: 2647069226117835106
+      BELT_leather_12: 5240896467947084054
+      BELT_leather_13: 5930982486498438036
+      BELT_leather_14: 4182408940263290724
+      BELT_leather_15: -4326037099921774720
+      BELT_leather_16: -770168938753501606
+      BELT_leather_17: 5152943340129024519
+      BELT_leather_18: 105359287404042660
+      BELT_leather_19: 6598926301467607647
+      BELT_leather_2: -2610123358832778952
+      BELT_leather_20: 4227206006701279333
+      BELT_leather_21: -7593270752733054023
+      BELT_leather_22: -5984234907405020472
+      BELT_leather_23: -4960824709803264859
+      BELT_leather_24: -6458886576383950629
+      BELT_leather_25: 6275341960442501714
+      BELT_leather_26: -1404385725095299655
+      BELT_leather_27: 5658654536261436905
+      BELT_leather_28: 5167315254941537902
+      BELT_leather_29: -4376305240968992076
+      BELT_leather_3: -2868418820279666684
+      BELT_leather_30: -8146440508911372787
+      BELT_leather_31: -6059732916388807804
+      BELT_leather_32: -1347039943162805889
+      BELT_leather_33: 8880820931483748197
+      BELT_leather_34: -2017179879041543868
+      BELT_leather_35: -7444432827092892202
+      BELT_leather_4: -7660000276644215237
+      BELT_leather_5: -4284005754720247637
+      BELT_leather_6: 2040709726470483894
+      BELT_leather_7: -1908637143566086416
+      BELT_leather_8: 62329748534383673
+      BELT_leather_9: 7562558007425160506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

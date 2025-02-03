@@ -261,6 +261,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1509,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_robe_hood_0: -1044034410806558130
+      HEAD_robe_hood_1: 8724290038357278637
+      HEAD_robe_hood_10: -6394748156071404716
+      HEAD_robe_hood_11: 8984494320277115433
+      HEAD_robe_hood_12: 135649039986238976
+      HEAD_robe_hood_13: -2529026080664357180
+      HEAD_robe_hood_14: 3602304547301914511
+      HEAD_robe_hood_15: 6436168724682525820
+      HEAD_robe_hood_16: -6734187078238726810
+      HEAD_robe_hood_17: 4637452438597684279
+      HEAD_robe_hood_18: 5491909756204825088
+      HEAD_robe_hood_19: -1732986995450130688
+      HEAD_robe_hood_2: 8699584146919019288
+      HEAD_robe_hood_20: 7585676484218527110
+      HEAD_robe_hood_21: -9062616431898992632
+      HEAD_robe_hood_22: 4204562459808501953
+      HEAD_robe_hood_23: -5319321738901268977
+      HEAD_robe_hood_24: 2551722900860474218
+      HEAD_robe_hood_25: 1203233812901500019
+      HEAD_robe_hood_26: -2981449852016016103
+      HEAD_robe_hood_27: -1589634029564278666
+      HEAD_robe_hood_28: 390340004904814038
+      HEAD_robe_hood_29: 6468970411537529971
+      HEAD_robe_hood_3: -2606760685556922195
+      HEAD_robe_hood_30: 3475726829502383323
+      HEAD_robe_hood_31: -6990551652940578187
+      HEAD_robe_hood_32: -6451390031874350051
+      HEAD_robe_hood_33: 6537067849267719921
+      HEAD_robe_hood_34: 6113386747203190589
+      HEAD_robe_hood_35: -2977772218720658705
+      HEAD_robe_hood_36: -8050288696435104927
+      HEAD_robe_hood_37: 1047751388308969649
+      HEAD_robe_hood_38: 8035704818060160528
+      HEAD_robe_hood_39: -5291978032608417129
+      HEAD_robe_hood_4: -7478846168718691239
+      HEAD_robe_hood_40: -2653285463369876771
+      HEAD_robe_hood_41: -368569590682076993
+      HEAD_robe_hood_42: -3092974134474967665
+      HEAD_robe_hood_43: 5417577006896075054
+      HEAD_robe_hood_44: -1078381387438964263
+      HEAD_robe_hood_45: 6048061733915220256
+      HEAD_robe_hood_46: -2629442741687842277
+      HEAD_robe_hood_47: -153425398800706185
+      HEAD_robe_hood_48: 9094972665713056764
+      HEAD_robe_hood_49: 1667726826919068987
+      HEAD_robe_hood_5: -2621203426441021871
+      HEAD_robe_hood_50: 5454670287839776414
+      HEAD_robe_hood_51: 2659032371364147937
+      HEAD_robe_hood_52: -859554344443436661
+      HEAD_robe_hood_53: -6995598861971058705
+      HEAD_robe_hood_54: -342342468000149017
+      HEAD_robe_hood_55: -8129095910266943979
+      HEAD_robe_hood_6: 157416840372069808
+      HEAD_robe_hood_7: 2230952663405765010
+      HEAD_robe_hood_8: -3536864401953767206
+      HEAD_robe_hood_9: -668010389854846558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

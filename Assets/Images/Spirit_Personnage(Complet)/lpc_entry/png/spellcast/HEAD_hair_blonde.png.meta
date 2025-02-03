@@ -177,6 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -809,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_hair_blonde_0: -7415893660062548086
+      HEAD_hair_blonde_1: -3014633940738268977
+      HEAD_hair_blonde_10: 3193049944384139094
+      HEAD_hair_blonde_11: -4100609587866911622
+      HEAD_hair_blonde_12: 8123902150443714789
+      HEAD_hair_blonde_13: 6334149140398975158
+      HEAD_hair_blonde_14: 8361675175069767018
+      HEAD_hair_blonde_15: -7806306045081099590
+      HEAD_hair_blonde_16: -1368820821508112909
+      HEAD_hair_blonde_17: -4403874691235130045
+      HEAD_hair_blonde_18: -5884775292770510856
+      HEAD_hair_blonde_19: 6141481715309272150
+      HEAD_hair_blonde_2: 402504390291882348
+      HEAD_hair_blonde_20: 197731287477822723
+      HEAD_hair_blonde_21: 2934257136344158055
+      HEAD_hair_blonde_22: 5172438191476907585
+      HEAD_hair_blonde_23: -5321949214494139299
+      HEAD_hair_blonde_24: -9022893176752864185
+      HEAD_hair_blonde_25: -1907635301471498630
+      HEAD_hair_blonde_26: 6375615023888726834
+      HEAD_hair_blonde_27: 501416479655919582
+      HEAD_hair_blonde_3: 647450099704228048
+      HEAD_hair_blonde_4: -7327726315870943282
+      HEAD_hair_blonde_5: -5547286814672647404
+      HEAD_hair_blonde_6: 7984738779612485029
+      HEAD_hair_blonde_7: -3082159626229340409
+      HEAD_hair_blonde_8: -1550508427201934116
+      HEAD_hair_blonde_9: -665459091677986518
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

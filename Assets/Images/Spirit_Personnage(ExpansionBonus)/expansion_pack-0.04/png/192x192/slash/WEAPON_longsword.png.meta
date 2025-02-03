@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WEAPON_longsword_0: 6710492171532908913
+      WEAPON_longsword_1: 6134910850415734038
+      WEAPON_longsword_10: 3771127536741692040
+      WEAPON_longsword_11: -954685607965168148
+      WEAPON_longsword_12: -2736857551791188003
+      WEAPON_longsword_13: 7419264177686311846
+      WEAPON_longsword_14: 3043018709436112829
+      WEAPON_longsword_15: -80186970285185035
+      WEAPON_longsword_16: 8667541812474597333
+      WEAPON_longsword_17: -7965657334567698750
+      WEAPON_longsword_18: 2514294438875379148
+      WEAPON_longsword_19: -7446541321669479420
+      WEAPON_longsword_2: 6837276907741679606
+      WEAPON_longsword_20: -576437603397911028
+      WEAPON_longsword_21: 4149020014793763512
+      WEAPON_longsword_22: 1046619056588888983
+      WEAPON_longsword_23: -3391238908470245039
+      WEAPON_longsword_3: 3012522451549156272
+      WEAPON_longsword_4: 4540993071089524799
+      WEAPON_longsword_5: 9168192461059717810
+      WEAPON_longsword_6: 603737619955580725
+      WEAPON_longsword_7: 6444658880696754166
+      WEAPON_longsword_8: -7940741997773960129
+      WEAPON_longsword_9: -6189512725573750442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

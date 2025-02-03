@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LEGS_pants_greenish_0: -6944199913750945487
+      LEGS_pants_greenish_1: 4256405993151851814
+      LEGS_pants_greenish_10: 993677324095493911
+      LEGS_pants_greenish_11: -7548071842417166330
+      LEGS_pants_greenish_12: -1280144152584948239
+      LEGS_pants_greenish_13: 4165904268921544668
+      LEGS_pants_greenish_14: -2001423460035888582
+      LEGS_pants_greenish_15: 4159734681770333364
+      LEGS_pants_greenish_16: 1250832160282264716
+      LEGS_pants_greenish_17: 7794695871215756564
+      LEGS_pants_greenish_18: -5280656515247554464
+      LEGS_pants_greenish_19: 7387203293939760733
+      LEGS_pants_greenish_2: -3544489893109916541
+      LEGS_pants_greenish_20: 4602218265373705861
+      LEGS_pants_greenish_21: -7647171078729453477
+      LEGS_pants_greenish_22: -8922110014228144856
+      LEGS_pants_greenish_23: -1986772828802694177
+      LEGS_pants_greenish_3: 1575128191180386832
+      LEGS_pants_greenish_4: -2706359087357616526
+      LEGS_pants_greenish_5: 4047416303445225167
+      LEGS_pants_greenish_6: 7568285043747996510
+      LEGS_pants_greenish_7: -1013595879862188569
+      LEGS_pants_greenish_8: 6376574692485064871
+      LEGS_pants_greenish_9: -6730523842584216026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

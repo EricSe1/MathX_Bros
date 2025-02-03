@@ -219,6 +219,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1159,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WEAPON_long_spear_0: 8922843056248672612
+      WEAPON_long_spear_1: -5641293078022710195
+      WEAPON_long_spear_10: 5861403551295498889
+      WEAPON_long_spear_11: 3714981335179635655
+      WEAPON_long_spear_12: 6018447991585702563
+      WEAPON_long_spear_13: 70593585772466822
+      WEAPON_long_spear_14: -6784220696380998232
+      WEAPON_long_spear_15: -1477130055325097952
+      WEAPON_long_spear_16: 4749069535344448085
+      WEAPON_long_spear_17: -5524834870636339102
+      WEAPON_long_spear_18: 1145429245711784546
+      WEAPON_long_spear_19: -839385537461411990
+      WEAPON_long_spear_2: -3065317573901564949
+      WEAPON_long_spear_20: 5872122545659256817
+      WEAPON_long_spear_21: -3980711630197773130
+      WEAPON_long_spear_22: -3235923765860041408
+      WEAPON_long_spear_23: 1981048352213580348
+      WEAPON_long_spear_24: -666610424006954522
+      WEAPON_long_spear_25: 2993888405131547671
+      WEAPON_long_spear_26: -8310610599530778935
+      WEAPON_long_spear_27: 5491498579510131992
+      WEAPON_long_spear_28: -1543965435180815857
+      WEAPON_long_spear_29: 6166641050584518863
+      WEAPON_long_spear_3: -1181840654137103564
+      WEAPON_long_spear_30: -7652295800188518244
+      WEAPON_long_spear_31: 8183885330130080927
+      WEAPON_long_spear_32: -7967882258879401820
+      WEAPON_long_spear_33: 7892844711756580608
+      WEAPON_long_spear_34: -8942341086446806634
+      WEAPON_long_spear_35: 1965243429506207775
+      WEAPON_long_spear_36: -1978186312051229390
+      WEAPON_long_spear_37: -7750515604383711375
+      WEAPON_long_spear_38: 8528527088070935595
+      WEAPON_long_spear_39: 6328590904250953092
+      WEAPON_long_spear_4: 1579236993567875911
+      WEAPON_long_spear_40: -3369498200027412318
+      WEAPON_long_spear_41: 5317180223443325626
+      WEAPON_long_spear_5: -3811132639100027139
+      WEAPON_long_spear_6: 7235760159901180950
+      WEAPON_long_spear_7: -8967947956673993051
+      WEAPON_long_spear_8: -3595010364918192963
+      WEAPON_long_spear_9: -4004647738373407103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

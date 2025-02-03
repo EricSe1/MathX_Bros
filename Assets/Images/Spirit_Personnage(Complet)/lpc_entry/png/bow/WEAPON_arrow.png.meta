@@ -204,6 +204,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1034,7 +1047,44 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WEAPON_arrow_0: -4043168082081384746
+      WEAPON_arrow_1: -8784830557169906926
+      WEAPON_arrow_10: 584697118848023848
+      WEAPON_arrow_11: 2431111355151348510
+      WEAPON_arrow_12: 9117937811411515123
+      WEAPON_arrow_13: 4842434775522576007
+      WEAPON_arrow_14: 751379566964672068
+      WEAPON_arrow_15: 8586177389024831808
+      WEAPON_arrow_16: 1613656552066601926
+      WEAPON_arrow_17: 4412302801785931161
+      WEAPON_arrow_18: 7223486947893965473
+      WEAPON_arrow_19: -360808037713898039
+      WEAPON_arrow_2: 5670240535154806542
+      WEAPON_arrow_20: -1643753592769725730
+      WEAPON_arrow_21: 2527830106414056691
+      WEAPON_arrow_22: -1116511783310426412
+      WEAPON_arrow_23: 8362315642308779540
+      WEAPON_arrow_24: 6995366593538532815
+      WEAPON_arrow_25: -8105548444599548535
+      WEAPON_arrow_26: -6629946601863761420
+      WEAPON_arrow_27: -2099374115641450563
+      WEAPON_arrow_28: -7359960703400637850
+      WEAPON_arrow_29: 3422841322759448379
+      WEAPON_arrow_3: -3916456232895876942
+      WEAPON_arrow_30: -2805824936171033077
+      WEAPON_arrow_31: 1497547706675310832
+      WEAPON_arrow_32: -3042151761617411662
+      WEAPON_arrow_33: -2872472570127097180
+      WEAPON_arrow_34: 6231096711745686560
+      WEAPON_arrow_35: 1364921271711260264
+      WEAPON_arrow_36: -2139494584680598153
+      WEAPON_arrow_4: -7908104201648620951
+      WEAPON_arrow_5: -1111191368826053517
+      WEAPON_arrow_6: 5879751648891754064
+      WEAPON_arrow_7: 4491237576697932603
+      WEAPON_arrow_8: 3431696153143555805
+      WEAPON_arrow_9: -2863553896182765717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

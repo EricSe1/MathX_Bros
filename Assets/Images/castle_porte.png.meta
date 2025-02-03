@@ -153,6 +153,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -609,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle_porte_0: 8598320939013673002
+      castle_porte_1: 337211011455908541
+      castle_porte_10: -2717050265218674592
+      castle_porte_11: 5703565948651268148
+      castle_porte_12: -2521018119447724509
+      castle_porte_13: -5361949535068644698
+      castle_porte_14: 6764209474704135526
+      castle_porte_15: 8711617612611850356
+      castle_porte_16: -8378397967791143940
+      castle_porte_17: 9159128559828152793
+      castle_porte_18: 9202713950807432582
+      castle_porte_19: -6578301835588370482
+      castle_porte_2: -4108252160530156059
+      castle_porte_3: -1685838564641549287
+      castle_porte_4: -1117120770097253378
+      castle_porte_5: -882329228255151939
+      castle_porte_6: 6113508047385226462
+      castle_porte_7: -6659830773098578355
+      castle_porte_8: -5289185555576747101
+      castle_porte_9: 8444737073727323601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

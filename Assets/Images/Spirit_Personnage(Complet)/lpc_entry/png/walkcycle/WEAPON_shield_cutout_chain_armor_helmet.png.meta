@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1009,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WEAPON_shield_cutout_chain_armor_helmet_0: 8891460458567995733
+      WEAPON_shield_cutout_chain_armor_helmet_1: 829172655098013880
+      WEAPON_shield_cutout_chain_armor_helmet_10: -4313880760695266234
+      WEAPON_shield_cutout_chain_armor_helmet_11: -1551243215495376638
+      WEAPON_shield_cutout_chain_armor_helmet_12: 7965231368443752167
+      WEAPON_shield_cutout_chain_armor_helmet_13: 812111074805982906
+      WEAPON_shield_cutout_chain_armor_helmet_14: -1860011354662397476
+      WEAPON_shield_cutout_chain_armor_helmet_15: -8399501044828775919
+      WEAPON_shield_cutout_chain_armor_helmet_16: 2159909588011814180
+      WEAPON_shield_cutout_chain_armor_helmet_17: 8476109781735280986
+      WEAPON_shield_cutout_chain_armor_helmet_18: -1598159052947598341
+      WEAPON_shield_cutout_chain_armor_helmet_19: 50002225346076545
+      WEAPON_shield_cutout_chain_armor_helmet_2: 187051537600472718
+      WEAPON_shield_cutout_chain_armor_helmet_20: 4754881235844834939
+      WEAPON_shield_cutout_chain_armor_helmet_21: -4733182478328209392
+      WEAPON_shield_cutout_chain_armor_helmet_22: 7684547515380069082
+      WEAPON_shield_cutout_chain_armor_helmet_23: 5209876208716091899
+      WEAPON_shield_cutout_chain_armor_helmet_24: -368609981002513841
+      WEAPON_shield_cutout_chain_armor_helmet_25: 362464907854417803
+      WEAPON_shield_cutout_chain_armor_helmet_26: -8976826870907172012
+      WEAPON_shield_cutout_chain_armor_helmet_27: -5304113665932523766
+      WEAPON_shield_cutout_chain_armor_helmet_28: -5276921938959966923
+      WEAPON_shield_cutout_chain_armor_helmet_29: -3967742107295647413
+      WEAPON_shield_cutout_chain_armor_helmet_3: 4112095313828781016
+      WEAPON_shield_cutout_chain_armor_helmet_30: 6978346222936230911
+      WEAPON_shield_cutout_chain_armor_helmet_31: -5498810070368687992
+      WEAPON_shield_cutout_chain_armor_helmet_32: -3690557694792444259
+      WEAPON_shield_cutout_chain_armor_helmet_33: -1167764816897065063
+      WEAPON_shield_cutout_chain_armor_helmet_34: -1813199906100589143
+      WEAPON_shield_cutout_chain_armor_helmet_35: -594614082872942349
+      WEAPON_shield_cutout_chain_armor_helmet_4: -6249068303583897515
+      WEAPON_shield_cutout_chain_armor_helmet_5: -1139730680755385962
+      WEAPON_shield_cutout_chain_armor_helmet_6: 2735334754041422988
+      WEAPON_shield_cutout_chain_armor_helmet_7: -8079562330945503692
+      WEAPON_shield_cutout_chain_armor_helmet_8: 4694634696024118815
+      WEAPON_shield_cutout_chain_armor_helmet_9: 6110857649627245917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

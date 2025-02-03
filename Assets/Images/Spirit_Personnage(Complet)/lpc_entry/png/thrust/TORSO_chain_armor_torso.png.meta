@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_chain_armor_torso_0: -7214210146444408205
+      TORSO_chain_armor_torso_1: 1311692762877993135
+      TORSO_chain_armor_torso_10: 2322772797486279848
+      TORSO_chain_armor_torso_11: -5537743300821184419
+      TORSO_chain_armor_torso_12: 7866710355504062635
+      TORSO_chain_armor_torso_13: 2823460403455781710
+      TORSO_chain_armor_torso_14: 1513436957974741864
+      TORSO_chain_armor_torso_15: 3487377863642920739
+      TORSO_chain_armor_torso_16: -6161325589152849699
+      TORSO_chain_armor_torso_17: -2440910163821230951
+      TORSO_chain_armor_torso_18: -7379062957849482162
+      TORSO_chain_armor_torso_19: 7965029705696434930
+      TORSO_chain_armor_torso_2: -528224230318535147
+      TORSO_chain_armor_torso_20: -4755232615434210179
+      TORSO_chain_armor_torso_21: 2056350761291441733
+      TORSO_chain_armor_torso_22: -5454466749693999932
+      TORSO_chain_armor_torso_23: 3935835273249468536
+      TORSO_chain_armor_torso_24: -3364483008276546471
+      TORSO_chain_armor_torso_25: 1048833405657688793
+      TORSO_chain_armor_torso_26: -6704391839594684671
+      TORSO_chain_armor_torso_27: 4564319531056739396
+      TORSO_chain_armor_torso_28: -3316270980903731801
+      TORSO_chain_armor_torso_29: 9143010494307485726
+      TORSO_chain_armor_torso_3: 4218833157043982528
+      TORSO_chain_armor_torso_30: -3342542726604299166
+      TORSO_chain_armor_torso_31: 4693447258427731445
+      TORSO_chain_armor_torso_4: -2710567871968845162
+      TORSO_chain_armor_torso_5: 7378717802834067732
+      TORSO_chain_armor_torso_6: -5366988312338003746
+      TORSO_chain_armor_torso_7: -4505739820309540872
+      TORSO_chain_armor_torso_8: 5442830818938085089
+      TORSO_chain_armor_torso_9: -876833224878570844
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

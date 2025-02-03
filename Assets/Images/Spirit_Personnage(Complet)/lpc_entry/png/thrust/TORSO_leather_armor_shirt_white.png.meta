@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_leather_armor_shirt_white_0: -4082484916860373939
+      TORSO_leather_armor_shirt_white_1: -4960312951486160978
+      TORSO_leather_armor_shirt_white_10: -7430196297712522271
+      TORSO_leather_armor_shirt_white_11: -5806135404208383874
+      TORSO_leather_armor_shirt_white_12: 4711323127183796624
+      TORSO_leather_armor_shirt_white_13: -1651783264998572867
+      TORSO_leather_armor_shirt_white_14: -1751098180807553759
+      TORSO_leather_armor_shirt_white_15: 3729272884042374113
+      TORSO_leather_armor_shirt_white_16: 123346991089378678
+      TORSO_leather_armor_shirt_white_17: 7267920581191742249
+      TORSO_leather_armor_shirt_white_18: 1190398080407284533
+      TORSO_leather_armor_shirt_white_19: -4678175586751024000
+      TORSO_leather_armor_shirt_white_2: -3909362101229726822
+      TORSO_leather_armor_shirt_white_20: 5599298747637049637
+      TORSO_leather_armor_shirt_white_21: -5445116298686095363
+      TORSO_leather_armor_shirt_white_22: 5696686952574192404
+      TORSO_leather_armor_shirt_white_23: -319449018703195034
+      TORSO_leather_armor_shirt_white_24: -735015678887631588
+      TORSO_leather_armor_shirt_white_25: -7622976465018566803
+      TORSO_leather_armor_shirt_white_26: 2816494836796122395
+      TORSO_leather_armor_shirt_white_27: 5382044032291425721
+      TORSO_leather_armor_shirt_white_28: 4838754943221841334
+      TORSO_leather_armor_shirt_white_29: 6361656862026844217
+      TORSO_leather_armor_shirt_white_3: -8527442687098588620
+      TORSO_leather_armor_shirt_white_30: -3820506370692979150
+      TORSO_leather_armor_shirt_white_31: -2213906040570827782
+      TORSO_leather_armor_shirt_white_4: 8149614193824592280
+      TORSO_leather_armor_shirt_white_5: -7233160983372877864
+      TORSO_leather_armor_shirt_white_6: 7879443602310514828
+      TORSO_leather_armor_shirt_white_7: 8944581466944540727
+      TORSO_leather_armor_shirt_white_8: -454487201906760717
+      TORSO_leather_armor_shirt_white_9: -4584957653680156694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

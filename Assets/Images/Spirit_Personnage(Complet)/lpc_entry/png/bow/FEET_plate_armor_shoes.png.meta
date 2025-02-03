@@ -291,6 +291,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1759,7 +1772,73 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FEET_plate_armor_shoes_0: 1685072277283826823
+      FEET_plate_armor_shoes_1: -7814407123825760307
+      FEET_plate_armor_shoes_10: -1256810034765819463
+      FEET_plate_armor_shoes_11: 2719882680827795582
+      FEET_plate_armor_shoes_12: 2703967603057148910
+      FEET_plate_armor_shoes_13: 5726863494316113292
+      FEET_plate_armor_shoes_14: -7754038441814070446
+      FEET_plate_armor_shoes_15: 2589729549951353517
+      FEET_plate_armor_shoes_16: -1710331035579981103
+      FEET_plate_armor_shoes_17: -921029951097638966
+      FEET_plate_armor_shoes_18: 1460226216868962883
+      FEET_plate_armor_shoes_19: 2988021948673231737
+      FEET_plate_armor_shoes_2: -8047452345876514015
+      FEET_plate_armor_shoes_20: -4102541177895767573
+      FEET_plate_armor_shoes_21: -7982358367658047294
+      FEET_plate_armor_shoes_22: -1140266068251519475
+      FEET_plate_armor_shoes_23: -1039928121665567295
+      FEET_plate_armor_shoes_24: -5874192042671201090
+      FEET_plate_armor_shoes_25: -8788349454968116270
+      FEET_plate_armor_shoes_26: 4438987877061564084
+      FEET_plate_armor_shoes_27: 9185366641478139292
+      FEET_plate_armor_shoes_28: -1393675270120454904
+      FEET_plate_armor_shoes_29: 2906182886076323860
+      FEET_plate_armor_shoes_3: 7075840216074543281
+      FEET_plate_armor_shoes_30: -3686291534729258568
+      FEET_plate_armor_shoes_31: -3985727468868601700
+      FEET_plate_armor_shoes_32: 8733164203378192882
+      FEET_plate_armor_shoes_33: -1826108620925103381
+      FEET_plate_armor_shoes_34: -3022780633678746010
+      FEET_plate_armor_shoes_35: -5455582849228335795
+      FEET_plate_armor_shoes_36: 6403547682743602742
+      FEET_plate_armor_shoes_37: -7132353421128478467
+      FEET_plate_armor_shoes_38: 109372519173921017
+      FEET_plate_armor_shoes_39: -1332549046900777298
+      FEET_plate_armor_shoes_4: 8484624091969318177
+      FEET_plate_armor_shoes_40: -6187524202443965346
+      FEET_plate_armor_shoes_41: 2946149171636955293
+      FEET_plate_armor_shoes_42: 3551865304999054531
+      FEET_plate_armor_shoes_43: 7873458137859370175
+      FEET_plate_armor_shoes_44: -3514333155728083697
+      FEET_plate_armor_shoes_45: 8984601682065746712
+      FEET_plate_armor_shoes_46: 3040886749577478711
+      FEET_plate_armor_shoes_47: 4444266793924594016
+      FEET_plate_armor_shoes_48: -3251946747918688903
+      FEET_plate_armor_shoes_49: -2264898783115928098
+      FEET_plate_armor_shoes_5: -6479473633111966569
+      FEET_plate_armor_shoes_50: -2701381722170459781
+      FEET_plate_armor_shoes_51: -1383985245758366484
+      FEET_plate_armor_shoes_52: -1089341245570461246
+      FEET_plate_armor_shoes_53: -6557617567868709629
+      FEET_plate_armor_shoes_54: 9162005756107945091
+      FEET_plate_armor_shoes_55: 1220228108195917870
+      FEET_plate_armor_shoes_56: -9185185205952593564
+      FEET_plate_armor_shoes_57: -842010822350570696
+      FEET_plate_armor_shoes_58: 8554649076509177800
+      FEET_plate_armor_shoes_59: -5078202654328776116
+      FEET_plate_armor_shoes_6: 5573031032331163599
+      FEET_plate_armor_shoes_60: -8536773739420518471
+      FEET_plate_armor_shoes_61: -7807202570603655938
+      FEET_plate_armor_shoes_62: 2718797317768803233
+      FEET_plate_armor_shoes_63: -1944229472595952176
+      FEET_plate_armor_shoes_64: 1986699952778382055
+      FEET_plate_armor_shoes_65: -6358529208568652265
+      FEET_plate_armor_shoes_7: -8335757461453984542
+      FEET_plate_armor_shoes_8: 3698324098310447416
+      FEET_plate_armor_shoes_9: -1554923414667060488
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

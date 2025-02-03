@@ -222,6 +222,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1184,7 +1197,50 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HANDS_plate_armor_gloves_0: -205595587043266785
+      HANDS_plate_armor_gloves_1: -201276572320742726
+      HANDS_plate_armor_gloves_10: -6413991763309158375
+      HANDS_plate_armor_gloves_11: 1454060084639316886
+      HANDS_plate_armor_gloves_12: -162929824649525148
+      HANDS_plate_armor_gloves_13: 6294200346558788906
+      HANDS_plate_armor_gloves_14: -7655403345197277123
+      HANDS_plate_armor_gloves_15: 2900677169657288530
+      HANDS_plate_armor_gloves_16: 6531520177138137124
+      HANDS_plate_armor_gloves_17: -628938396460149180
+      HANDS_plate_armor_gloves_18: 2669559009056035985
+      HANDS_plate_armor_gloves_19: -671725140179889779
+      HANDS_plate_armor_gloves_2: -6562545297642030770
+      HANDS_plate_armor_gloves_20: -1304695857994654096
+      HANDS_plate_armor_gloves_21: 5405422488053705963
+      HANDS_plate_armor_gloves_22: -5431325044588831873
+      HANDS_plate_armor_gloves_23: 4449435847580767956
+      HANDS_plate_armor_gloves_24: 6313483128313751618
+      HANDS_plate_armor_gloves_25: -3787497659026194661
+      HANDS_plate_armor_gloves_26: 4052403397679166894
+      HANDS_plate_armor_gloves_27: -71888170736388176
+      HANDS_plate_armor_gloves_28: -5981619472646162506
+      HANDS_plate_armor_gloves_29: -1964648397608305357
+      HANDS_plate_armor_gloves_3: -7827516903069637086
+      HANDS_plate_armor_gloves_30: -8633438351862004124
+      HANDS_plate_armor_gloves_31: -30708251829580496
+      HANDS_plate_armor_gloves_32: -6792264983194753745
+      HANDS_plate_armor_gloves_33: -2443608346144414271
+      HANDS_plate_armor_gloves_34: -4912525705413906505
+      HANDS_plate_armor_gloves_35: 1210994584072229545
+      HANDS_plate_armor_gloves_36: -1849946861957490886
+      HANDS_plate_armor_gloves_37: 6756814991180354782
+      HANDS_plate_armor_gloves_38: 4581051226687526222
+      HANDS_plate_armor_gloves_39: -3833036121155653892
+      HANDS_plate_armor_gloves_4: -1282522599790237324
+      HANDS_plate_armor_gloves_40: -3908547714246678011
+      HANDS_plate_armor_gloves_41: 8332816467633147268
+      HANDS_plate_armor_gloves_42: -7738742061470097349
+      HANDS_plate_armor_gloves_5: 6194478572049911163
+      HANDS_plate_armor_gloves_6: 6300368612375605546
+      HANDS_plate_armor_gloves_7: 2654333485928563191
+      HANDS_plate_armor_gloves_8: 1092452208714624178
+      HANDS_plate_armor_gloves_9: -500882839503548127
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

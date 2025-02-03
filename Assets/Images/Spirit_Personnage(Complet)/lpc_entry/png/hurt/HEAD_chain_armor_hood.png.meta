@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -259,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_chain_armor_hood_0: -8688506535905523239
+      HEAD_chain_armor_hood_1: 417189535898086405
+      HEAD_chain_armor_hood_2: -5529445230084662810
+      HEAD_chain_armor_hood_3: 1998103755960132789
+      HEAD_chain_armor_hood_4: -3074375883363882608
+      HEAD_chain_armor_hood_5: 8635844856555220036
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_robe_hood_0: -1044034410806558130
+      HEAD_robe_hood_1: 8724290038357278637
+      HEAD_robe_hood_10: -6394748156071404716
+      HEAD_robe_hood_11: 8984494320277115433
+      HEAD_robe_hood_12: 135649039986238976
+      HEAD_robe_hood_13: -2529026080664357180
+      HEAD_robe_hood_14: 3602304547301914511
+      HEAD_robe_hood_15: 6436168724682525820
+      HEAD_robe_hood_16: -6734187078238726810
+      HEAD_robe_hood_17: 4637452438597684279
+      HEAD_robe_hood_18: 5491909756204825088
+      HEAD_robe_hood_19: -1732986995450130688
+      HEAD_robe_hood_2: 8699584146919019288
+      HEAD_robe_hood_20: 7585676484218527110
+      HEAD_robe_hood_21: -9062616431898992632
+      HEAD_robe_hood_22: 4204562459808501953
+      HEAD_robe_hood_23: -5319321738901268977
+      HEAD_robe_hood_3: -2606760685556922195
+      HEAD_robe_hood_4: -7478846168718691239
+      HEAD_robe_hood_5: -2621203426441021871
+      HEAD_robe_hood_6: 157416840372069808
+      HEAD_robe_hood_7: 2230952663405765010
+      HEAD_robe_hood_8: -3536864401953767206
+      HEAD_robe_hood_9: -668010389854846558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

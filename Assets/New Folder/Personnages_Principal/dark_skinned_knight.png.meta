@@ -1,0 +1,4758 @@
+fileFormatVersion: 2
+guid: 9a4a9c04f7804417da9366b11ff2a898
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7547637410725734254
+    second: dark_skinned_knight_0
+  - first:
+      213: -5261321372363626983
+    second: dark_skinned_knight_1
+  - first:
+      213: -725053309301292331
+    second: dark_skinned_knight_2
+  - first:
+      213: 7694040232193638821
+    second: dark_skinned_knight_3
+  - first:
+      213: -716193898264986708
+    second: dark_skinned_knight_4
+  - first:
+      213: -3653572570193664281
+    second: dark_skinned_knight_5
+  - first:
+      213: 979227132994735524
+    second: dark_skinned_knight_6
+  - first:
+      213: 2526009644912799129
+    second: dark_skinned_knight_7
+  - first:
+      213: 1793869970911198694
+    second: dark_skinned_knight_8
+  - first:
+      213: 942544063679864568
+    second: dark_skinned_knight_9
+  - first:
+      213: 2738552087752967232
+    second: dark_skinned_knight_10
+  - first:
+      213: -4154504554498263715
+    second: dark_skinned_knight_11
+  - first:
+      213: -8194604041011779325
+    second: dark_skinned_knight_12
+  - first:
+      213: -1770341115927834382
+    second: dark_skinned_knight_13
+  - first:
+      213: 7641936223964992715
+    second: dark_skinned_knight_14
+  - first:
+      213: -6438153482883707474
+    second: dark_skinned_knight_15
+  - first:
+      213: 3505142587304425507
+    second: dark_skinned_knight_16
+  - first:
+      213: 7430975123219466954
+    second: dark_skinned_knight_17
+  - first:
+      213: -3868206135736522204
+    second: dark_skinned_knight_18
+  - first:
+      213: -5656050232731170090
+    second: dark_skinned_knight_19
+  - first:
+      213: 9146825862460477991
+    second: dark_skinned_knight_20
+  - first:
+      213: 3292683044513639383
+    second: dark_skinned_knight_21
+  - first:
+      213: 7830228670001712648
+    second: dark_skinned_knight_22
+  - first:
+      213: 6306539864652779827
+    second: dark_skinned_knight_23
+  - first:
+      213: 8057611331823403602
+    second: dark_skinned_knight_24
+  - first:
+      213: -2054595664779912064
+    second: dark_skinned_knight_25
+  - first:
+      213: -6458078885803812635
+    second: dark_skinned_knight_26
+  - first:
+      213: -533422228196996853
+    second: dark_skinned_knight_27
+  - first:
+      213: -7973340975359667181
+    second: dark_skinned_knight_28
+  - first:
+      213: 5323916408752037677
+    second: dark_skinned_knight_29
+  - first:
+      213: -8068373671835506857
+    second: dark_skinned_knight_30
+  - first:
+      213: -7095400023751094406
+    second: dark_skinned_knight_31
+  - first:
+      213: 1949466565383798827
+    second: dark_skinned_knight_32
+  - first:
+      213: 5235282404151630857
+    second: dark_skinned_knight_33
+  - first:
+      213: 9213403399629446504
+    second: dark_skinned_knight_34
+  - first:
+      213: 281484977303374252
+    second: dark_skinned_knight_35
+  - first:
+      213: -6613450689963134348
+    second: dark_skinned_knight_36
+  - first:
+      213: -234842431689076270
+    second: dark_skinned_knight_37
+  - first:
+      213: 7389012704114606175
+    second: dark_skinned_knight_38
+  - first:
+      213: 729322096730719684
+    second: dark_skinned_knight_39
+  - first:
+      213: 82618103454993649
+    second: dark_skinned_knight_40
+  - first:
+      213: -5498189222645951293
+    second: dark_skinned_knight_41
+  - first:
+      213: 7409045723953409259
+    second: dark_skinned_knight_42
+  - first:
+      213: -2153431593133240301
+    second: dark_skinned_knight_43
+  - first:
+      213: -4720611987374993167
+    second: dark_skinned_knight_44
+  - first:
+      213: 4482987513095918211
+    second: dark_skinned_knight_45
+  - first:
+      213: -298688530582499219
+    second: dark_skinned_knight_46
+  - first:
+      213: 7922851223890928371
+    second: dark_skinned_knight_47
+  - first:
+      213: 559042738136328029
+    second: dark_skinned_knight_48
+  - first:
+      213: -7183194240533015082
+    second: dark_skinned_knight_49
+  - first:
+      213: -8067132384729133627
+    second: dark_skinned_knight_50
+  - first:
+      213: -5924042456121057320
+    second: dark_skinned_knight_51
+  - first:
+      213: -2260628882114378217
+    second: dark_skinned_knight_52
+  - first:
+      213: -6117751249861578706
+    second: dark_skinned_knight_53
+  - first:
+      213: -3883385648388747736
+    second: dark_skinned_knight_54
+  - first:
+      213: 3084501705035499225
+    second: dark_skinned_knight_55
+  - first:
+      213: -683682374928992727
+    second: dark_skinned_knight_56
+  - first:
+      213: -7268485958771717106
+    second: dark_skinned_knight_57
+  - first:
+      213: 1804836389769880428
+    second: dark_skinned_knight_58
+  - first:
+      213: 1220543949263980096
+    second: dark_skinned_knight_59
+  - first:
+      213: -6819129791943737049
+    second: dark_skinned_knight_60
+  - first:
+      213: -7059818108966338013
+    second: dark_skinned_knight_61
+  - first:
+      213: 3798682163264957016
+    second: dark_skinned_knight_62
+  - first:
+      213: -3907173910013691595
+    second: dark_skinned_knight_63
+  - first:
+      213: 8589584937107413626
+    second: dark_skinned_knight_64
+  - first:
+      213: -6234475206906223045
+    second: dark_skinned_knight_65
+  - first:
+      213: 3640121647029727204
+    second: dark_skinned_knight_66
+  - first:
+      213: 6585131203152674709
+    second: dark_skinned_knight_67
+  - first:
+      213: 7141823306631896290
+    second: dark_skinned_knight_68
+  - first:
+      213: 5425156487715739605
+    second: dark_skinned_knight_69
+  - first:
+      213: -8449550815561483351
+    second: dark_skinned_knight_70
+  - first:
+      213: 6821756887394819410
+    second: dark_skinned_knight_71
+  - first:
+      213: 5091591873732764030
+    second: dark_skinned_knight_72
+  - first:
+      213: 665432324721245477
+    second: dark_skinned_knight_73
+  - first:
+      213: -185911777633669346
+    second: dark_skinned_knight_74
+  - first:
+      213: -3113406903771068532
+    second: dark_skinned_knight_75
+  - first:
+      213: -8306413691920150910
+    second: dark_skinned_knight_76
+  - first:
+      213: -34745754688083629
+    second: dark_skinned_knight_77
+  - first:
+      213: -4064404311121991088
+    second: dark_skinned_knight_78
+  - first:
+      213: 1861628667576229362
+    second: dark_skinned_knight_79
+  - first:
+      213: 6699772567475882795
+    second: dark_skinned_knight_80
+  - first:
+      213: -3076797506538625328
+    second: dark_skinned_knight_81
+  - first:
+      213: -1743147634396214438
+    second: dark_skinned_knight_82
+  - first:
+      213: -2847442235063649741
+    second: dark_skinned_knight_83
+  - first:
+      213: -5597074112466532580
+    second: dark_skinned_knight_84
+  - first:
+      213: -6728208661271457829
+    second: dark_skinned_knight_85
+  - first:
+      213: -1806440705902682315
+    second: dark_skinned_knight_86
+  - first:
+      213: 6554419841971870177
+    second: dark_skinned_knight_87
+  - first:
+      213: -172284329257327665
+    second: dark_skinned_knight_88
+  - first:
+      213: -7406781683009419291
+    second: dark_skinned_knight_89
+  - first:
+      213: 6614786790646507800
+    second: dark_skinned_knight_90
+  - first:
+      213: -6960068621613239157
+    second: dark_skinned_knight_91
+  - first:
+      213: 3817204149805782742
+    second: dark_skinned_knight_92
+  - first:
+      213: 5701048974554417486
+    second: dark_skinned_knight_93
+  - first:
+      213: 6029598005445807267
+    second: dark_skinned_knight_94
+  - first:
+      213: 8387175679105489827
+    second: dark_skinned_knight_95
+  - first:
+      213: -145364197245921349
+    second: dark_skinned_knight_96
+  - first:
+      213: 5356082856216557160
+    second: dark_skinned_knight_97
+  - first:
+      213: 1990696683605148353
+    second: dark_skinned_knight_98
+  - first:
+      213: 9121230642862319890
+    second: dark_skinned_knight_99
+  - first:
+      213: 699470509122988486
+    second: dark_skinned_knight_100
+  - first:
+      213: 5497544636121214459
+    second: dark_skinned_knight_101
+  - first:
+      213: 3540145213270920423
+    second: dark_skinned_knight_102
+  - first:
+      213: 5903330048749623985
+    second: dark_skinned_knight_103
+  - first:
+      213: -8606780215538626094
+    second: dark_skinned_knight_104
+  - first:
+      213: -6912984723093979732
+    second: dark_skinned_knight_105
+  - first:
+      213: 2461909799420792149
+    second: dark_skinned_knight_106
+  - first:
+      213: 46642182739512981
+    second: dark_skinned_knight_107
+  - first:
+      213: 1745439240265601535
+    second: dark_skinned_knight_108
+  - first:
+      213: 5424946387517757319
+    second: dark_skinned_knight_109
+  - first:
+      213: -4671976780938393153
+    second: dark_skinned_knight_110
+  - first:
+      213: -5921864096800797406
+    second: dark_skinned_knight_111
+  - first:
+      213: -8306417679517188462
+    second: dark_skinned_knight_112
+  - first:
+      213: -4248426398358017141
+    second: dark_skinned_knight_113
+  - first:
+      213: 6003512532989984816
+    second: dark_skinned_knight_114
+  - first:
+      213: -2862360304450244093
+    second: dark_skinned_knight_115
+  - first:
+      213: 1248794873569136302
+    second: dark_skinned_knight_116
+  - first:
+      213: -6747073558476049809
+    second: dark_skinned_knight_117
+  - first:
+      213: 193825335406431032
+    second: dark_skinned_knight_118
+  - first:
+      213: -6942454935149863704
+    second: dark_skinned_knight_119
+  - first:
+      213: 808100316606818048
+    second: dark_skinned_knight_120
+  - first:
+      213: 8673105050541119113
+    second: dark_skinned_knight_121
+  - first:
+      213: -1241754199017722287
+    second: dark_skinned_knight_122
+  - first:
+      213: 6180302508876861372
+    second: dark_skinned_knight_123
+  - first:
+      213: -8862614790931503529
+    second: dark_skinned_knight_124
+  - first:
+      213: 486894036539544325
+    second: dark_skinned_knight_125
+  - first:
+      213: -4851732926749417030
+    second: dark_skinned_knight_126
+  - first:
+      213: 4179790172044975911
+    second: dark_skinned_knight_127
+  - first:
+      213: -5781731122722754085
+    second: dark_skinned_knight_128
+  - first:
+      213: -7319056790897494809
+    second: dark_skinned_knight_129
+  - first:
+      213: 5826984768645196580
+    second: dark_skinned_knight_130
+  - first:
+      213: 5604931917597365656
+    second: dark_skinned_knight_131
+  - first:
+      213: -2055449257055066012
+    second: dark_skinned_knight_132
+  - first:
+      213: 3843647462315120130
+    second: dark_skinned_knight_133
+  - first:
+      213: 2366470948720586705
+    second: dark_skinned_knight_134
+  - first:
+      213: -886625761973535027
+    second: dark_skinned_knight_135
+  - first:
+      213: -8241326957450724012
+    second: dark_skinned_knight_136
+  - first:
+      213: -633710453466909225
+    second: dark_skinned_knight_137
+  - first:
+      213: 2078896298207687843
+    second: dark_skinned_knight_138
+  - first:
+      213: -5102265211034883647
+    second: dark_skinned_knight_139
+  - first:
+      213: -5179720937291530318
+    second: dark_skinned_knight_140
+  - first:
+      213: -93502701762608945
+    second: dark_skinned_knight_141
+  - first:
+      213: -6871616496614905515
+    second: dark_skinned_knight_142
+  - first:
+      213: 2057768388364945064
+    second: dark_skinned_knight_143
+  - first:
+      213: 200846515222649518
+    second: dark_skinned_knight_144
+  - first:
+      213: 5162656239648700189
+    second: dark_skinned_knight_145
+  - first:
+      213: -6292984186196421120
+    second: dark_skinned_knight_146
+  - first:
+      213: -8617539346471856914
+    second: dark_skinned_knight_147
+  - first:
+      213: -4559094917192872649
+    second: dark_skinned_knight_148
+  - first:
+      213: 8148709466151450274
+    second: dark_skinned_knight_149
+  - first:
+      213: -5744267129463387008
+    second: dark_skinned_knight_150
+  - first:
+      213: 5701690836956049304
+    second: dark_skinned_knight_151
+  - first:
+      213: -1078772487003822873
+    second: dark_skinned_knight_152
+  - first:
+      213: -5118608741158369637
+    second: dark_skinned_knight_153
+  - first:
+      213: -7510288002440096019
+    second: dark_skinned_knight_154
+  - first:
+      213: -3896286613413815007
+    second: dark_skinned_knight_155
+  - first:
+      213: 3126850375116390142
+    second: dark_skinned_knight_156
+  - first:
+      213: -5118555913999144688
+    second: dark_skinned_knight_157
+  - first:
+      213: -970619190791283689
+    second: dark_skinned_knight_158
+  - first:
+      213: 143248915133765974
+    second: dark_skinned_knight_159
+  - first:
+      213: 3480685402459709638
+    second: dark_skinned_knight_160
+  - first:
+      213: 6849615821764678107
+    second: dark_skinned_knight_161
+  - first:
+      213: 3640579302706271851
+    second: dark_skinned_knight_162
+  - first:
+      213: 6147683758653098558
+    second: dark_skinned_knight_163
+  - first:
+      213: 2478063190775923515
+    second: dark_skinned_knight_164
+  - first:
+      213: -1434503813057262700
+    second: dark_skinned_knight_165
+  - first:
+      213: -2647434745057825317
+    second: dark_skinned_knight_166
+  - first:
+      213: 3098521706600640346
+    second: dark_skinned_knight_167
+  - first:
+      213: 7667013934313345138
+    second: dark_skinned_knight_168
+  - first:
+      213: -6048978395907096033
+    second: dark_skinned_knight_169
+  - first:
+      213: -6882523653354263733
+    second: dark_skinned_knight_170
+  - first:
+      213: 6679028816210265423
+    second: dark_skinned_knight_171
+  - first:
+      213: 3814917757847008340
+    second: dark_skinned_knight_172
+  - first:
+      213: -3937181293368258423
+    second: dark_skinned_knight_173
+  - first:
+      213: -5148824949634834882
+    second: dark_skinned_knight_174
+  - first:
+      213: 9083744775826496341
+    second: dark_skinned_knight_175
+  - first:
+      213: 8096847330173649681
+    second: dark_skinned_knight_176
+  - first:
+      213: 1072773853016752302
+    second: dark_skinned_knight_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark_skinned_knight_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1729
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67a1c76c389eb860800000000000000
+      internalID: 7547637410725734254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1729
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916681766180cf6b0800000000000000
+      internalID: -5261321372363626983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1729
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d200ef4bd710f5f0800000000000000
+      internalID: -725053309301292331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1729
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1477f83d8b6ca60800000000000000
+      internalID: 7694040232193638821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1729
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabfc9fa1719f06f0800000000000000
+      internalID: -716193898264986708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1729
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6ee78da17eb4dc0800000000000000
+      internalID: -3653572570193664281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1729
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad4398a3e9e69d00800000000000000
+      internalID: 979227132994735524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1664
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dec3083603e0320800000000000000
+      internalID: 2526009644912799129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1664
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf665fb3b15e810800000000000000
+      internalID: 1793869970911198694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1664
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe9ac405d6941d00800000000000000
+      internalID: 942544063679864568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1664
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0448b654d9a410620800000000000000
+      internalID: 2738552087752967232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1664
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5573638e1c3856c0800000000000000
+      internalID: -4154504554498263715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1664
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3092384aa0be64e80800000000000000
+      internalID: -8194604041011779325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1664
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f05add722c7e67e0800000000000000
+      internalID: -1770341115927834382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1599
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc49f99c18c9d0a60800000000000000
+      internalID: 7641936223964992715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1599
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadc543a48517a6a0800000000000000
+      internalID: -6438153482883707474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1599
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328bf53bc94c4a030800000000000000
+      internalID: 3505142587304425507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1599
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acac24ae080202760800000000000000
+      internalID: 7430975123219466954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1599
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a2071a30f515ac0800000000000000
+      internalID: -3868206135736522204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1599
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da0b46c74ca181b0800000000000000
+      internalID: -5656050232731170090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1599
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7221052f8ad00fe70800000000000000
+      internalID: 9146825862460477991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1536
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbef2a98c5f1bd20800000000000000
+      internalID: 3292683044513639383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1536
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e08813d7f8aac60800000000000000
+      internalID: 7830228670001712648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1536
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331187ae794558750800000000000000
+      internalID: 6306539864652779827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1536
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2520f73b0d262df60800000000000000
+      internalID: 8057611331823403602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1536
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c5cbbe02c9c73e0800000000000000
+      internalID: -2054595664779912064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1536
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e89630487b4066a0800000000000000
+      internalID: -6458078885803812635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1471
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0945054f47e898f0800000000000000
+      internalID: -533422228196996853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1536
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314de92a0a0095190800000000000000
+      internalID: -7973340975359667181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1473
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fd98534c952e940800000000000000
+      internalID: 5323916408752037677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1471
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757612fb4e0670090800000000000000
+      internalID: -8068373671835506857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1471
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f840d7543188d90800000000000000
+      internalID: -7095400023751094406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1471
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c3333385ed0b10800000000000000
+      internalID: 1949466565383798827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1471
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c9f4edb9577a840800000000000000
+      internalID: 5235282404151630857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1471
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d1a47c3959cdf70800000000000000
+      internalID: 9213403399629446504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1408
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9c6c1781908e300800000000000000
+      internalID: 281484977303374252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1408
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4727f2513ad4834a0800000000000000
+      internalID: -6613450689963134348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1408
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1dbf87d0cadbcf0800000000000000
+      internalID: -234842431689076270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1407
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50899dd7eb0b8660800000000000000
+      internalID: 7389012704114606175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1407
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c54a7635921f1a00800000000000000
+      internalID: 729322096730719684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1407
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc83743ab4852100800000000000000
+      internalID: 82618103454993649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1407
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c49e4c580282b3b0800000000000000
+      internalID: -5498189222645951293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1343
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becaed4c4d732d660800000000000000
+      internalID: 7409045723953409259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1344
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310903b10697d12e0800000000000000
+      internalID: -2153431593133240301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1344
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0101a88640d7eb0800000000000000
+      internalID: -4720611987374993167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_45
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1344
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382189a2465c63e30800000000000000
+      internalID: 4482987513095918211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1344
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60952c2d58dadbf0800000000000000
+      internalID: -298688530582499219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1343
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2a948063f93fd60800000000000000
+      internalID: 7922851223890928371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1344
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a0ec886e12c700800000000000000
+      internalID: 559042738136328029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1280
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d56c75ea205c90800000000000000
+      internalID: -7183194240533015082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1280
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd8b2c66d9cb0090800000000000000
+      internalID: -8067132384729133627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1280
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5298e5c299cda0800000000000000
+      internalID: -5924042456121057320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1279
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71685905202a0a0e0800000000000000
+      internalID: -2260628882114378217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1279
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e207cc7c6a1691ba0800000000000000
+      internalID: -6117751249861578706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_54
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1279
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e40fde3517b1ac0800000000000000
+      internalID: -3883385648388747736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1279
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d64ab555f95eca20800000000000000
+      internalID: 3084501705035499225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1215
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926792790821386f0800000000000000
+      internalID: -683682374928992727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_57
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1218
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c4f74d786212b90800000000000000
+      internalID: -7268485958771717106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_58
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1218
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63aee152211c0910800000000000000
+      internalID: 1804836389769880428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1217
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c1a0514e30f010800000000000000
+      internalID: 1220543949263980096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1216
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72109e165959d51a0800000000000000
+      internalID: -6819129791943737049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1217
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322013c95dc760e90800000000000000
+      internalID: -7059818108966338013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_62
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1218
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a250c1d41a7b430800000000000000
+      internalID: 3798682163264957016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1151
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539b5f9a70ee6c9c0800000000000000
+      internalID: -3907173910013691595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1152
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a5550adf5543770800000000000000
+      internalID: 8589584937107413626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36ef5bb4d1ba79a0800000000000000
+      internalID: -6234475206906223045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1154
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efaa6e0a5f448230800000000000000
+      internalID: 3640121647029727204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1154
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f714390f5136b50800000000000000
+      internalID: 6585131203152674709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_68
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1153
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec5668557adc1360800000000000000
+      internalID: 7141823306631896290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1153
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7d335f4170a4b40800000000000000
+      internalID: 5425156487715739605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1088
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab78d60d4a2dba80800000000000000
+      internalID: -8449550815561483351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1087
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d1e31febfbbae50800000000000000
+      internalID: 6821756887394819410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1087
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e716b1f25d7f8a640800000000000000
+      internalID: 5091591873732764030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1088
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d72197c271c3900800000000000000
+      internalID: 665432324721245477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1088
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f659629328b6df0800000000000000
+      internalID: -185911777633669346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1087
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c870a73aae4fac4d0800000000000000
+      internalID: -3113406903771068532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1087
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e88a7a1c0b9bc80800000000000000
+      internalID: -8306413691920150910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592d529bee848ff0800000000000000
+      internalID: -34745754688083629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1024
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae10c20d55897c0800000000000000
+      internalID: -4064404311121991088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_79
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1025
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd909ae865d5d910800000000000000
+      internalID: 1861628667576229362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_80
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1026
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b8e4837af5afc50800000000000000
+      internalID: 6699772567475882795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1026
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d625f828f40d45d0800000000000000
+      internalID: -3076797506538625328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_82
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1025
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b40cc46781fc7e0800000000000000
+      internalID: -1743147634396214438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_83
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1025
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3694af5adb78d0800000000000000
+      internalID: -2847442235063649741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 961
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17c5e0dfb23352b0800000000000000
+      internalID: -5597074112466532580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 960
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf4532ced990a2a0800000000000000
+      internalID: -6728208661271457829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 961
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5dd8bfbb3ee6e0800000000000000
+      internalID: -1806440705902682315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 961
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e951859e1af5fa50800000000000000
+      internalID: 6554419841971870177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 960
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3204ab05ceb9df0800000000000000
+      internalID: -172284329257327665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_89
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 960
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e78a575d43d53990800000000000000
+      internalID: -7406781683009419291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_90
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 960
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196e691a817ccb50800000000000000
+      internalID: 6614786790646507800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 897
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b847664f67ed86f90800000000000000
+      internalID: -6960068621613239157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 897
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6125823fe69f430800000000000000
+      internalID: 3817204149805782742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 897
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49cb6f36d13e1f40800000000000000
+      internalID: 5701048974554417486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 896
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac4005907f6da350800000000000000
+      internalID: 6029598005445807267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 895
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abd0edc7db356470800000000000000
+      internalID: 8387175679105489827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_96
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 895
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d81468009bfdf0800000000000000
+      internalID: -145364197245921349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_97
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 895
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866f850eaf0a45a40800000000000000
+      internalID: 5356082856216557160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c245d9261060ab10800000000000000
+      internalID: 1990696683605148353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219673e71fe159e70800000000000000
+      internalID: 9121230642862319890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 831
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9232bd8b405b900800000000000000
+      internalID: 699470509122988486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 831
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdebd428b33b4c40800000000000000
+      internalID: 5497544636121214459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_102
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 831
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec0052a05f112130800000000000000
+      internalID: 3540145213270920423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_103
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 831
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba5c93f667dce150800000000000000
+      internalID: 5903330048749623985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_104
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 832
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1d5f0aef29e8880800000000000000
+      internalID: -8606780215538626094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 769
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadf74a55052010a0800000000000000
+      internalID: -6912984723093979732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_106
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 769
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d87873be57a2220800000000000000
+      internalID: 2461909799420792149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eccbd61d4b5a000800000000000000
+      internalID: 46642182739512981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 768
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff11f05cdbb093810800000000000000
+      internalID: 1745439240265601535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_109
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 767
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787d8813ff7494b40800000000000000
+      internalID: 5424946387517757319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_110
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 767
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb94b45feddc92fb0800000000000000
+      internalID: -4671976780938393153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_111
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 767
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d8c06baff41dda0800000000000000
+      internalID: -5921864096800797406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 704
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e7a58312da9bc80800000000000000
+      internalID: -8306417679517188462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_113
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 704
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6a7723be8a05c0800000000000000
+      internalID: -4248426398358017141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_114
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 705
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030497d37d2c05350800000000000000
+      internalID: 6003512532989984816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 703
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3027012f77ad648d0800000000000000
+      internalID: -2862360304450244093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_116
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 703
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeca64325c945110800000000000000
+      internalID: 1248794873569136302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_117
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 703
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ba9998549d52a0800000000000000
+      internalID: -6747073558476049809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_118
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 703
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b0f599d1b90b200800000000000000
+      internalID: 193825335406431032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1c39e40277af90800000000000000
+      internalID: -6942454935149863704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 639
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007ea3ad4f2f63b00800000000000000
+      internalID: 808100316606818048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_121
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 640
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9865625671f0d5870800000000000000
+      internalID: 8673105050541119113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 640
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ee235922764cee0800000000000000
+      internalID: -1241754199017722287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_123
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 640
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8f0e1368d4c550800000000000000
+      internalID: 6180302508876861372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_124
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 639
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756a765cdcaa10580800000000000000
+      internalID: -8862614790931503529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_125
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 639
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503123beb8bc1c600800000000000000
+      internalID: 486894036539544325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_126
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1e804db9e2bacb0800000000000000
+      internalID: -4851732926749417030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 576
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fd8681409910a30800000000000000
+      internalID: 4179790172044975911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_128
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 575
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd13a434d2a23cfa0800000000000000
+      internalID: -5781731122722754085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_129
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 576
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4f4af60ac7d6a90800000000000000
+      internalID: -7319056790897494809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_130
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 577
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b65be36cb9dd050800000000000000
+      internalID: 5826984768645196580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_131
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 575
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895d3a202e7b8cd40800000000000000
+      internalID: 5604931917597365656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_132
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 575
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468646b7ac39973e0800000000000000
+      internalID: -2055449257055066012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 511
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206df11a001675530800000000000000
+      internalID: 3843647462315120130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 511
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa5cd2ac467d020800000000000000
+      internalID: 2366470948720586705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_135
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 512
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce7bd8219212b3f0800000000000000
+      internalID: -886625761973535027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_136
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 512
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d7c4febcce0ad80800000000000000
+      internalID: -8241326957450724012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 512
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d537aa33bb9437f0800000000000000
+      internalID: -633710453466909225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_138
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 511
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a43b833b29b9dc10800000000000000
+      internalID: 2078896298207687843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_139
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 511
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9ae62d2dc1139b0800000000000000
+      internalID: -5102265211034883647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_140
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 447
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb519304fed18b0800000000000000
+      internalID: -5179720937291530318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_141
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 447
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc086e3c9cfc3bef0800000000000000
+      internalID: -93502701762608945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_142
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 447
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559ed86243d13a0a0800000000000000
+      internalID: -6871616496614905515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_143
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 447
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6458a5279ae8c10800000000000000
+      internalID: 2057768388364945064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_144
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 447
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa983a67dc89c200800000000000000
+      internalID: 200846515222649518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_145
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 447
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f6bd3f7075a740800000000000000
+      internalID: 5162656239648700189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_146
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 447
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069c9c6934daa8a0800000000000000
+      internalID: -6292984186196421120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4d79f3f99586880800000000000000
+      internalID: -8617539346471856914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 383
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d0e63f357dab0c0800000000000000
+      internalID: -4559094917192872649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_149
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 383
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f1d3f518061170800000000000000
+      internalID: 8148709466151450274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 383
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cc16dea734840b0800000000000000
+      internalID: -5744267129463387008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_151
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 383
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f6ddb7b99702f40800000000000000
+      internalID: 5701690836956049304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 383
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e42cae732e6701f0800000000000000
+      internalID: -1078772487003822873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_153
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 383
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96cb0f287c07f8b0800000000000000
+      internalID: -5118608741158369637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_154
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 319
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de61ead5ad816c790800000000000000
+      internalID: -7510288002440096019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_155
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 319
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d1c50f7fb9de9c0800000000000000
+      internalID: -3896286613413815007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_156
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 319
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efefb9279ddc46b20800000000000000
+      internalID: 3126850375116390142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_157
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 319
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192b17f38c37f8b0800000000000000
+      internalID: -5118555913999144688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_158
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 319
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c55b01dfaa782f0800000000000000
+      internalID: -970619190791283689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_159
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 319
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659120d112cecf100800000000000000
+      internalID: 143248915133765974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_160
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 319
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0af7c9ee0ed4030800000000000000
+      internalID: 3480685402459709638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1dd209c49be0f50800000000000000
+      internalID: 6849615821764678107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_162
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 255
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b665272569fe58230800000000000000
+      internalID: 3640579302706271851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_163
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 255
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ac4f18ec5f05550800000000000000
+      internalID: 6147683758653098558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b338b29b759d36220800000000000000
+      internalID: 2478063190775923515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_165
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 255
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b47c1e16e971ce0800000000000000
+      internalID: -1434503813057262700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_166
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 255
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd2dc6402c624bd0800000000000000
+      internalID: -2647434745057825317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_167
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 255
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa4c25319200b20800000000000000
+      internalID: 3098521706600640346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_168
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27097ba3d84b66a60800000000000000
+      internalID: 7667013934313345138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1202f1a236bd0ca0800000000000000
+      internalID: -6048978395907096033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_170
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b6893d33d5c70a0800000000000000
+      internalID: -6882523653354263733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_171
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 191
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f458fc2425da0bc50800000000000000
+      internalID: 6679028816210265423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_172
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 194
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454fccb0d7f41f430800000000000000
+      internalID: 3814917757847008340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_173
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d87849725c59c0800000000000000
+      internalID: -3937181293368258423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_174
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 192
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed85aecf2bb88b0800000000000000
+      internalID: -5148824949634834882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_175
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bd271feb1ff0e70800000000000000
+      internalID: 9083744775826496341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11302937fb7cd5070800000000000000
+      internalID: 8096847330173649681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_skinned_knight_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea00461b22243ee00800000000000000
+      internalID: 1072773853016752302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dark_skinned_knight_0: 7547637410725734254
+      dark_skinned_knight_1: -5261321372363626983
+      dark_skinned_knight_10: 2738552087752967232
+      dark_skinned_knight_100: 699470509122988486
+      dark_skinned_knight_101: 5497544636121214459
+      dark_skinned_knight_102: 3540145213270920423
+      dark_skinned_knight_103: 5903330048749623985
+      dark_skinned_knight_104: -8606780215538626094
+      dark_skinned_knight_105: -6912984723093979732
+      dark_skinned_knight_106: 2461909799420792149
+      dark_skinned_knight_107: 46642182739512981
+      dark_skinned_knight_108: 1745439240265601535
+      dark_skinned_knight_109: 5424946387517757319
+      dark_skinned_knight_11: -4154504554498263715
+      dark_skinned_knight_110: -4671976780938393153
+      dark_skinned_knight_111: -5921864096800797406
+      dark_skinned_knight_112: -8306417679517188462
+      dark_skinned_knight_113: -4248426398358017141
+      dark_skinned_knight_114: 6003512532989984816
+      dark_skinned_knight_115: -2862360304450244093
+      dark_skinned_knight_116: 1248794873569136302
+      dark_skinned_knight_117: -6747073558476049809
+      dark_skinned_knight_118: 193825335406431032
+      dark_skinned_knight_119: -6942454935149863704
+      dark_skinned_knight_12: -8194604041011779325
+      dark_skinned_knight_120: 808100316606818048
+      dark_skinned_knight_121: 8673105050541119113
+      dark_skinned_knight_122: -1241754199017722287
+      dark_skinned_knight_123: 6180302508876861372
+      dark_skinned_knight_124: -8862614790931503529
+      dark_skinned_knight_125: 486894036539544325
+      dark_skinned_knight_126: -4851732926749417030
+      dark_skinned_knight_127: 4179790172044975911
+      dark_skinned_knight_128: -5781731122722754085
+      dark_skinned_knight_129: -7319056790897494809
+      dark_skinned_knight_13: -1770341115927834382
+      dark_skinned_knight_130: 5826984768645196580
+      dark_skinned_knight_131: 5604931917597365656
+      dark_skinned_knight_132: -2055449257055066012
+      dark_skinned_knight_133: 3843647462315120130
+      dark_skinned_knight_134: 2366470948720586705
+      dark_skinned_knight_135: -886625761973535027
+      dark_skinned_knight_136: -8241326957450724012
+      dark_skinned_knight_137: -633710453466909225
+      dark_skinned_knight_138: 2078896298207687843
+      dark_skinned_knight_139: -5102265211034883647
+      dark_skinned_knight_14: 7641936223964992715
+      dark_skinned_knight_140: -5179720937291530318
+      dark_skinned_knight_141: -93502701762608945
+      dark_skinned_knight_142: -6871616496614905515
+      dark_skinned_knight_143: 2057768388364945064
+      dark_skinned_knight_144: 200846515222649518
+      dark_skinned_knight_145: 5162656239648700189
+      dark_skinned_knight_146: -6292984186196421120
+      dark_skinned_knight_147: -8617539346471856914
+      dark_skinned_knight_148: -4559094917192872649
+      dark_skinned_knight_149: 8148709466151450274
+      dark_skinned_knight_15: -6438153482883707474
+      dark_skinned_knight_150: -5744267129463387008
+      dark_skinned_knight_151: 5701690836956049304
+      dark_skinned_knight_152: -1078772487003822873
+      dark_skinned_knight_153: -5118608741158369637
+      dark_skinned_knight_154: -7510288002440096019
+      dark_skinned_knight_155: -3896286613413815007
+      dark_skinned_knight_156: 3126850375116390142
+      dark_skinned_knight_157: -5118555913999144688
+      dark_skinned_knight_158: -970619190791283689
+      dark_skinned_knight_159: 143248915133765974
+      dark_skinned_knight_16: 3505142587304425507
+      dark_skinned_knight_160: 3480685402459709638
+      dark_skinned_knight_161: 6849615821764678107
+      dark_skinned_knight_162: 3640579302706271851
+      dark_skinned_knight_163: 6147683758653098558
+      dark_skinned_knight_164: 2478063190775923515
+      dark_skinned_knight_165: -1434503813057262700
+      dark_skinned_knight_166: -2647434745057825317
+      dark_skinned_knight_167: 3098521706600640346
+      dark_skinned_knight_168: 7667013934313345138
+      dark_skinned_knight_169: -6048978395907096033
+      dark_skinned_knight_17: 7430975123219466954
+      dark_skinned_knight_170: -6882523653354263733
+      dark_skinned_knight_171: 6679028816210265423
+      dark_skinned_knight_172: 3814917757847008340
+      dark_skinned_knight_173: -3937181293368258423
+      dark_skinned_knight_174: -5148824949634834882
+      dark_skinned_knight_175: 9083744775826496341
+      dark_skinned_knight_176: 8096847330173649681
+      dark_skinned_knight_177: 1072773853016752302
+      dark_skinned_knight_18: -3868206135736522204
+      dark_skinned_knight_19: -5656050232731170090
+      dark_skinned_knight_2: -725053309301292331
+      dark_skinned_knight_20: 9146825862460477991
+      dark_skinned_knight_21: 3292683044513639383
+      dark_skinned_knight_22: 7830228670001712648
+      dark_skinned_knight_23: 6306539864652779827
+      dark_skinned_knight_24: 8057611331823403602
+      dark_skinned_knight_25: -2054595664779912064
+      dark_skinned_knight_26: -6458078885803812635
+      dark_skinned_knight_27: -533422228196996853
+      dark_skinned_knight_28: -7973340975359667181
+      dark_skinned_knight_29: 5323916408752037677
+      dark_skinned_knight_3: 7694040232193638821
+      dark_skinned_knight_30: -8068373671835506857
+      dark_skinned_knight_31: -7095400023751094406
+      dark_skinned_knight_32: 1949466565383798827
+      dark_skinned_knight_33: 5235282404151630857
+      dark_skinned_knight_34: 9213403399629446504
+      dark_skinned_knight_35: 281484977303374252
+      dark_skinned_knight_36: -6613450689963134348
+      dark_skinned_knight_37: -234842431689076270
+      dark_skinned_knight_38: 7389012704114606175
+      dark_skinned_knight_39: 729322096730719684
+      dark_skinned_knight_4: -716193898264986708
+      dark_skinned_knight_40: 82618103454993649
+      dark_skinned_knight_41: -5498189222645951293
+      dark_skinned_knight_42: 7409045723953409259
+      dark_skinned_knight_43: -2153431593133240301
+      dark_skinned_knight_44: -4720611987374993167
+      dark_skinned_knight_45: 4482987513095918211
+      dark_skinned_knight_46: -298688530582499219
+      dark_skinned_knight_47: 7922851223890928371
+      dark_skinned_knight_48: 559042738136328029
+      dark_skinned_knight_49: -7183194240533015082
+      dark_skinned_knight_5: -3653572570193664281
+      dark_skinned_knight_50: -8067132384729133627
+      dark_skinned_knight_51: -5924042456121057320
+      dark_skinned_knight_52: -2260628882114378217
+      dark_skinned_knight_53: -6117751249861578706
+      dark_skinned_knight_54: -3883385648388747736
+      dark_skinned_knight_55: 3084501705035499225
+      dark_skinned_knight_56: -683682374928992727
+      dark_skinned_knight_57: -7268485958771717106
+      dark_skinned_knight_58: 1804836389769880428
+      dark_skinned_knight_59: 1220543949263980096
+      dark_skinned_knight_6: 979227132994735524
+      dark_skinned_knight_60: -6819129791943737049
+      dark_skinned_knight_61: -7059818108966338013
+      dark_skinned_knight_62: 3798682163264957016
+      dark_skinned_knight_63: -3907173910013691595
+      dark_skinned_knight_64: 8589584937107413626
+      dark_skinned_knight_65: -6234475206906223045
+      dark_skinned_knight_66: 3640121647029727204
+      dark_skinned_knight_67: 6585131203152674709
+      dark_skinned_knight_68: 7141823306631896290
+      dark_skinned_knight_69: 5425156487715739605
+      dark_skinned_knight_7: 2526009644912799129
+      dark_skinned_knight_70: -8449550815561483351
+      dark_skinned_knight_71: 6821756887394819410
+      dark_skinned_knight_72: 5091591873732764030
+      dark_skinned_knight_73: 665432324721245477
+      dark_skinned_knight_74: -185911777633669346
+      dark_skinned_knight_75: -3113406903771068532
+      dark_skinned_knight_76: -8306413691920150910
+      dark_skinned_knight_77: -34745754688083629
+      dark_skinned_knight_78: -4064404311121991088
+      dark_skinned_knight_79: 1861628667576229362
+      dark_skinned_knight_8: 1793869970911198694
+      dark_skinned_knight_80: 6699772567475882795
+      dark_skinned_knight_81: -3076797506538625328
+      dark_skinned_knight_82: -1743147634396214438
+      dark_skinned_knight_83: -2847442235063649741
+      dark_skinned_knight_84: -5597074112466532580
+      dark_skinned_knight_85: -6728208661271457829
+      dark_skinned_knight_86: -1806440705902682315
+      dark_skinned_knight_87: 6554419841971870177
+      dark_skinned_knight_88: -172284329257327665
+      dark_skinned_knight_89: -7406781683009419291
+      dark_skinned_knight_9: 942544063679864568
+      dark_skinned_knight_90: 6614786790646507800
+      dark_skinned_knight_91: -6960068621613239157
+      dark_skinned_knight_92: 3817204149805782742
+      dark_skinned_knight_93: 5701048974554417486
+      dark_skinned_knight_94: 6029598005445807267
+      dark_skinned_knight_95: 8387175679105489827
+      dark_skinned_knight_96: -145364197245921349
+      dark_skinned_knight_97: 5356082856216557160
+      dark_skinned_knight_98: 1990696683605148353
+      dark_skinned_knight_99: 9121230642862319890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

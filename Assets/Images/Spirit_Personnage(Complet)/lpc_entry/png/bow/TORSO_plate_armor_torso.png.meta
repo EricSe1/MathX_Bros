@@ -258,6 +258,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1484,7 +1497,62 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_plate_armor_torso_0: 6672262679939173044
+      TORSO_plate_armor_torso_1: 4883774615339923409
+      TORSO_plate_armor_torso_10: 100710940197448820
+      TORSO_plate_armor_torso_11: -4882522929274777728
+      TORSO_plate_armor_torso_12: 1221890832742239694
+      TORSO_plate_armor_torso_13: -2371952809928041108
+      TORSO_plate_armor_torso_14: -3672112614484391136
+      TORSO_plate_armor_torso_15: -1136837855525632986
+      TORSO_plate_armor_torso_16: -6440410129591950998
+      TORSO_plate_armor_torso_17: 8334604075973015156
+      TORSO_plate_armor_torso_18: 1066748712710318379
+      TORSO_plate_armor_torso_19: 1163927918966826148
+      TORSO_plate_armor_torso_2: -2641225001756402965
+      TORSO_plate_armor_torso_20: 6833729581471319341
+      TORSO_plate_armor_torso_21: -6043891266211717191
+      TORSO_plate_armor_torso_22: -4416281296551105810
+      TORSO_plate_armor_torso_23: -4313984813856899565
+      TORSO_plate_armor_torso_24: 470909435207763196
+      TORSO_plate_armor_torso_25: 1469920364952547272
+      TORSO_plate_armor_torso_26: -884634593254750010
+      TORSO_plate_armor_torso_27: -831317233712651893
+      TORSO_plate_armor_torso_28: -6931781778138870211
+      TORSO_plate_armor_torso_29: 4087974339102926582
+      TORSO_plate_armor_torso_3: 9185067710101941575
+      TORSO_plate_armor_torso_30: 347787005230652974
+      TORSO_plate_armor_torso_31: 9210460687947533715
+      TORSO_plate_armor_torso_32: -5613866279256703760
+      TORSO_plate_armor_torso_33: -5836840003062774199
+      TORSO_plate_armor_torso_34: -5183954213552011977
+      TORSO_plate_armor_torso_35: 2971284950661288084
+      TORSO_plate_armor_torso_36: 7598313119358314610
+      TORSO_plate_armor_torso_37: 2217494774510150052
+      TORSO_plate_armor_torso_38: -452662897469526225
+      TORSO_plate_armor_torso_39: 8771395082244158720
+      TORSO_plate_armor_torso_4: 8691881905816392726
+      TORSO_plate_armor_torso_40: -797537012131654930
+      TORSO_plate_armor_torso_41: 8802142180047882901
+      TORSO_plate_armor_torso_42: -5375694435244260882
+      TORSO_plate_armor_torso_43: -6403263420683422476
+      TORSO_plate_armor_torso_44: 7555474317312980785
+      TORSO_plate_armor_torso_45: -3471312079652520618
+      TORSO_plate_armor_torso_46: -5965723721671882031
+      TORSO_plate_armor_torso_47: 6430338881116044392
+      TORSO_plate_armor_torso_48: 6714603693907661472
+      TORSO_plate_armor_torso_49: -5553940561139885224
+      TORSO_plate_armor_torso_5: -6771532914015592401
+      TORSO_plate_armor_torso_50: -1909445554248666649
+      TORSO_plate_armor_torso_51: 4300490104772755861
+      TORSO_plate_armor_torso_52: 6592572193183917938
+      TORSO_plate_armor_torso_53: -764224819234475597
+      TORSO_plate_armor_torso_54: 3312582180163216085
+      TORSO_plate_armor_torso_6: -7850535455942161906
+      TORSO_plate_armor_torso_7: -8557337150383242202
+      TORSO_plate_armor_torso_8: -1132399429559296643
+      TORSO_plate_armor_torso_9: 4255683559225458717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

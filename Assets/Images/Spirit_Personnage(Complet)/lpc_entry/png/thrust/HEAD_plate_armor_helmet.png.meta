@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_plate_armor_helmet_0: 4034188165546186228
+      HEAD_plate_armor_helmet_1: -923358455810626113
+      HEAD_plate_armor_helmet_10: 2507053897185205103
+      HEAD_plate_armor_helmet_11: -8462867598055222016
+      HEAD_plate_armor_helmet_12: -1063786167119475649
+      HEAD_plate_armor_helmet_13: 6623264768626534195
+      HEAD_plate_armor_helmet_14: -5204398138902054139
+      HEAD_plate_armor_helmet_15: 3593035719261339541
+      HEAD_plate_armor_helmet_16: -1650421688129673789
+      HEAD_plate_armor_helmet_17: -3537669788071350870
+      HEAD_plate_armor_helmet_18: -4860885702948445938
+      HEAD_plate_armor_helmet_19: 5811514110515535836
+      HEAD_plate_armor_helmet_2: 7270800277324687240
+      HEAD_plate_armor_helmet_20: 3302328589934348566
+      HEAD_plate_armor_helmet_21: -4784404118642574041
+      HEAD_plate_armor_helmet_22: -817955694248534593
+      HEAD_plate_armor_helmet_23: 1124863377325070749
+      HEAD_plate_armor_helmet_24: -3773653374446265337
+      HEAD_plate_armor_helmet_25: 8952560639695548765
+      HEAD_plate_armor_helmet_26: -8087481189245992266
+      HEAD_plate_armor_helmet_27: -4767025211203770594
+      HEAD_plate_armor_helmet_28: 2692718683949878922
+      HEAD_plate_armor_helmet_29: 7322503452545126546
+      HEAD_plate_armor_helmet_3: 6189337119549605492
+      HEAD_plate_armor_helmet_30: -4617981842148958009
+      HEAD_plate_armor_helmet_31: 2793320414540159590
+      HEAD_plate_armor_helmet_4: 2330352314598408518
+      HEAD_plate_armor_helmet_5: -6938262338515241087
+      HEAD_plate_armor_helmet_6: -1200271888866069961
+      HEAD_plate_armor_helmet_7: -7242695911623125259
+      HEAD_plate_armor_helmet_8: 624182282651356542
+      HEAD_plate_armor_helmet_9: -2635432896157751316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

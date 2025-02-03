@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -259,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_chain_armor_jacket_purple_0: 7741782441647093753
+      TORSO_chain_armor_jacket_purple_1: -7962882947289532377
+      TORSO_chain_armor_jacket_purple_2: -3751307702128146098
+      TORSO_chain_armor_jacket_purple_3: -1425220872978799328
+      TORSO_chain_armor_jacket_purple_4: -5827952501389133002
+      TORSO_chain_armor_jacket_purple_5: 5493785903439777459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -259,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_leather_armor_shirt_white_0: -4082484916860373939
+      TORSO_leather_armor_shirt_white_1: -4960312951486160978
+      TORSO_leather_armor_shirt_white_2: -3909362101229726822
+      TORSO_leather_armor_shirt_white_3: -8527442687098588620
+      TORSO_leather_armor_shirt_white_4: 8149614193824592280
+      TORSO_leather_armor_shirt_white_5: -7233160983372877864
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

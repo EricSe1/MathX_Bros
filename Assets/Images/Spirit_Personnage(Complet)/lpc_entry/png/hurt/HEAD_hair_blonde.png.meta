@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -259,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_hair_blonde_0: -7415893660062548086
+      HEAD_hair_blonde_1: -3014633940738268977
+      HEAD_hair_blonde_2: 402504390291882348
+      HEAD_hair_blonde_3: 647450099704228048
+      HEAD_hair_blonde_4: -7327726315870943282
+      HEAD_hair_blonde_5: -5547286814672647404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

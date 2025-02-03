@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1009,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BODY_skeleton_0: -741219643665213747
+      BODY_skeleton_1: -260040946835377574
+      BODY_skeleton_10: 1841817595971694963
+      BODY_skeleton_11: -6960302023829482440
+      BODY_skeleton_12: -7057640721343971578
+      BODY_skeleton_13: -2132126524159877453
+      BODY_skeleton_14: -4609831475300367520
+      BODY_skeleton_15: -4799604809865338137
+      BODY_skeleton_16: -848327046187568239
+      BODY_skeleton_17: -5864481937519431694
+      BODY_skeleton_18: 7797689050140567892
+      BODY_skeleton_19: -3851016518411673338
+      BODY_skeleton_2: -6336693289913559628
+      BODY_skeleton_20: -1958022603467462159
+      BODY_skeleton_21: -7905335449874020042
+      BODY_skeleton_22: -5468629267508159605
+      BODY_skeleton_23: -117389163748080426
+      BODY_skeleton_24: 6392629603707373526
+      BODY_skeleton_25: 752677681957282051
+      BODY_skeleton_26: -5837559175826525553
+      BODY_skeleton_27: -1782503442021355981
+      BODY_skeleton_28: 5296838497826127520
+      BODY_skeleton_29: -6268549674564086078
+      BODY_skeleton_3: 7258264759824131416
+      BODY_skeleton_30: 207686864736921424
+      BODY_skeleton_31: -8281493416742358596
+      BODY_skeleton_32: -1188747301311119058
+      BODY_skeleton_33: -4069024994596776358
+      BODY_skeleton_34: 8568399698914762092
+      BODY_skeleton_35: 4146308142426433368
+      BODY_skeleton_4: 1388016704927529941
+      BODY_skeleton_5: -7343071590831398774
+      BODY_skeleton_6: 8898200838001078079
+      BODY_skeleton_7: 4475818770162217952
+      BODY_skeleton_8: 4286294764975238719
+      BODY_skeleton_9: -4983107519436264953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
