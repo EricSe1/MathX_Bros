@@ -252,6 +252,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1434,7 +1447,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_chain_armor_hood_0: -8688506535905523239
+      HEAD_chain_armor_hood_1: 417189535898086405
+      HEAD_chain_armor_hood_10: -3657575944288522099
+      HEAD_chain_armor_hood_11: 2500208325893869542
+      HEAD_chain_armor_hood_12: -5612212147485929124
+      HEAD_chain_armor_hood_13: -6162313642783361064
+      HEAD_chain_armor_hood_14: -4717122288035519662
+      HEAD_chain_armor_hood_15: 6446625708667795345
+      HEAD_chain_armor_hood_16: 463817467745860241
+      HEAD_chain_armor_hood_17: 1890173015009201604
+      HEAD_chain_armor_hood_18: 1698210337716198372
+      HEAD_chain_armor_hood_19: 4273019189442534746
+      HEAD_chain_armor_hood_2: -5529445230084662810
+      HEAD_chain_armor_hood_20: 3890237063448903084
+      HEAD_chain_armor_hood_21: -6884856060602550972
+      HEAD_chain_armor_hood_22: 6594154134613086177
+      HEAD_chain_armor_hood_23: 4613375127050102278
+      HEAD_chain_armor_hood_24: 9176494439522036279
+      HEAD_chain_armor_hood_25: 6054842538840281862
+      HEAD_chain_armor_hood_26: 3784701901265222226
+      HEAD_chain_armor_hood_27: 2705921057921113726
+      HEAD_chain_armor_hood_28: 6192382053317739233
+      HEAD_chain_armor_hood_29: 1008008595829549747
+      HEAD_chain_armor_hood_3: 1998103755960132789
+      HEAD_chain_armor_hood_30: 4144469940155299692
+      HEAD_chain_armor_hood_31: -3759678617281757685
+      HEAD_chain_armor_hood_32: 3894066645049022887
+      HEAD_chain_armor_hood_33: 994541767817636117
+      HEAD_chain_armor_hood_34: 6173505312162903172
+      HEAD_chain_armor_hood_35: -1464661956554410194
+      HEAD_chain_armor_hood_36: -6049524742536439430
+      HEAD_chain_armor_hood_37: -7353779701644137775
+      HEAD_chain_armor_hood_38: 6058941974566198857
+      HEAD_chain_armor_hood_39: -8697228935942816147
+      HEAD_chain_armor_hood_4: -3074375883363882608
+      HEAD_chain_armor_hood_40: 5975988114307534459
+      HEAD_chain_armor_hood_41: 1335746349214048429
+      HEAD_chain_armor_hood_42: -7819475634540589217
+      HEAD_chain_armor_hood_43: 1084268525506469518
+      HEAD_chain_armor_hood_44: 2585641473783180578
+      HEAD_chain_armor_hood_45: 818236325511926349
+      HEAD_chain_armor_hood_46: 7563715628425369486
+      HEAD_chain_armor_hood_47: -8833644418511907592
+      HEAD_chain_armor_hood_48: -8644893330574769615
+      HEAD_chain_armor_hood_49: 6367422217104268044
+      HEAD_chain_armor_hood_5: 8635844856555220036
+      HEAD_chain_armor_hood_50: -328636879279627293
+      HEAD_chain_armor_hood_51: 8355946590408433281
+      HEAD_chain_armor_hood_52: 6645019223720918305
+      HEAD_chain_armor_hood_6: 9059568540914326147
+      HEAD_chain_armor_hood_7: -3499381069128131683
+      HEAD_chain_armor_hood_8: -2829384952185124159
+      HEAD_chain_armor_hood_9: -3401565782264049926
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

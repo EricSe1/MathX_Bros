@@ -198,6 +198,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -984,7 +997,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BELT_rope_0: -6104646590342317627
+      BELT_rope_1: 4893521143339036357
+      BELT_rope_10: -3690113388776976499
+      BELT_rope_11: -1947061103705314385
+      BELT_rope_12: -4918059337798033742
+      BELT_rope_13: 7552197543254706026
+      BELT_rope_14: -838047792638435761
+      BELT_rope_15: 8574344935123077922
+      BELT_rope_16: -4271678522279592070
+      BELT_rope_17: 2921282945845875322
+      BELT_rope_18: 2062046278510950843
+      BELT_rope_19: 1841345047248035431
+      BELT_rope_2: 3562948288019893220
+      BELT_rope_20: -9181959958986181468
+      BELT_rope_21: -1367848958668894936
+      BELT_rope_22: 1951773912687027453
+      BELT_rope_23: -2481215308191521187
+      BELT_rope_24: -6742471276233177636
+      BELT_rope_25: -6551393718462963799
+      BELT_rope_26: -8816562535405450755
+      BELT_rope_27: 8752349713829423859
+      BELT_rope_28: 2618563818873559922
+      BELT_rope_29: -889806567316997118
+      BELT_rope_3: 3940990570392457943
+      BELT_rope_30: 7196580260131892527
+      BELT_rope_31: -7857372202618381725
+      BELT_rope_32: 2006632377410826869
+      BELT_rope_33: -5091793664924966139
+      BELT_rope_34: -280307129156422468
+      BELT_rope_4: 5889822738347397676
+      BELT_rope_5: -983086907789711337
+      BELT_rope_6: 651659089937557487
+      BELT_rope_7: -6747175120553864004
+      BELT_rope_8: -2557471548669835060
+      BELT_rope_9: -5339526655956905053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

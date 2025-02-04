@@ -129,6 +129,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_plate_armor_arms_shoulders_0: -6352248666472491563
+      TORSO_plate_armor_arms_shoulders_1: -6211401863357967706
+      TORSO_plate_armor_arms_shoulders_10: 4642929705513970065
+      TORSO_plate_armor_arms_shoulders_11: 8688706899155267246
+      TORSO_plate_armor_arms_shoulders_2: -9151180739655840268
+      TORSO_plate_armor_arms_shoulders_3: -3834445295327623137
+      TORSO_plate_armor_arms_shoulders_4: 5082180861896291459
+      TORSO_plate_armor_arms_shoulders_5: -8820183282056347338
+      TORSO_plate_armor_arms_shoulders_6: -5463241246630563096
+      TORSO_plate_armor_arms_shoulders_7: 7919297102526304665
+      TORSO_plate_armor_arms_shoulders_8: -1370182804772583674
+      TORSO_plate_armor_arms_shoulders_9: 2203642271020507455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

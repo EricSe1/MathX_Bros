@@ -207,6 +207,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1059,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LEGS_plate_armor_pants_0: -6884528854389102824
+      LEGS_plate_armor_pants_1: -3321161214774454514
+      LEGS_plate_armor_pants_10: 4552994793950413325
+      LEGS_plate_armor_pants_11: -7723489777317282850
+      LEGS_plate_armor_pants_12: 3716202483100362721
+      LEGS_plate_armor_pants_13: 1341510418566048141
+      LEGS_plate_armor_pants_14: -4143426695375096732
+      LEGS_plate_armor_pants_15: 790822969482167882
+      LEGS_plate_armor_pants_16: -2151565104727373505
+      LEGS_plate_armor_pants_17: 1206261864901507668
+      LEGS_plate_armor_pants_18: 6326395862084789907
+      LEGS_plate_armor_pants_19: -8231361765915831809
+      LEGS_plate_armor_pants_2: 2218559522127718592
+      LEGS_plate_armor_pants_20: -5631816536292313768
+      LEGS_plate_armor_pants_21: 2328282439429234471
+      LEGS_plate_armor_pants_22: 4110617678586824178
+      LEGS_plate_armor_pants_23: -2120755869120981877
+      LEGS_plate_armor_pants_24: 1726173976221611073
+      LEGS_plate_armor_pants_25: 8094865337135767945
+      LEGS_plate_armor_pants_26: 3381621042772313730
+      LEGS_plate_armor_pants_27: -6716059723791104444
+      LEGS_plate_armor_pants_28: 3810598492808765944
+      LEGS_plate_armor_pants_29: -202547253086753927
+      LEGS_plate_armor_pants_3: -4976230345710756775
+      LEGS_plate_armor_pants_30: 5194272160779533884
+      LEGS_plate_armor_pants_31: 4413287624215924039
+      LEGS_plate_armor_pants_32: 8952978267965274545
+      LEGS_plate_armor_pants_33: 1594492510379794205
+      LEGS_plate_armor_pants_34: 6383704842758502638
+      LEGS_plate_armor_pants_35: -5813148373404767832
+      LEGS_plate_armor_pants_36: 1146831938388036751
+      LEGS_plate_armor_pants_37: -3434718562603740143
+      LEGS_plate_armor_pants_4: -3588027370628103949
+      LEGS_plate_armor_pants_5: 6715416647667226308
+      LEGS_plate_armor_pants_6: -4092380952285541375
+      LEGS_plate_armor_pants_7: 7358185254171586042
+      LEGS_plate_armor_pants_8: 7619923992816377535
+      LEGS_plate_armor_pants_9: 4363554591804808797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

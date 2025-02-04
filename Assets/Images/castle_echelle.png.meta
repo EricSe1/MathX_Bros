@@ -429,6 +429,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2909,7 +2922,119 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle_echelle_0: 3933837293585206130
+      castle_echelle_1: 8539961987477213099
+      castle_echelle_10: -4571813252931277872
+      castle_echelle_100: -4948173696556617607
+      castle_echelle_101: 3871080305371846285
+      castle_echelle_102: -4389326551184670896
+      castle_echelle_103: -3213687944949213339
+      castle_echelle_104: 2380528299963674096
+      castle_echelle_105: -4641001051235797163
+      castle_echelle_106: -8338615623792647189
+      castle_echelle_107: 18166503716573111
+      castle_echelle_108: -7969850838104131930
+      castle_echelle_109: -4427813179368887823
+      castle_echelle_11: 1297205234547140547
+      castle_echelle_110: -352314153728089245
+      castle_echelle_111: 8955924778255893944
+      castle_echelle_12: -8773882345521455039
+      castle_echelle_13: -5799068549540335913
+      castle_echelle_14: 8460130138348329657
+      castle_echelle_15: -7783470313316477766
+      castle_echelle_16: 2635386715455718193
+      castle_echelle_17: -8228713049049829059
+      castle_echelle_18: 8155569028585517361
+      castle_echelle_19: -1201919196673658200
+      castle_echelle_2: 506877428813967991
+      castle_echelle_20: 2154049700525617742
+      castle_echelle_21: 8577077602392352716
+      castle_echelle_22: -3629199302292599176
+      castle_echelle_23: 5674202223804590210
+      castle_echelle_24: 4225319753351281685
+      castle_echelle_25: 7857417140632963026
+      castle_echelle_26: -1769487558863868702
+      castle_echelle_27: -7143558502081259467
+      castle_echelle_28: 2018646950260492023
+      castle_echelle_29: -6757207587209338140
+      castle_echelle_3: -340327924986106341
+      castle_echelle_30: -7585192253826849940
+      castle_echelle_31: -3713478035578631542
+      castle_echelle_32: 1071286960475739975
+      castle_echelle_33: -3695173325477108486
+      castle_echelle_34: -2860065747202753072
+      castle_echelle_35: -7859068688572324979
+      castle_echelle_36: 3585244195593869604
+      castle_echelle_37: 2086699694180360927
+      castle_echelle_38: 1655593193864125289
+      castle_echelle_39: 439601519140932416
+      castle_echelle_4: -7502784770285454092
+      castle_echelle_40: -358478494804234546
+      castle_echelle_41: 6309062937369941140
+      castle_echelle_42: 8437363801946137883
+      castle_echelle_43: 7730930445226878998
+      castle_echelle_44: 8025374510889401633
+      castle_echelle_45: -1512621344520843939
+      castle_echelle_46: -8865353163622473497
+      castle_echelle_47: 3991971954650876166
+      castle_echelle_48: 8840239041738105780
+      castle_echelle_49: -4377505348175550328
+      castle_echelle_5: 5024270053743984649
+      castle_echelle_50: 1662314168467065735
+      castle_echelle_51: -2206984756885873224
+      castle_echelle_52: 9103535983988048414
+      castle_echelle_53: 2149476931415954572
+      castle_echelle_54: 2117056231523191212
+      castle_echelle_55: -386081930077695296
+      castle_echelle_56: -4794888934113565268
+      castle_echelle_57: -7567347799391749538
+      castle_echelle_58: -525139443888849577
+      castle_echelle_59: -702362317827959920
+      castle_echelle_6: 346361581635485924
+      castle_echelle_60: -1278184410289922043
+      castle_echelle_61: -1742970993052177004
+      castle_echelle_62: 4378060808315278432
+      castle_echelle_63: -3576013803540314747
+      castle_echelle_64: -4513082165627744008
+      castle_echelle_65: 7370344150722855356
+      castle_echelle_66: 8279421270860072978
+      castle_echelle_67: 7555521162596552774
+      castle_echelle_68: -4672413369026852297
+      castle_echelle_69: -4670268127095763867
+      castle_echelle_7: 7659039998735348612
+      castle_echelle_70: 2200066853265967459
+      castle_echelle_71: -5626381192144852445
+      castle_echelle_72: -3145327710892726840
+      castle_echelle_73: -6226560106164909797
+      castle_echelle_74: -6628247557827394844
+      castle_echelle_75: 7176965285679597149
+      castle_echelle_76: -5920962193899743119
+      castle_echelle_77: 1904813352652932806
+      castle_echelle_78: 3121721261285232931
+      castle_echelle_79: 6575154028099936847
+      castle_echelle_8: 1592837392353741182
+      castle_echelle_80: 7694984084868271676
+      castle_echelle_81: 3370470668861200065
+      castle_echelle_82: -8715101979212901052
+      castle_echelle_83: 2534210413931992792
+      castle_echelle_84: 3386822183376884552
+      castle_echelle_85: 7876388167788769292
+      castle_echelle_86: -5399718187714101184
+      castle_echelle_87: 7554319059294513322
+      castle_echelle_88: -5702983895189791756
+      castle_echelle_89: -5469410488565587742
+      castle_echelle_9: 3022926655637410610
+      castle_echelle_90: 3948893884414090588
+      castle_echelle_91: -8091372696320133938
+      castle_echelle_92: 7856184512522003493
+      castle_echelle_93: 1853132866255865885
+      castle_echelle_94: 4233140203085966720
+      castle_echelle_95: 715711386376460479
+      castle_echelle_96: 3319368193330234574
+      castle_echelle_97: 3108606235411716696
+      castle_echelle_98: -6021132213275755513
+      castle_echelle_99: 8090195236243358983
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

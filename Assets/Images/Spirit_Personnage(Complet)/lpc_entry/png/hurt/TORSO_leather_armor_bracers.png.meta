@@ -129,6 +129,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_leather_armor_bracers_0: 5803067768287794924
+      TORSO_leather_armor_bracers_1: 175808595486729394
+      TORSO_leather_armor_bracers_10: -7029898061054070875
+      TORSO_leather_armor_bracers_11: 5377220057917700219
+      TORSO_leather_armor_bracers_2: 3590435824255326904
+      TORSO_leather_armor_bracers_3: 7283181541236586664
+      TORSO_leather_armor_bracers_4: 1103948502405728625
+      TORSO_leather_armor_bracers_5: 8964169363758688453
+      TORSO_leather_armor_bracers_6: 321776290685895684
+      TORSO_leather_armor_bracers_7: 3094430901412686738
+      TORSO_leather_armor_bracers_8: -2934035165789188986
+      TORSO_leather_armor_bracers_9: -5776861279213486697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

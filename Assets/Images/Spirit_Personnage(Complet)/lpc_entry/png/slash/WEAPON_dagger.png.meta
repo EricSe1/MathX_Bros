@@ -153,6 +153,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -609,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WEAPON_dagger_0: 7138146660623809565
+      WEAPON_dagger_1: -1227548161234896403
+      WEAPON_dagger_10: 4357400388530801971
+      WEAPON_dagger_11: -7915403149060384595
+      WEAPON_dagger_12: 7517578439804923577
+      WEAPON_dagger_13: 450306182385831298
+      WEAPON_dagger_14: 3044261256339439370
+      WEAPON_dagger_15: 8863282569615797210
+      WEAPON_dagger_16: -421234812478087347
+      WEAPON_dagger_17: 6829729274631191854
+      WEAPON_dagger_18: 6932087071451147003
+      WEAPON_dagger_19: -1039127838894830090
+      WEAPON_dagger_2: 7589138797948651890
+      WEAPON_dagger_3: 8963314013195774834
+      WEAPON_dagger_4: 1776084303170005383
+      WEAPON_dagger_5: 7325267520508304838
+      WEAPON_dagger_6: 4416906902706008416
+      WEAPON_dagger_7: -4702398478199012203
+      WEAPON_dagger_8: -7918898170456003334
+      WEAPON_dagger_9: 2846439938555982594
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

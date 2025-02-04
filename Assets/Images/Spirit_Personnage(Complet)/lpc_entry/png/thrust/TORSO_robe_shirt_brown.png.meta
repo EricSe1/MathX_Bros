@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_robe_shirt_brown_0: -2024472785780944478
+      TORSO_robe_shirt_brown_1: 2382905502211091682
+      TORSO_robe_shirt_brown_10: 7877362886944653001
+      TORSO_robe_shirt_brown_11: -4967037493654342234
+      TORSO_robe_shirt_brown_12: 88896526578300055
+      TORSO_robe_shirt_brown_13: 386742869439522114
+      TORSO_robe_shirt_brown_14: 3444312588208616844
+      TORSO_robe_shirt_brown_15: -7450334918400441166
+      TORSO_robe_shirt_brown_16: -5788592783602681954
+      TORSO_robe_shirt_brown_17: 1240154673681427146
+      TORSO_robe_shirt_brown_18: -5381033521209496479
+      TORSO_robe_shirt_brown_19: -1135901953651720766
+      TORSO_robe_shirt_brown_2: -151232065431691846
+      TORSO_robe_shirt_brown_20: 3452696295171948345
+      TORSO_robe_shirt_brown_21: -3397386262375538431
+      TORSO_robe_shirt_brown_22: 6323632434137706207
+      TORSO_robe_shirt_brown_23: 9218025716207257435
+      TORSO_robe_shirt_brown_24: 1327578435813295358
+      TORSO_robe_shirt_brown_25: 2695388894322691890
+      TORSO_robe_shirt_brown_26: 4105232372909528580
+      TORSO_robe_shirt_brown_27: 7697243225425056744
+      TORSO_robe_shirt_brown_28: -528663774611505225
+      TORSO_robe_shirt_brown_29: 769742887557216815
+      TORSO_robe_shirt_brown_3: 2427582849594847987
+      TORSO_robe_shirt_brown_30: -9142009435808979475
+      TORSO_robe_shirt_brown_31: 5204792801917676934
+      TORSO_robe_shirt_brown_4: 7791338951163965835
+      TORSO_robe_shirt_brown_5: 112841457025046340
+      TORSO_robe_shirt_brown_6: 5871747160119782565
+      TORSO_robe_shirt_brown_7: 605304320547336508
+      TORSO_robe_shirt_brown_8: -8067850773811954377
+      TORSO_robe_shirt_brown_9: 6193052049273947357
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

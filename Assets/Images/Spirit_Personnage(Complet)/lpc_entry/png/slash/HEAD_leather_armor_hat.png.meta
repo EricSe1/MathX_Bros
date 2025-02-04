@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_leather_armor_hat_0: -7076240243622826507
+      HEAD_leather_armor_hat_1: 481654666061425009
+      HEAD_leather_armor_hat_10: 1601813795032525167
+      HEAD_leather_armor_hat_11: 630931402904730231
+      HEAD_leather_armor_hat_12: 4398819537807433224
+      HEAD_leather_armor_hat_13: -1220166827812727076
+      HEAD_leather_armor_hat_14: -2405547123117949484
+      HEAD_leather_armor_hat_15: -7128307966152299122
+      HEAD_leather_armor_hat_16: -2306956453360591078
+      HEAD_leather_armor_hat_17: 4226728319905175310
+      HEAD_leather_armor_hat_18: -809722376286644868
+      HEAD_leather_armor_hat_19: -994767518695340030
+      HEAD_leather_armor_hat_2: -4601448017770212259
+      HEAD_leather_armor_hat_20: -6043007660721385319
+      HEAD_leather_armor_hat_21: 405816265500759947
+      HEAD_leather_armor_hat_22: 2775085633676534462
+      HEAD_leather_armor_hat_23: 1901345105400086460
+      HEAD_leather_armor_hat_3: 7757505098163827738
+      HEAD_leather_armor_hat_4: -715725840636714232
+      HEAD_leather_armor_hat_5: 8157729080107781882
+      HEAD_leather_armor_hat_6: 9176007352330139909
+      HEAD_leather_armor_hat_7: 5856145669321569084
+      HEAD_leather_armor_hat_8: -3529416545607019770
+      HEAD_leather_armor_hat_9: 7546691294168588540
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

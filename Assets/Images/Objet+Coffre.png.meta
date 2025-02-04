@@ -195,6 +195,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -959,7 +972,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Objet+Coffre_0: 5816638055740166780
+      Objet+Coffre_1: 1751137837780815514
+      Objet+Coffre_10: -407341294977782685
+      Objet+Coffre_11: 4936596051112588273
+      Objet+Coffre_12: -6075515074050662895
+      Objet+Coffre_13: 1034091998253274378
+      Objet+Coffre_14: -2906187010535425884
+      Objet+Coffre_15: 6604499728829329016
+      Objet+Coffre_16: -5442392785864711231
+      Objet+Coffre_17: -6583641491380252216
+      Objet+Coffre_18: -9135640007693753179
+      Objet+Coffre_19: 8628617268758395020
+      Objet+Coffre_2: 8058473603277803706
+      Objet+Coffre_20: -3776616535923981713
+      Objet+Coffre_21: -4492501292775449555
+      Objet+Coffre_22: 5623510977530791428
+      Objet+Coffre_23: -4856023164070211492
+      Objet+Coffre_24: -5845614312598181394
+      Objet+Coffre_25: -5824586549387145741
+      Objet+Coffre_26: 3226144261926633496
+      Objet+Coffre_27: 2456826381161896302
+      Objet+Coffre_28: -8320088611175620924
+      Objet+Coffre_29: -481594618796679765
+      Objet+Coffre_3: -7625952701365763244
+      Objet+Coffre_30: 518731167078118554
+      Objet+Coffre_31: 7074682270350704441
+      Objet+Coffre_32: -1799379713847625473
+      Objet+Coffre_33: 2316866967949956657
+      Objet+Coffre_4: 7466988475221376371
+      Objet+Coffre_5: 3969308129736824036
+      Objet+Coffre_6: 5884449481090507822
+      Objet+Coffre_7: 7078962369429801320
+      Objet+Coffre_8: -1656676106024797343
+      Objet+Coffre_9: 1689498894513011039
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

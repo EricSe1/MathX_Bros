@@ -177,6 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -809,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HEAD_chain_armor_helmet_0: 5352483851176247710
+      HEAD_chain_armor_helmet_1: 9182614497865437131
+      HEAD_chain_armor_helmet_10: 6783911848554011375
+      HEAD_chain_armor_helmet_11: -4108822912828436970
+      HEAD_chain_armor_helmet_12: 7089500511006816018
+      HEAD_chain_armor_helmet_13: -7661197011569760447
+      HEAD_chain_armor_helmet_14: -3827995224699304708
+      HEAD_chain_armor_helmet_15: 1287380982265410423
+      HEAD_chain_armor_helmet_16: -535624152490139259
+      HEAD_chain_armor_helmet_17: -6931879783405918185
+      HEAD_chain_armor_helmet_18: -5245631749325338461
+      HEAD_chain_armor_helmet_19: 6012660559172322487
+      HEAD_chain_armor_helmet_2: 1484811242452744257
+      HEAD_chain_armor_helmet_20: 6903028549053960
+      HEAD_chain_armor_helmet_21: 5144297738560991600
+      HEAD_chain_armor_helmet_22: -836278814151842889
+      HEAD_chain_armor_helmet_23: 3466722729935560359
+      HEAD_chain_armor_helmet_24: -5959773514374792119
+      HEAD_chain_armor_helmet_25: -2099943867325339986
+      HEAD_chain_armor_helmet_26: 4628724501317979027
+      HEAD_chain_armor_helmet_27: -4285538858885550327
+      HEAD_chain_armor_helmet_3: -6587932526994360178
+      HEAD_chain_armor_helmet_4: 6602186121373000153
+      HEAD_chain_armor_helmet_5: 3461086748753974374
+      HEAD_chain_armor_helmet_6: -1693440277609606033
+      HEAD_chain_armor_helmet_7: -7805826651991766430
+      HEAD_chain_armor_helmet_8: 8742870976375689917
+      HEAD_chain_armor_helmet_9: 5401471590511046119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

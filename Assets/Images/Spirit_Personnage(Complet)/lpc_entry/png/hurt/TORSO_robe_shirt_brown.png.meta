@@ -111,6 +111,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -259,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_robe_shirt_brown_0: -2024472785780944478
+      TORSO_robe_shirt_brown_1: 2382905502211091682
+      TORSO_robe_shirt_brown_2: -151232065431691846
+      TORSO_robe_shirt_brown_3: 2427582849594847987
+      TORSO_robe_shirt_brown_4: 7791338951163965835
+      TORSO_robe_shirt_brown_5: 112841457025046340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

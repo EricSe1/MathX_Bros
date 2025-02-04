@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BEHIND_quiver_0: 4544719037655290984
+      BEHIND_quiver_1: 9018369824940722956
+      BEHIND_quiver_10: 2195058531601657089
+      BEHIND_quiver_11: 5761202811284947213
+      BEHIND_quiver_12: -177805427266236081
+      BEHIND_quiver_13: -1145621492006467329
+      BEHIND_quiver_14: -9184579685551954451
+      BEHIND_quiver_15: 3403638346775562916
+      BEHIND_quiver_16: -5852022570457211935
+      BEHIND_quiver_17: -5351797806010696096
+      BEHIND_quiver_18: 686886796781534876
+      BEHIND_quiver_19: -6563536399626525113
+      BEHIND_quiver_2: -7335389501462589534
+      BEHIND_quiver_20: -8963111285065330680
+      BEHIND_quiver_21: 5146577527967013754
+      BEHIND_quiver_22: -4271034307287496109
+      BEHIND_quiver_23: 1871920930277550234
+      BEHIND_quiver_3: -7365669027119877873
+      BEHIND_quiver_4: -5691407153002890306
+      BEHIND_quiver_5: -7605747882624797073
+      BEHIND_quiver_6: -3363510932544070114
+      BEHIND_quiver_7: -8976056338809362127
+      BEHIND_quiver_8: -8406383110521859244
+      BEHIND_quiver_9: -4713868717184272314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

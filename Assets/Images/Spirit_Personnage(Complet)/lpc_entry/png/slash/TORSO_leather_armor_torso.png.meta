@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_leather_armor_torso_0: -4308447065058296178
+      TORSO_leather_armor_torso_1: -9013697119471855734
+      TORSO_leather_armor_torso_10: 1582954932281855515
+      TORSO_leather_armor_torso_11: 3474955435305078061
+      TORSO_leather_armor_torso_12: 2966010129172604786
+      TORSO_leather_armor_torso_13: 2018928793350099828
+      TORSO_leather_armor_torso_14: -3313056389959253292
+      TORSO_leather_armor_torso_15: 3439176107432550389
+      TORSO_leather_armor_torso_16: -7499419631162621006
+      TORSO_leather_armor_torso_17: -4550184740059163570
+      TORSO_leather_armor_torso_18: -1440445433241393232
+      TORSO_leather_armor_torso_19: 8398281183183382284
+      TORSO_leather_armor_torso_2: -6847728426698449539
+      TORSO_leather_armor_torso_20: 1076046634013825271
+      TORSO_leather_armor_torso_21: 8427949519533964090
+      TORSO_leather_armor_torso_22: -462187699796910036
+      TORSO_leather_armor_torso_23: 732807092528581479
+      TORSO_leather_armor_torso_3: -3997660355022045779
+      TORSO_leather_armor_torso_4: 7690277381129380501
+      TORSO_leather_armor_torso_5: -8336840010258094320
+      TORSO_leather_armor_torso_6: -6030234687936110637
+      TORSO_leather_armor_torso_7: -8109596847698341493
+      TORSO_leather_armor_torso_8: -3943141810630930019
+      TORSO_leather_armor_torso_9: 6144648748681679401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

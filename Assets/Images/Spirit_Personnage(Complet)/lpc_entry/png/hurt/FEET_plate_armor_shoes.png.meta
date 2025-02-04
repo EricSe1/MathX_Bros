@@ -120,6 +120,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -334,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FEET_plate_armor_shoes_0: 1685072277283826823
+      FEET_plate_armor_shoes_1: -7814407123825760307
+      FEET_plate_armor_shoes_2: -8047452345876514015
+      FEET_plate_armor_shoes_3: 7075840216074543281
+      FEET_plate_armor_shoes_4: 8484624091969318177
+      FEET_plate_armor_shoes_5: -6479473633111966569
+      FEET_plate_armor_shoes_6: 5573031032331163599
+      FEET_plate_armor_shoes_7: -8335757461453984542
+      FEET_plate_armor_shoes_8: 3698324098310447416
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

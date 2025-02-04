@@ -225,6 +225,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1209,7 +1222,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TORSO_plate_armor_arms_shoulders_0: -6352248666472491563
+      TORSO_plate_armor_arms_shoulders_1: -6211401863357967706
+      TORSO_plate_armor_arms_shoulders_10: 4642929705513970065
+      TORSO_plate_armor_arms_shoulders_11: 8688706899155267246
+      TORSO_plate_armor_arms_shoulders_12: -5542523611804661136
+      TORSO_plate_armor_arms_shoulders_13: 1143871247449353176
+      TORSO_plate_armor_arms_shoulders_14: 2856979179554726599
+      TORSO_plate_armor_arms_shoulders_15: 1302441674268759181
+      TORSO_plate_armor_arms_shoulders_16: 3476941890771705460
+      TORSO_plate_armor_arms_shoulders_17: 4051252446066638314
+      TORSO_plate_armor_arms_shoulders_18: 6210269537378012364
+      TORSO_plate_armor_arms_shoulders_19: -5506987398070767970
+      TORSO_plate_armor_arms_shoulders_2: -9151180739655840268
+      TORSO_plate_armor_arms_shoulders_20: -1666849850657020127
+      TORSO_plate_armor_arms_shoulders_21: 3860655272494169564
+      TORSO_plate_armor_arms_shoulders_22: -8492545835363418149
+      TORSO_plate_armor_arms_shoulders_23: -4138108449838342168
+      TORSO_plate_armor_arms_shoulders_24: -7430940017464958124
+      TORSO_plate_armor_arms_shoulders_25: -7863195511708771886
+      TORSO_plate_armor_arms_shoulders_26: 8024413133451723120
+      TORSO_plate_armor_arms_shoulders_27: -5863759314862258815
+      TORSO_plate_armor_arms_shoulders_28: 379326666876827442
+      TORSO_plate_armor_arms_shoulders_29: 7266206090678717147
+      TORSO_plate_armor_arms_shoulders_3: -3834445295327623137
+      TORSO_plate_armor_arms_shoulders_30: -2701044254968618222
+      TORSO_plate_armor_arms_shoulders_31: 5688018853707133104
+      TORSO_plate_armor_arms_shoulders_32: 6505530718431427404
+      TORSO_plate_armor_arms_shoulders_33: 3786668257433439455
+      TORSO_plate_armor_arms_shoulders_34: -113671094532057679
+      TORSO_plate_armor_arms_shoulders_35: -7009945495452759748
+      TORSO_plate_armor_arms_shoulders_36: -1273598603379451791
+      TORSO_plate_armor_arms_shoulders_37: 2986234029361848211
+      TORSO_plate_armor_arms_shoulders_38: 4284576978275936978
+      TORSO_plate_armor_arms_shoulders_39: 1814394025652306847
+      TORSO_plate_armor_arms_shoulders_4: 5082180861896291459
+      TORSO_plate_armor_arms_shoulders_40: -7221986890318920468
+      TORSO_plate_armor_arms_shoulders_41: 2785568744392343466
+      TORSO_plate_armor_arms_shoulders_42: -767491919686873506
+      TORSO_plate_armor_arms_shoulders_43: 3107795868690606551
+      TORSO_plate_armor_arms_shoulders_5: -8820183282056347338
+      TORSO_plate_armor_arms_shoulders_6: -5463241246630563096
+      TORSO_plate_armor_arms_shoulders_7: 7919297102526304665
+      TORSO_plate_armor_arms_shoulders_8: -1370182804772583674
+      TORSO_plate_armor_arms_shoulders_9: 2203642271020507455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

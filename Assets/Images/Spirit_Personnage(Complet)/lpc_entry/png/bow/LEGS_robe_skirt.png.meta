@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1409,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LEGS_robe_skirt_0: 1012726539758615754
+      LEGS_robe_skirt_1: -205429104672965858
+      LEGS_robe_skirt_10: -4253298752819041355
+      LEGS_robe_skirt_11: -7768372970112885033
+      LEGS_robe_skirt_12: 3439659391177971843
+      LEGS_robe_skirt_13: -1187442718161079490
+      LEGS_robe_skirt_14: 4078775066987223437
+      LEGS_robe_skirt_15: -6651647065719572631
+      LEGS_robe_skirt_16: -6481379540493350123
+      LEGS_robe_skirt_17: 4738127618770295288
+      LEGS_robe_skirt_18: 307975874222741082
+      LEGS_robe_skirt_19: -8729829268244143139
+      LEGS_robe_skirt_2: -2637973019622144730
+      LEGS_robe_skirt_20: -159867026703926026
+      LEGS_robe_skirt_21: -4495620690569737064
+      LEGS_robe_skirt_22: 7976659091136423911
+      LEGS_robe_skirt_23: -1700709620992460617
+      LEGS_robe_skirt_24: -1621321141332061336
+      LEGS_robe_skirt_25: -1483045518770759294
+      LEGS_robe_skirt_26: -3780374552594922891
+      LEGS_robe_skirt_27: 6252777858285032197
+      LEGS_robe_skirt_28: -7248635466372067198
+      LEGS_robe_skirt_29: 4474226362492172855
+      LEGS_robe_skirt_3: -48551012443759882
+      LEGS_robe_skirt_30: -6234917291120429551
+      LEGS_robe_skirt_31: 8102564511875722866
+      LEGS_robe_skirt_32: -4273953498657200097
+      LEGS_robe_skirt_33: -8406981028954085518
+      LEGS_robe_skirt_34: -2565212292053276060
+      LEGS_robe_skirt_35: 8802209359491467651
+      LEGS_robe_skirt_36: 2762599339600994954
+      LEGS_robe_skirt_37: -7873346713227526519
+      LEGS_robe_skirt_38: 4381707702028511656
+      LEGS_robe_skirt_39: 72967706921271889
+      LEGS_robe_skirt_4: 2373070085929707008
+      LEGS_robe_skirt_40: 9052730701975838651
+      LEGS_robe_skirt_41: -815517020342713283
+      LEGS_robe_skirt_42: -500548990865921470
+      LEGS_robe_skirt_43: 782935653657759688
+      LEGS_robe_skirt_44: -7299743199651756039
+      LEGS_robe_skirt_45: 666133930868679652
+      LEGS_robe_skirt_46: -3398944743176435671
+      LEGS_robe_skirt_47: 7374408805853484244
+      LEGS_robe_skirt_48: -6167782673413952443
+      LEGS_robe_skirt_49: 641976301313466207
+      LEGS_robe_skirt_5: 5233603427661330050
+      LEGS_robe_skirt_50: 1501470878745035136
+      LEGS_robe_skirt_51: -1650509295997617934
+      LEGS_robe_skirt_6: -3996477461859834436
+      LEGS_robe_skirt_7: 8992517931894525408
+      LEGS_robe_skirt_8: 3684031161202311758
+      LEGS_robe_skirt_9: 6459237981712639617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

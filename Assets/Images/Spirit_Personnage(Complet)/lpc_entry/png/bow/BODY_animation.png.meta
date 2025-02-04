@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1409,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BODY_animation_0: 2866502029772508092
+      BODY_animation_1: -7824051593122464281
+      BODY_animation_10: -6921464528146628511
+      BODY_animation_11: -587294110965124595
+      BODY_animation_12: -557933565189512388
+      BODY_animation_13: -1062820754221268334
+      BODY_animation_14: 580921255529327356
+      BODY_animation_15: -2952559835562707904
+      BODY_animation_16: -4933171436073025535
+      BODY_animation_17: -1414211246139718840
+      BODY_animation_18: -7716117078982630140
+      BODY_animation_19: -4308974709085277616
+      BODY_animation_2: -5073199366754858008
+      BODY_animation_20: -3196087067547328308
+      BODY_animation_21: 306495807377894538
+      BODY_animation_22: 5165375611760129228
+      BODY_animation_23: 3070411189348069910
+      BODY_animation_24: -3083402095925179170
+      BODY_animation_25: 9184873963317095297
+      BODY_animation_26: -5585058768682239145
+      BODY_animation_27: 7120192153763669486
+      BODY_animation_28: 2498375783858999118
+      BODY_animation_29: -2245536324760028533
+      BODY_animation_3: -1112590870174155271
+      BODY_animation_30: 8097209799374051168
+      BODY_animation_31: -3610212653593919295
+      BODY_animation_32: 5384320739517854935
+      BODY_animation_33: 2678821603210701652
+      BODY_animation_34: -4134819632336501411
+      BODY_animation_35: -195725154401763869
+      BODY_animation_36: -3652545436356074584
+      BODY_animation_37: 1968831191727327399
+      BODY_animation_38: 3214059583377047386
+      BODY_animation_39: 8893036303785861478
+      BODY_animation_4: 403136579148153360
+      BODY_animation_40: -2087025627097407929
+      BODY_animation_41: 1700355731314600742
+      BODY_animation_42: 4896664419720059939
+      BODY_animation_43: 2669324700791513661
+      BODY_animation_44: -1383710156070670797
+      BODY_animation_45: 7389704009221055253
+      BODY_animation_46: 4398524861928699292
+      BODY_animation_47: -7737171594758217442
+      BODY_animation_48: 6987156951014127568
+      BODY_animation_49: -3081317206753745813
+      BODY_animation_5: 1326009177871141990
+      BODY_animation_50: 82586563208742604
+      BODY_animation_51: 4707273366539215065
+      BODY_animation_6: -8500141067592867819
+      BODY_animation_7: 5857464270815839819
+      BODY_animation_8: 3291240851192867120
+      BODY_animation_9: -5230485293002854687
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

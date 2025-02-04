@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WEAPON_shield_cutout_body_0: 5017936367911524432
+      WEAPON_shield_cutout_body_1: -3419889484202320476
+      WEAPON_shield_cutout_body_10: -4830550052256626725
+      WEAPON_shield_cutout_body_11: -9011373821228033503
+      WEAPON_shield_cutout_body_12: -5690076512387795203
+      WEAPON_shield_cutout_body_13: 636420044789121253
+      WEAPON_shield_cutout_body_14: 3988649767831262760
+      WEAPON_shield_cutout_body_15: -5691624418102433158
+      WEAPON_shield_cutout_body_16: -5698982671835566685
+      WEAPON_shield_cutout_body_17: -4768165911383182718
+      WEAPON_shield_cutout_body_18: -2213380597635597841
+      WEAPON_shield_cutout_body_19: 2721233767782482179
+      WEAPON_shield_cutout_body_2: -2034915449668982559
+      WEAPON_shield_cutout_body_20: -3205913051210800508
+      WEAPON_shield_cutout_body_21: 7969359016325285670
+      WEAPON_shield_cutout_body_22: -3535351575182750350
+      WEAPON_shield_cutout_body_23: 3524056841700121044
+      WEAPON_shield_cutout_body_24: 3053169209747575270
+      WEAPON_shield_cutout_body_25: -4849952244796372752
+      WEAPON_shield_cutout_body_26: -8546434021370677445
+      WEAPON_shield_cutout_body_27: 3511460563636998784
+      WEAPON_shield_cutout_body_28: 6502579950332709655
+      WEAPON_shield_cutout_body_29: 2593750261503562074
+      WEAPON_shield_cutout_body_3: 4800090848546868718
+      WEAPON_shield_cutout_body_30: -1766559760765819482
+      WEAPON_shield_cutout_body_31: -2610241491512289824
+      WEAPON_shield_cutout_body_4: -830753768964472880
+      WEAPON_shield_cutout_body_5: 4267943598348161196
+      WEAPON_shield_cutout_body_6: 2359654450385836731
+      WEAPON_shield_cutout_body_7: 272775586460607470
+      WEAPON_shield_cutout_body_8: -9012936888960449043
+      WEAPON_shield_cutout_body_9: -2009079866021886329
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
