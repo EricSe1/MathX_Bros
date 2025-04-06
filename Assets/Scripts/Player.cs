@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-
 public class Player : MonoBehaviour
 {
     public Rigidbody2D rb;
@@ -8,13 +7,14 @@ public class Player : MonoBehaviour
     public float jumping;
     public LayerMask groundLayer;
     public Transform groundCheck;
-    float horizontalMove;
-    SpriteRenderer sr;
-    Animator animator;
 
-    private bool isGrounded; // Variable pour gérer l'état du sol
+    private float horizontalMove;
+    private SpriteRenderer sr;
+    private Animator animator;
 
-    /// Start is called before the first frame update | FR : Début de la première image
+    private bool isGrounded;
+    private bool isJumping;
+
     private void Start()
     {
         sr = GetComponent<SpriteRenderer>();
@@ -23,47 +23,71 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        // Mise à jour du mouvement horizontal
+        // Mettre à jour isGrounded dans FixedUpdate
+        isGrounded = IsGrounded();
+
+        // Appliquer le mouvement horizontal
         rb.linearVelocity = new Vector2(horizontalMove * speed, rb.linearVelocity.y);
 
-        // Animation lors de l'interaction avec les touches
-        animator.SetFloat("Speed", Mathf.Abs(horizontalMove)); // Animation de la marche
-        animator.SetBool("IsGrounded", isGrounded); // Animation du saut : Si on est au sol
+        // Définir la direction du personnage
+        if (horizontalMove > 0) sr.flipX = false;
+        else if (horizontalMove < 0) sr.flipX = true;
+
+        // Si le personnage touche le sol après un saut
+        if (isGrounded)
+        {
+            if (isJumping)
+            {
+                isJumping = false;
+                animator.ResetTrigger("JumpTrigger"); // Réinitialise l'animation de saut
+            }
+
+            animator.SetFloat("Speed", Mathf.Abs(horizontalMove)); // Animation de course ou d'arrêt
+        }
+        else
+        {
+            animator.SetFloat("Speed", 0); // Animation stable en l'air
+        }
+
+        // Mettre à jour l'état "IsGrounded" dans l'Animator
+        animator.SetBool("IsGrounded", isGrounded);
+    }
+
+    public void Jump(InputAction.CallbackContext context)
+    {
+        // Vérifie si le saut est déclenché et si le personnage est au sol
+        if (context.started && isGrounded && !isJumping)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumping); // Applique la vélocité de saut
+            isGrounded = false; // Le joueur n'est plus au sol
+            isJumping = true;   // Le joueur est en train de sauter
+            animator.SetTrigger("JumpTrigger"); // Déclenche l'animation de saut
+        }
+    }
+
+    private void Update()
+    {
+        // On met à jour isGrounded à chaque frame
+        isGrounded = IsGrounded();
     }
 
     public void Move(InputAction.CallbackContext context)
     {
         horizontalMove = context.ReadValue<Vector2>().x;
-
-        // Lorsque le joueur se déplace, on applique l'axe où il se déplace, exemple : gauche (il regarde à gauche) ou droite (il regarde à droite)
-        if (horizontalMove > 0)
-        {
-            sr.flipX = false; // Regarde à droite
-        }
-        else if (horizontalMove < 0)
-        {
-            sr.flipX = true; // Regarde à gauche
-        }
     }
 
-    public void Jump(InputAction.CallbackContext context)
+    private bool IsGrounded()
     {
-        if (context.performed && isGrounded) // Vérification si le joueur est bien au sol avant de sauter
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumping); // Application du saut (force verticale)
-            isGrounded = false; // On indique qu'on n'est plus au sol pendant le saut
-        }
-    }
+        // Augmentez la hauteur de la capsule si nécessaire (par exemple, 0.2f au lieu de 0.1f)
+        Collider2D collider = Physics2D.OverlapCapsule(
+            groundCheck.position, 
+            new Vector2(0.5f, 0.2f), // Augmentez la hauteur ici
+            CapsuleDirection2D.Vertical, 
+            0, 
+            groundLayer
+        );
 
-    // Vérifie si le joueur est au sol
-    private void Update()
-    {
-        isGrounded = IsGrounded(); // On met à jour l'état du sol à chaque frame
-    }
-
-    bool IsGrounded()
-    {
-        // Vérification de l'état du sol avec une détection via une capsule
-        return Physics2D.OverlapCapsule(groundCheck.position, new Vector2(0.1f, 0.1f), CapsuleDirection2D.Vertical, 0, groundLayer);
+        // Retourne true uniquement si un objet autre que le joueur est détecté
+        return collider != null && collider.gameObject != gameObject;
     }
 }
