@@ -14,6 +14,9 @@ public class Player : MonoBehaviour
 
     private bool isGrounded;
     private bool isJumping;
+    private bool isNearCoffre = false; // Vérifie si le joueur est proche d'un coffre
+
+    private Coffre coffreProche; // Référence vers le coffre à proximité
 
     private void Start()
     {
@@ -69,6 +72,15 @@ public class Player : MonoBehaviour
     {
         // On met à jour isGrounded à chaque frame
         isGrounded = IsGrounded();
+
+       if (isNearCoffre && Input.GetKeyDown(KeyCode.E))
+{
+        Debug.Log("Interaction avec le coffre");
+        if (coffreProche != null)
+        {
+            coffreProche.Ouvrir(); // On appelle la fonction sur le coffre
+        }
+    }
     }
 
     public void Move(InputAction.CallbackContext context)
@@ -90,4 +102,22 @@ public class Player : MonoBehaviour
         // Retourne true uniquement si un objet autre que le joueur est détecté
         return collider != null && collider.gameObject != gameObject;
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+{
+    if (other.CompareTag("Coffre"))
+    {
+        isNearCoffre = true;
+        coffreProche = other.GetComponent<Coffre>(); // Stocke le script du coffre
+    }
+}
+
+    private void OnTriggerExit2D(Collider2D other)
+{
+    if (other.CompareTag("Coffre"))
+    {
+        isNearCoffre = false;
+        coffreProche = null; // On oublie le coffre
+    }
+}
 }
