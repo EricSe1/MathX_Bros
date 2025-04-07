@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 904360e644b723c4daf088fdf8c4f89a
+guid: 54aa7ef068a174a92a42f91fe0ec48a6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1955448553306655712
-    second: Background_0
+      213: 4855796935591688104
+    second: LOGO_0
+  - first:
+      213: -3830253653598256303
+    second: LOGO_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,9 +43,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -113,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_0
+      name: LOGO_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 44
         y: 0
-        width: 3400
-        height: 2400
+        width: 904
+        height: 672
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 024fa93b6e9dcd4e0800000000000000
-      internalID: -1955448553306655712
+      spriteID: 8a77f57f591436340800000000000000
+      internalID: 4855796935591688104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO_1
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 298
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15342a9789438dac0800000000000000
+      internalID: -3830253653598256303
       vertices: []
       indices: 
       edges: []
@@ -147,8 +172,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Background_0: -1955448553306655712
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
