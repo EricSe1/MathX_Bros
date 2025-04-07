@@ -18,6 +18,8 @@ public class Player : MonoBehaviour
 
     private Coffre coffreProche; // Référence vers le coffre à proximité
 
+    public Transform clePosition; // L’endroit sur la tête du joueur
+
     private void Start()
     {
         sr = GetComponent<SpriteRenderer>();
