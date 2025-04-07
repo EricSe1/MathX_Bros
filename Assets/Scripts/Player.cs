@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using TMPro;
+using UnityEngine.UI;
 public class Player : MonoBehaviour
 {
     public Rigidbody2D rb;
@@ -76,13 +78,18 @@ public class Player : MonoBehaviour
         isGrounded = IsGrounded();
 
        if (isNearCoffre && Input.GetKeyDown(KeyCode.E))
-{
-        Debug.Log("Interaction avec le coffre");
-        if (coffreProche != null)
         {
-            coffreProche.Ouvrir(); // On appelle la fonction sur le coffre
+            Debug.Log("Interaction avec le coffre"); // 👈 tu dois voir ça
+            if (coffreProche != null)
+            {
+                Debug.Log("Coffre trouvé, on lance l'équation !");
+                coffreProche.StartEquation();
+            }
+            else
+            {
+                Debug.LogWarning("Pas de coffre trouvé !");
+            }
         }
-    }
     }
 
     public void Move(InputAction.CallbackContext context)
