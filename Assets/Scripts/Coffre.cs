@@ -7,6 +7,7 @@ public class Coffre : MonoBehaviour
     public float fonduSpeed = 1f; // Vitesse de fondu pour le coffre
     private bool isPlayerInRange = false; // Vérifie si le joueur est proche
     private bool isOpened = false; // Vérifie si le coffre a été ouvert
+    public Player joueur; // Référence au joueur
 
     private SpriteRenderer sr; // SpriteRenderer du coffre pour le fondu
 
@@ -78,7 +79,13 @@ public class Coffre : MonoBehaviour
     {
         Debug.Log("Coffre ouvert !");
         effetMagique.SetActive(true);
-        cle.SetActive(true);
+        if (cle != null && joueur != null && joueur.clePosition != null)
+            {
+                cle.transform.SetParent(joueur.clePosition); // Attache la clé au joueur
+                cle.transform.localPosition = Vector3.zero;  // Elle se place pile au-dessus de la tête
+                cle.SetActive(true);
+                Debug.Log("Clé attachée au joueur ! " + cle);
+            }   
         StartCoroutine(FonduCoffre());
         isOpened = true;
     }
