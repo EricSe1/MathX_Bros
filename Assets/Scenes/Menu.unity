@@ -660,8 +660,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  startDelay: 9
-  moveDuration: 10
+  startDelay: 6
+  moveDuration: 12
 --- !u!1 &309393236
 GameObject:
   m_ObjectHideFlags: 0
@@ -2131,7 +2131,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   startDelay: 4
-  moveDuration: 10
+  moveDuration: 12
 --- !u!1 &1051516519
 GameObject:
   m_ObjectHideFlags: 0
@@ -2714,7 +2714,7 @@ GameObject:
   - component: {fileID: 1291824899}
   - component: {fileID: 1291824898}
   m_Layer: 5
-  m_Name: ModeAffichage (2)
+  m_Name: VolumeText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2772,7 +2772,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Volume Musique
+  m_Text: 'Volume Musique :'
 --- !u!222 &1291824899
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3374,7 +3374,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   startDelay: 2
-  moveDuration: 10
+  moveDuration: 12
 --- !u!1 &1621468648
 GameObject:
   m_ObjectHideFlags: 0

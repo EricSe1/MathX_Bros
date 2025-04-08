@@ -4,7 +4,7 @@ public class PNJBot : MonoBehaviour
 {
     public float speed = 2f;
     public float startDelay = 2f; // Délai avant de commencer à bouger
-    public float moveDuration = 30f; // Durée de déplacement dans une direction avant de changer
+    public float moveDuration = 60f; // Durée de déplacement dans une direction avant de changer
     private float timer = 0f;
     private bool hasStarted = false;
     private bool movingRight = true; // Indique si le PNJ se déplace vers la droite

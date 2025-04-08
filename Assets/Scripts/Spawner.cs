@@ -19,7 +19,7 @@ public class Spawner : MonoBehaviour
             for (int i = 0; i < 3; i++) // Spawne 3 bots à chaque intervalle
             {
                 GameObject bot = Instantiate(botPrefab, spawnPoint.position, Quaternion.identity);
-                StartCoroutine(RespawnAfter(bot, 10f * 2)); // Recycle le bot après le cycle complet
+                StartCoroutine(RespawnAfter(bot, 28f)); // Recycle le bot après un délai plus long (30 secondes)
             }
             yield return new WaitForSeconds(spawnInterval);
         }
