@@ -4,18 +4,16 @@ using UnityEngine.UI;
 public class Parametres : MonoBehaviour
 {
     // Références aux UI
-    public Slider volumeJeuSlider;  // Slider pour le volume du jeu
-    public Slider volumeMusiqueSlider; // Slider pour le volume de la musique
+    public Toggle volumeMusiqueToogle; // Slider pour le volume de la musique
     public Toggle togglePleinEcran; // Référence au Toggle pour basculer le plein écran
 
     void Start()
     {
-        // Initialiser le volume des sliders
-        volumeJeuSlider.value = AudioListener.volume; // Volume du jeu
-        volumeMusiqueSlider.value = 0.5f; // Volume de la musique (par exemple, 50%)
 
         // Ajouter un listener au Toggle pour gérer le plein écran
         togglePleinEcran.onValueChanged.AddListener(ChangerModePleinEcran);
+        // Ajout
+        volumeMusiqueToogle.onValueChanged.AddListener(ChangerVolumeMusique);
     }
 
     // Fonction pour basculer entre plein écran et mode fenêtre
@@ -57,16 +55,52 @@ public class Parametres : MonoBehaviour
         }
     }
 
-    // Fonction pour changer le volume du jeu
-    public void ChangerVolumeJeu(float volume)
+    private void MettreAJourCouleurToggleVolume(bool estActif)
     {
-        AudioListener.volume = volume;
+        // Récupérer l'image du fond du Toggle (Background)
+        Image toggleBackgroundImageVol = volumeMusiqueToogle.targetGraphic as Image;
+
+        if (toggleBackgroundImageVol != null)
+        {
+            // Changer la couleur en fonction de l'état
+            if (estActif)
+            {
+                toggleBackgroundImageVol.color = new Color32(0, 255, 37, 255); // Couleur verte (#00FF25)
+                Debug.Log("Le Volume est activé et couleur verte.");
+            }
+            else
+            {
+                toggleBackgroundImageVol.color = new Color32(253, 44, 0, 255); // Couleur rouge (#FD2C00)
+                Debug.Log("Le Volume est désactivé et couleur rouge.");
+            }
+        }
+        else
+        {
+            Debug.LogWarning("Impossible de trouver l'image du Toggle.");
+        }
     }
 
     // Fonction pour changer le volume de la musique
-    public void ChangerVolumeMusique(float volume)
+    public void ChangerVolumeMusique(bool estActif)
     {
-        // Ici, tu devrais avoir un gestionnaire de musique avec un volume séparé, par exemple :
-        // musiqueSource.volume = volume;
+        // Récupérer la valeur du slider
+        float volume = volumeMusiqueToogle.isOn ? 1.0f : 0.0f; // Exemple : 1.0 pour actif, 0.0 pour inactif
+
+        // Appliquer le volume à la musique
+        AppliquerVolumeMusique(volume);
+
+        // Mettre à jour la couleur du Toggle en fonction de son état
+        MettreAJourCouleurToggleVolume(estActif);
+
+        // Afficher un message dans la console pour confirmer l'action
+        Debug.Log("Volume de la musique : " + volume);
+    }
+    // Fonction pour appliquer le volume de la musique
+    private void AppliquerVolumeMusique(float volume)
+    {
+        // Appliquer le volume à la musique (exemple)
+        AudioListener.volume = volume; // Ajuster le volume global de l'audio
+        Debug.Log("Volume de la musique appliqué : " + volume);
+        
     }
 }

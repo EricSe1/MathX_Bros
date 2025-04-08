@@ -1,0 +1,4580 @@
+fileFormatVersion: 2
+guid: f18ad18049c7541ea982969ca9da15f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5540450762960376204
+    second: chain_armor_0
+  - first:
+      213: -211401021806969918
+    second: chain_armor_1
+  - first:
+      213: 7153957145702385846
+    second: chain_armor_2
+  - first:
+      213: 4391986441777087552
+    second: chain_armor_3
+  - first:
+      213: 488073357371959373
+    second: chain_armor_4
+  - first:
+      213: 7165654460482808014
+    second: chain_armor_5
+  - first:
+      213: 8438031979883963119
+    second: chain_armor_6
+  - first:
+      213: 6462687041249998390
+    second: chain_armor_7
+  - first:
+      213: 3934568976791802059
+    second: chain_armor_8
+  - first:
+      213: -2197376050169353211
+    second: chain_armor_9
+  - first:
+      213: -1709097241500955737
+    second: chain_armor_10
+  - first:
+      213: -2789040849626277942
+    second: chain_armor_11
+  - first:
+      213: 3572253372887709066
+    second: chain_armor_12
+  - first:
+      213: 4365642408973084180
+    second: chain_armor_13
+  - first:
+      213: 3709298182057337774
+    second: chain_armor_14
+  - first:
+      213: 6429342014263542905
+    second: chain_armor_15
+  - first:
+      213: 6867798874048003190
+    second: chain_armor_16
+  - first:
+      213: -2700136056652798200
+    second: chain_armor_17
+  - first:
+      213: 6204736866989618565
+    second: chain_armor_18
+  - first:
+      213: -3529982470871695773
+    second: chain_armor_19
+  - first:
+      213: -8018170114857824478
+    second: chain_armor_20
+  - first:
+      213: 402931745054349891
+    second: chain_armor_21
+  - first:
+      213: -7416017557954459612
+    second: chain_armor_22
+  - first:
+      213: -4393748054817472554
+    second: chain_armor_23
+  - first:
+      213: 9018845036635896274
+    second: chain_armor_24
+  - first:
+      213: 5692669445311464662
+    second: chain_armor_25
+  - first:
+      213: 1845390367432986319
+    second: chain_armor_26
+  - first:
+      213: -3944586233504306936
+    second: chain_armor_27
+  - first:
+      213: -5695685911986930035
+    second: chain_armor_28
+  - first:
+      213: -6572180484370044130
+    second: chain_armor_29
+  - first:
+      213: -7102300982870151967
+    second: chain_armor_30
+  - first:
+      213: 3689592166521640350
+    second: chain_armor_31
+  - first:
+      213: -8443360977314486283
+    second: chain_armor_32
+  - first:
+      213: -754688165647666246
+    second: chain_armor_33
+  - first:
+      213: -2891183422762077350
+    second: chain_armor_34
+  - first:
+      213: -5605183505143877797
+    second: chain_armor_35
+  - first:
+      213: 8671837046594714118
+    second: chain_armor_36
+  - first:
+      213: -3798669917000997760
+    second: chain_armor_37
+  - first:
+      213: -1936186195414392692
+    second: chain_armor_38
+  - first:
+      213: 3733159333760959083
+    second: chain_armor_39
+  - first:
+      213: -4981877818178107595
+    second: chain_armor_40
+  - first:
+      213: -611865939918146687
+    second: chain_armor_41
+  - first:
+      213: -1446924966455735926
+    second: chain_armor_42
+  - first:
+      213: -9220380195206914667
+    second: chain_armor_43
+  - first:
+      213: 9009900800880748982
+    second: chain_armor_44
+  - first:
+      213: 1745784008031748427
+    second: chain_armor_45
+  - first:
+      213: 5051252421045055305
+    second: chain_armor_46
+  - first:
+      213: 8086667554999218039
+    second: chain_armor_47
+  - first:
+      213: -6614304139676179644
+    second: chain_armor_48
+  - first:
+      213: 4798436089410767544
+    second: chain_armor_49
+  - first:
+      213: -1080217973618787278
+    second: chain_armor_50
+  - first:
+      213: -3552130590803614409
+    second: chain_armor_51
+  - first:
+      213: 6666492226774468662
+    second: chain_armor_52
+  - first:
+      213: -805235393951416298
+    second: chain_armor_53
+  - first:
+      213: -5678605137162490400
+    second: chain_armor_54
+  - first:
+      213: 7706760999919852847
+    second: chain_armor_55
+  - first:
+      213: 7554453777519601870
+    second: chain_armor_56
+  - first:
+      213: -5569716924625884087
+    second: chain_armor_57
+  - first:
+      213: -2143982887143882047
+    second: chain_armor_58
+  - first:
+      213: -7061368403176846758
+    second: chain_armor_59
+  - first:
+      213: 2710309335356170308
+    second: chain_armor_60
+  - first:
+      213: -6477513383160059102
+    second: chain_armor_61
+  - first:
+      213: 318866396499741235
+    second: chain_armor_62
+  - first:
+      213: -3866814957674879673
+    second: chain_armor_63
+  - first:
+      213: -7053285862004131312
+    second: chain_armor_64
+  - first:
+      213: 2044032374011432734
+    second: chain_armor_65
+  - first:
+      213: -2353336803048586111
+    second: chain_armor_66
+  - first:
+      213: -2514419859927063683
+    second: chain_armor_67
+  - first:
+      213: 6640359813159290041
+    second: chain_armor_68
+  - first:
+      213: 1109964564925514125
+    second: chain_armor_69
+  - first:
+      213: -7712305502910129068
+    second: chain_armor_70
+  - first:
+      213: -3312010798524607192
+    second: chain_armor_71
+  - first:
+      213: 5524253086158896229
+    second: chain_armor_72
+  - first:
+      213: -1208873084105363382
+    second: chain_armor_73
+  - first:
+      213: 6603515028391612788
+    second: chain_armor_74
+  - first:
+      213: -2835895871156323052
+    second: chain_armor_75
+  - first:
+      213: -6079990362655218302
+    second: chain_armor_76
+  - first:
+      213: -6113724522297732842
+    second: chain_armor_77
+  - first:
+      213: -5092141846247233313
+    second: chain_armor_78
+  - first:
+      213: -1419414086710422493
+    second: chain_armor_79
+  - first:
+      213: 7803913703347510757
+    second: chain_armor_80
+  - first:
+      213: -6249066984544289590
+    second: chain_armor_81
+  - first:
+      213: -835035324504684014
+    second: chain_armor_82
+  - first:
+      213: -4610014808993120278
+    second: chain_armor_83
+  - first:
+      213: -1087148758878887936
+    second: chain_armor_84
+  - first:
+      213: 8010327923461259056
+    second: chain_armor_85
+  - first:
+      213: -5326846286903280814
+    second: chain_armor_86
+  - first:
+      213: 1089761869796577447
+    second: chain_armor_87
+  - first:
+      213: 7634534574739340384
+    second: chain_armor_88
+  - first:
+      213: 6428500120874134676
+    second: chain_armor_89
+  - first:
+      213: 18816369882467768
+    second: chain_armor_90
+  - first:
+      213: 3772850975200102685
+    second: chain_armor_91
+  - first:
+      213: 8365261528253240836
+    second: chain_armor_92
+  - first:
+      213: 5462291037513110466
+    second: chain_armor_93
+  - first:
+      213: 1102113544864028442
+    second: chain_armor_94
+  - first:
+      213: -7113373498971178026
+    second: chain_armor_95
+  - first:
+      213: 274355642162962949
+    second: chain_armor_96
+  - first:
+      213: 1374316711779039426
+    second: chain_armor_97
+  - first:
+      213: 1521384717965129186
+    second: chain_armor_98
+  - first:
+      213: -6978967663916960709
+    second: chain_armor_99
+  - first:
+      213: 1704721109847200367
+    second: chain_armor_100
+  - first:
+      213: 3831180941383939138
+    second: chain_armor_101
+  - first:
+      213: 6020241719685657785
+    second: chain_armor_102
+  - first:
+      213: -6999312100261877939
+    second: chain_armor_103
+  - first:
+      213: -6314462815731056809
+    second: chain_armor_104
+  - first:
+      213: -3874675189459510745
+    second: chain_armor_105
+  - first:
+      213: -5656576358386864153
+    second: chain_armor_106
+  - first:
+      213: 4292972569589504695
+    second: chain_armor_107
+  - first:
+      213: -7649197424499034713
+    second: chain_armor_108
+  - first:
+      213: -5432943262021886539
+    second: chain_armor_109
+  - first:
+      213: -1292018241772071355
+    second: chain_armor_110
+  - first:
+      213: -4507698533962284563
+    second: chain_armor_111
+  - first:
+      213: 1812332732085599550
+    second: chain_armor_112
+  - first:
+      213: 8561752319481366502
+    second: chain_armor_113
+  - first:
+      213: -6531606110090203611
+    second: chain_armor_114
+  - first:
+      213: -2156593105315556948
+    second: chain_armor_115
+  - first:
+      213: -2174811184549515629
+    second: chain_armor_116
+  - first:
+      213: -1817744420128575902
+    second: chain_armor_117
+  - first:
+      213: 4085818525209363360
+    second: chain_armor_118
+  - first:
+      213: 140934739179799265
+    second: chain_armor_119
+  - first:
+      213: -8833774612505140462
+    second: chain_armor_120
+  - first:
+      213: 514447071136910797
+    second: chain_armor_121
+  - first:
+      213: -7263840149384298684
+    second: chain_armor_122
+  - first:
+      213: 32840522638685916
+    second: chain_armor_123
+  - first:
+      213: 8618513608240289658
+    second: chain_armor_124
+  - first:
+      213: -4301022988801998477
+    second: chain_armor_125
+  - first:
+      213: 8555844859907230402
+    second: chain_armor_126
+  - first:
+      213: -7910277471318807085
+    second: chain_armor_127
+  - first:
+      213: -6297550192751935269
+    second: chain_armor_128
+  - first:
+      213: -1089364473905620348
+    second: chain_armor_129
+  - first:
+      213: -3790242950598799847
+    second: chain_armor_130
+  - first:
+      213: -6242552999370115286
+    second: chain_armor_131
+  - first:
+      213: 1872535258510621546
+    second: chain_armor_132
+  - first:
+      213: 1082702525039423338
+    second: chain_armor_133
+  - first:
+      213: -5705181022872635916
+    second: chain_armor_134
+  - first:
+      213: 2506704039923365116
+    second: chain_armor_135
+  - first:
+      213: 422800507004102880
+    second: chain_armor_136
+  - first:
+      213: -6180191795703046363
+    second: chain_armor_137
+  - first:
+      213: 8954135615005724928
+    second: chain_armor_138
+  - first:
+      213: -9115660646328261293
+    second: chain_armor_139
+  - first:
+      213: 8823699936428132717
+    second: chain_armor_140
+  - first:
+      213: 5043155625516563589
+    second: chain_armor_141
+  - first:
+      213: 8668880255305411712
+    second: chain_armor_142
+  - first:
+      213: -3579363026635267041
+    second: chain_armor_143
+  - first:
+      213: -1083771822878434563
+    second: chain_armor_144
+  - first:
+      213: -6356311045772866253
+    second: chain_armor_145
+  - first:
+      213: 159499608232694710
+    second: chain_armor_146
+  - first:
+      213: -8970306299017384059
+    second: chain_armor_147
+  - first:
+      213: -3553332579132306847
+    second: chain_armor_148
+  - first:
+      213: 7234588172733233348
+    second: chain_armor_149
+  - first:
+      213: 6633752097489000005
+    second: chain_armor_150
+  - first:
+      213: -5368753536284503968
+    second: chain_armor_151
+  - first:
+      213: -3027295140791726201
+    second: chain_armor_152
+  - first:
+      213: 1546201808615916981
+    second: chain_armor_153
+  - first:
+      213: 4973408755758821967
+    second: chain_armor_154
+  - first:
+      213: 5442505440676908519
+    second: chain_armor_155
+  - first:
+      213: -4810124576323277
+    second: chain_armor_156
+  - first:
+      213: -1055282088815239973
+    second: chain_armor_157
+  - first:
+      213: -8221187047166898654
+    second: chain_armor_158
+  - first:
+      213: 8807485546058450312
+    second: chain_armor_159
+  - first:
+      213: 2731797323248400255
+    second: chain_armor_160
+  - first:
+      213: -4140946768957854120
+    second: chain_armor_161
+  - first:
+      213: -8380917643966313006
+    second: chain_armor_162
+  - first:
+      213: -2992440376795130324
+    second: chain_armor_163
+  - first:
+      213: 7597777351757661203
+    second: chain_armor_164
+  - first:
+      213: 5799241425502053406
+    second: chain_armor_165
+  - first:
+      213: 1434210032787735218
+    second: chain_armor_166
+  - first:
+      213: 6971202771065683979
+    second: chain_armor_167
+  - first:
+      213: 4008117986600267175
+    second: chain_armor_168
+  - first:
+      213: 4346695287583341468
+    second: chain_armor_169
+  - first:
+      213: -3704262189199038586
+    second: chain_armor_170
+  - first:
+      213: -1176973998688028480
+    second: chain_armor_171
+  - first:
+      213: -5311390716528083750
+    second: chain_armor_172
+  - first:
+      213: -2047738463105991843
+    second: chain_armor_173
+  - first:
+      213: -3062510344021266262
+    second: chain_armor_174
+  - first:
+      213: -3638249484392376354
+    second: chain_armor_175
+  - first:
+      213: 1867507940476285312
+    second: chain_armor_176
+  - first:
+      213: -7383256883333718337
+    second: chain_armor_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chain_armor_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1729
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c819bc54d92a3ec40800000000000000
+      internalID: 5540450762960376204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1729
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7a0604e3f01df0800000000000000
+      internalID: -211401021806969918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1729
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b845f7ee16f74360800000000000000
+      internalID: 7153957145702385846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1729
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0448478266873fc30800000000000000
+      internalID: 4391986441777087552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1729
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48ec72f12cf5c600800000000000000
+      internalID: 488073357371959373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1729
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8654c34c4817360800000000000000
+      internalID: 7165654460482808014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1729
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2ae5c0169e91570800000000000000
+      internalID: 8438031979883963119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636f93c8f9310b950800000000000000
+      internalID: 6462687041249998390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1665
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc092fd53a56a9630800000000000000
+      internalID: 3934568976791802059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1665
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c64b3ef1a5181e0800000000000000
+      internalID: -2197376050169353211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1665
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab4cb13d111848e0800000000000000
+      internalID: -1709097241500955737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1665
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d8fdcf165b49d0800000000000000
+      internalID: -2789040849626277942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1665
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85b9aa1481339130800000000000000
+      internalID: 3572253372887709066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1665
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416a83b04a0e59c30800000000000000
+      internalID: 4365642408973084180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1601
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3a78b3b031a7330800000000000000
+      internalID: 3709298182057337774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1601
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9744ca37f7c993950800000000000000
+      internalID: 6429342014263542905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1601
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c757450b25f4f50800000000000000
+      internalID: 6867798874048003190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1601
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8076cf9ff80378ad0800000000000000
+      internalID: -2700136056652798200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1601
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585bfa17e47ab1650800000000000000
+      internalID: 6204736866989618565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1601
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e365835abf20fc0800000000000000
+      internalID: -3529982470871695773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1601
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f0f3b33ccb9b090800000000000000
+      internalID: -8018170114857824478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1537
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a51bc8940879500800000000000000
+      internalID: 402931745054349891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1537
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4288012a253051990800000000000000
+      internalID: -7416017557954459612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1537
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df7a085c654603c0800000000000000
+      internalID: -4393748054817472554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1537
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d93af4e6cf592d70800000000000000
+      internalID: 9018845036635896274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1537
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4828f03bc600f40800000000000000
+      internalID: 5692669445311464662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1537
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce45ca03c42c9910800000000000000
+      internalID: 1845390367432986319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1537
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809641e48b30249c0800000000000000
+      internalID: -3944586233504306936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1473
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e72df07dbd4f0b0800000000000000
+      internalID: -5695685911986930035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1471
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b6e5d9baceac4a0800000000000000
+      internalID: -6572180484370044130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1471
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eced1cb2ee8f6d90800000000000000
+      internalID: -7102300982870151967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1471
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e951693f680143330800000000000000
+      internalID: 3689592166521640350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1471
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f766cc0de723da80800000000000000
+      internalID: -8443360977314486283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1471
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab33162ac1fc685f0800000000000000
+      internalID: -754688165647666246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1471
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b4c1cef370e7d0800000000000000
+      internalID: -2891183422762077350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1409
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f2503bc436632b0800000000000000
+      internalID: -5605183505143877797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1409
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab95839dd885870800000000000000
+      internalID: 8671837046594714118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1409
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084613236d9684bc0800000000000000
+      internalID: -3798669917000997760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1409
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c806f43e9e84125e0800000000000000
+      internalID: -1936186195414392692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1409
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6281ca82a8dec330800000000000000
+      internalID: 3733159333760959083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1409
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537881df480dcdab0800000000000000
+      internalID: -4981877818178107595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1409
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183b4016b273287f0800000000000000
+      internalID: -611865939918146687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1345
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8903cdb86d7bebe0800000000000000
+      internalID: -1446924966455735926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1346
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d15aa6011aa0080800000000000000
+      internalID: -9220380195206914667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1344
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9210aba09990d70800000000000000
+      internalID: 9009900800880748982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1346
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b414a454e454a3810800000000000000
+      internalID: 1745784008031748427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1346
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe8337057a91640800000000000000
+      internalID: 5051252421045055305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1343
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fa768db4d993070800000000000000
+      internalID: 8086667554999218039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1346
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443a436dd654534a0800000000000000
+      internalID: -6614304139676179644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1281
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba4eba3338779240800000000000000
+      internalID: 4798436089410767544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1281
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cb57ae97b4201f0800000000000000
+      internalID: -1080217973618787278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1281
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352a533c0c44bec0800000000000000
+      internalID: -3552130590803614409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1281
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6388bc21c53248c50800000000000000
+      internalID: 6666492226774468662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61044feecaa33d4f0800000000000000
+      internalID: -805235393951416298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_54
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1281
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eda8bbd6ba8131b0800000000000000
+      internalID: -5678605137162490400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1281
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d9e091c4ae3fa60800000000000000
+      internalID: 7706760999919852847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1215
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8e9297fafc6d860800000000000000
+      internalID: 7554453777519601870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_57
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1218
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c613877f364b2b0800000000000000
+      internalID: -5569716924625884087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_58
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1218
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2c5476cea0f32e0800000000000000
+      internalID: -2143982887143882047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1217
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a0a7c99daf00e90800000000000000
+      internalID: -7061368403176846758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1216
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440645d0bf3fc9520800000000000000
+      internalID: 2710309335356170308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1217
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22be7e8b5ef3b16a0800000000000000
+      internalID: -6477513383160059102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_62
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1218
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a0d265c47dc6400800000000000000
+      internalID: 318866396499741235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1153
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7452f938840565ac0800000000000000
+      internalID: -3866814957674879673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a75ffd0e1bd1e90800000000000000
+      internalID: -7053285862004131312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f895a4d9cdd5c10800000000000000
+      internalID: 2044032374011432734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1154
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1848f6965a4475fd0800000000000000
+      internalID: -2353336803048586111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_67
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1154
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d732cd8957cfa1dd0800000000000000
+      internalID: -2514419859927063683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_68
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1153
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b48324611c472c50800000000000000
+      internalID: 6640359813159290041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_69
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1153
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8108a514e2676f00800000000000000
+      internalID: 1109964564925514125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1090
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c50c3b10368f490800000000000000
+      internalID: -7712305502910129068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825deadf9bf5902d0800000000000000
+      internalID: -3312010798524607192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3bd1c9e61aac40800000000000000
+      internalID: 5524253086158896229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1088
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a407e5bb558393fe0800000000000000
+      internalID: -1208873084105363382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1088
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4715c307ee564ab50800000000000000
+      internalID: 6603515028391612788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1088
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dfabbfabfd4a8d0800000000000000
+      internalID: -2835895871156323052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28523247af88f9ba0800000000000000
+      internalID: -6079990362655218302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61159d950ffa72ba0800000000000000
+      internalID: -6113724522297732842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1025
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8288c58f31559b0800000000000000
+      internalID: -5092141846247233313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_79
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1025
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3249074986a3d4ce0800000000000000
+      internalID: -1419414086710422493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_80
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1026
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edd4d19a221d4c60800000000000000
+      internalID: 7803913703347510757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1026
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accbd90cfaad649a0800000000000000
+      internalID: -6249066984544289590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_82
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1025
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21acefbebcb5964f0800000000000000
+      internalID: -835035324504684014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_83
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1025
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefbca4c4ffe500c0800000000000000
+      internalID: -4610014808993120278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 961
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006409b6fba9e0f0800000000000000
+      internalID: -1087148758878887936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 960
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ffc4c4ec66a2f60800000000000000
+      internalID: 8010327923461259056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 961
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b7500668d3316b0800000000000000
+      internalID: -5326846286903280814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 961
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a09df295ac9f1f00800000000000000
+      internalID: 1089761869796577447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 960
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cb6c80fb053f960800000000000000
+      internalID: 7634534574739340384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_89
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 960
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c224fdcce963950800000000000000
+      internalID: 6428500120874134676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_90
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 960
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd8ec28369d24000800000000000000
+      internalID: 18816369882467768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 897
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19c947f8fbdb5430800000000000000
+      internalID: 3772850975200102685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_92
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 897
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40696c4f901671470800000000000000
+      internalID: 8365261528253240836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 897
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3d4c612c4fdcb40800000000000000
+      internalID: 5462291037513110466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 897
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1754c70e6e7b4f00800000000000000
+      internalID: 1102113544864028442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 897
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db352fad78384d90800000000000000
+      internalID: -7113373498971178026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_96
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 897
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5026f31c005bec300800000000000000
+      internalID: 274355642162962949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_97
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8f87694cd821310800000000000000
+      internalID: 1374316711779039426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5f401275b0d1510800000000000000
+      internalID: 1521384717965129186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34ba45c2e9b52f90800000000000000
+      internalID: -6978967663916960709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f625d8141d268a710800000000000000
+      internalID: 1704721109847200367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244bf6984c61b2530800000000000000
+      internalID: 3831180941383939138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 833
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4b9db82f13c8350800000000000000
+      internalID: 6020241719685657785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_103
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 833
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d472ccf8ab27dde90800000000000000
+      internalID: -6999312100261877939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_104
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 833
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fffe846858e58a0800000000000000
+      internalID: -6314462815731056809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 769
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1f30b1736a3ac0800000000000000
+      internalID: -3874675189459510745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_106
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 769
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef6a7995cdcf71b0800000000000000
+      internalID: -5656576358386864153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 769
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bad0e09ec3b39b30800000000000000
+      internalID: 4292972569589504695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 769
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5f6e7387798d590800000000000000
+      internalID: -7649197424499034713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_109
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 769
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd555e53ee4a94b0800000000000000
+      internalID: -5432943262021886539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_110
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 769
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546d9d72144d11ee0800000000000000
+      internalID: -1292018241772071355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_111
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 769
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de101a0f0107171c0800000000000000
+      internalID: -4507698533962284563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 704
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d76c68403b62910800000000000000
+      internalID: 1812332732085599550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_113
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 704
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e740995f5471d670800000000000000
+      internalID: 8561752319481366502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_114
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 705
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e6d4b49d21b55a0800000000000000
+      internalID: -6531606110090203611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 703
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca11c903ffd3212e0800000000000000
+      internalID: -2156593105315556948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_116
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 703
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e216310c481d1e0800000000000000
+      internalID: -2174811184549515629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_117
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 703
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ea9c9a41316c6e0800000000000000
+      internalID: -1817744420128575902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_118
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 703
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a380d31d4eb3b830800000000000000
+      internalID: 4085818525209363360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e203590663b4f100800000000000000
+      internalID: 140934739179799265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 641
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21364c31bc0286580800000000000000
+      internalID: -8833774612505140462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_121
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 641
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd0bd2b2eea32700800000000000000
+      internalID: 514447071136910797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 641
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f7abe9ed7a13b90800000000000000
+      internalID: -7263840149384298684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_123
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 641
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6fd16084ca47000800000000000000
+      internalID: 32840522638685916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_124
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 641
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77580fb67c1b9770800000000000000
+      internalID: 8618513608240289658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_125
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 641
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3710ba52162bf44c0800000000000000
+      internalID: -4301022988801998477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_126
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca4f1cb1977cb670800000000000000
+      internalID: 8555844859907230402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 577
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd644fdc8c093290800000000000000
+      internalID: -7910277471318807085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_128
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 577
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd004dd277b9a98a0800000000000000
+      internalID: -6297550192751935269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_129
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 578
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48adced58ccc1e0f0800000000000000
+      internalID: -1089364473905620348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_130
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 578
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e41253e1a566bc0800000000000000
+      internalID: -3790242950598799847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_131
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 575
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27befc1f1ffd59a0800000000000000
+      internalID: -6242552999370115286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_132
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 575
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b7be085e49cf910800000000000000
+      internalID: 1872535258510621546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 513
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fa46ac538860f00800000000000000
+      internalID: 1082702525039423338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f57068461023d0b0800000000000000
+      internalID: -5705181022872635916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_135
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 513
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf43ba01b0a99c220800000000000000
+      internalID: 2506704039923365116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_136
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 513
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a5de22d61ed500800000000000000
+      internalID: 422800507004102880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_137
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 513
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f165d4e4c8b3aa0800000000000000
+      internalID: -6180191795703046363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_138
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 513
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001171b96ea734c70800000000000000
+      internalID: 8954135615005724928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_139
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 513
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a89260faae7180800000000000000
+      internalID: -9115660646328261293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_140
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 447
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d698f6b9754147a70800000000000000
+      internalID: 8823699936428132717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_141
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 447
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c7de55253ecf540800000000000000
+      internalID: 5043155625516563589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_142
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 447
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c60e999ac0e4870800000000000000
+      internalID: 8668880255305411712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_143
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 447
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14ec33aa4c835ec0800000000000000
+      internalID: -3579363026635267041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_144
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfad0c7e44ba5f0f0800000000000000
+      internalID: -1083771822878434563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_145
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 447
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d01d2f7c8d9c7a0800000000000000
+      internalID: -6356311045772866253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_146
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 447
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b316827c08a63200800000000000000
+      internalID: 159499608232694710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fae90a2f1138380800000000000000
+      internalID: -8970306299017384059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 385
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a0ffb78d600bec0800000000000000
+      internalID: -3553332579132306847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_149
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 385
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b104dc9b666460800000000000000
+      internalID: 7234588172733233348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 385
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54695d2b262df0c50800000000000000
+      internalID: 6633752097489000005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_151
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 385
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060d3278a1b5e75b0800000000000000
+      internalID: -5368753536284503968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 385
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc7d6db13ecf5d0800000000000000
+      internalID: -3027295140791726201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_153
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 385
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54e915a56357510800000000000000
+      internalID: 1546201808615916981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_154
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 321
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4272d1c9e8150540800000000000000
+      internalID: 4973408755758821967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_155
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 321
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed8da7dcd9a78b40800000000000000
+      internalID: 5442505440676908519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_156
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 321
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3398d499739eeeff0800000000000000
+      internalID: -4810124576323277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_157
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 321
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcd5560882ea51f0800000000000000
+      internalID: -1055282088815239973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_158
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e039530f978ed80800000000000000
+      internalID: -8221187047166898654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_159
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 319
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8858339a0797a3a70800000000000000
+      internalID: 8807485546058450312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_160
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 319
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77759a113b49e520800000000000000
+      internalID: 2731797323248400255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 257
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e27727ad66886c0800000000000000
+      internalID: -4140946768957854120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_162
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 257
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd859b8ecff0bb80800000000000000
+      internalID: -8380917643966313006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_163
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 257
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c261799f457b876d0800000000000000
+      internalID: -2992440376795130324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 257
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31406062f3ab07960800000000000000
+      internalID: 7597777351757661203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_165
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 257
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14a7cdc95b0b7050800000000000000
+      internalID: 5799241425502053406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_166
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 257
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b24d911d6657e310800000000000000
+      internalID: 1434210032787735218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_167
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 257
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c69a3cffaeb060800000000000000
+      internalID: 6971202771065683979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_168
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ada929a212bf9730800000000000000
+      internalID: 4008117986600267175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bf4439550925c30800000000000000
+      internalID: 4346695287583341468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_170
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68761e93a21d79cc0800000000000000
+      internalID: -3704262189199038586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_171
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 193
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c83452526c8aafe0800000000000000
+      internalID: -1176973998688028480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_172
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 194
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc3906c8462a46b0800000000000000
+      internalID: -5311390716528083750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_173
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb9a997b8f493e0800000000000000
+      internalID: -2047738463105991843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_174
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 192
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa037a76117cf75d0800000000000000
+      internalID: -3062510344021266262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_175
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75b86ce57528dc0800000000000000
+      internalID: -3638249484392376354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_176
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0817f4fc398bae910800000000000000
+      internalID: 1867507940476285312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain_armor_177
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe9f679bf6698990800000000000000
+      internalID: -7383256883333718337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

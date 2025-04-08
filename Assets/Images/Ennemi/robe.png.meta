@@ -1,0 +1,4580 @@
+fileFormatVersion: 2
+guid: f1a9a9f1270204cfba02338113ecac26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8989714395450713564
+    second: robe_0
+  - first:
+      213: -5730206229420347396
+    second: robe_1
+  - first:
+      213: -2257989523096644671
+    second: robe_2
+  - first:
+      213: -3274635834968962480
+    second: robe_3
+  - first:
+      213: -6037333431598619509
+    second: robe_4
+  - first:
+      213: 8859986440560297915
+    second: robe_5
+  - first:
+      213: -8046118188512825467
+    second: robe_6
+  - first:
+      213: 5155902079398002492
+    second: robe_7
+  - first:
+      213: -5443353677812071438
+    second: robe_8
+  - first:
+      213: 4533340580000586218
+    second: robe_9
+  - first:
+      213: -4054425403533876647
+    second: robe_10
+  - first:
+      213: 1570258992784658115
+    second: robe_11
+  - first:
+      213: 7804069849539771820
+    second: robe_12
+  - first:
+      213: 4128365754133066147
+    second: robe_13
+  - first:
+      213: -424104195460308232
+    second: robe_14
+  - first:
+      213: 7862167663492855488
+    second: robe_15
+  - first:
+      213: -6758157424726584282
+    second: robe_16
+  - first:
+      213: -5578065095437950583
+    second: robe_17
+  - first:
+      213: -2472501576176392417
+    second: robe_18
+  - first:
+      213: 7363650199094663688
+    second: robe_19
+  - first:
+      213: 1950936704701576424
+    second: robe_20
+  - first:
+      213: 181794054930597328
+    second: robe_21
+  - first:
+      213: -7897777926426151601
+    second: robe_22
+  - first:
+      213: -3148554164309932207
+    second: robe_23
+  - first:
+      213: -6331886814084840232
+    second: robe_24
+  - first:
+      213: -669584642462810847
+    second: robe_25
+  - first:
+      213: 2945782859668167795
+    second: robe_26
+  - first:
+      213: 8780637794077184034
+    second: robe_27
+  - first:
+      213: 1639891147531546549
+    second: robe_28
+  - first:
+      213: 3189503351496912617
+    second: robe_29
+  - first:
+      213: -5847953502507193968
+    second: robe_30
+  - first:
+      213: -2209014809160865174
+    second: robe_31
+  - first:
+      213: 5109302681772599927
+    second: robe_32
+  - first:
+      213: 8048133181197321746
+    second: robe_33
+  - first:
+      213: 5706973467912751002
+    second: robe_34
+  - first:
+      213: 202152721777911698
+    second: robe_35
+  - first:
+      213: 3604255658096475348
+    second: robe_36
+  - first:
+      213: -8564996458246519214
+    second: robe_37
+  - first:
+      213: -4066085051753378550
+    second: robe_38
+  - first:
+      213: -3031993309283095662
+    second: robe_39
+  - first:
+      213: -5591254220593315339
+    second: robe_40
+  - first:
+      213: -6323955889955148946
+    second: robe_41
+  - first:
+      213: 6665555496490782781
+    second: robe_42
+  - first:
+      213: -1160654420552754632
+    second: robe_43
+  - first:
+      213: -8149386343625764126
+    second: robe_44
+  - first:
+      213: 190155111347842746
+    second: robe_45
+  - first:
+      213: 9133320319303656177
+    second: robe_46
+  - first:
+      213: 1973035860392985152
+    second: robe_47
+  - first:
+      213: 6832979717419701503
+    second: robe_48
+  - first:
+      213: 7676256212647140397
+    second: robe_49
+  - first:
+      213: 1064303100086594957
+    second: robe_50
+  - first:
+      213: -5510899517581942495
+    second: robe_51
+  - first:
+      213: 6464188875991107238
+    second: robe_52
+  - first:
+      213: 5430361011654319495
+    second: robe_53
+  - first:
+      213: 7221508979442134360
+    second: robe_54
+  - first:
+      213: -962631828221096949
+    second: robe_55
+  - first:
+      213: -8889494517409980992
+    second: robe_56
+  - first:
+      213: 3718244588079080223
+    second: robe_57
+  - first:
+      213: 8515924784637592215
+    second: robe_58
+  - first:
+      213: -4786037847134456509
+    second: robe_59
+  - first:
+      213: 2932807024674239480
+    second: robe_60
+  - first:
+      213: -8195537449626438934
+    second: robe_61
+  - first:
+      213: 5796834721294061238
+    second: robe_62
+  - first:
+      213: 8568758897367955111
+    second: robe_63
+  - first:
+      213: -8779050387623080602
+    second: robe_64
+  - first:
+      213: -71419321606997048
+    second: robe_65
+  - first:
+      213: 1325954670278931846
+    second: robe_66
+  - first:
+      213: 7069669800956119789
+    second: robe_67
+  - first:
+      213: 6552453278919084543
+    second: robe_68
+  - first:
+      213: -6827882157159890235
+    second: robe_69
+  - first:
+      213: -750354430170466864
+    second: robe_70
+  - first:
+      213: 983281548237437514
+    second: robe_71
+  - first:
+      213: 2131755514836147283
+    second: robe_72
+  - first:
+      213: 8920480178130726145
+    second: robe_73
+  - first:
+      213: 1630080327880201910
+    second: robe_74
+  - first:
+      213: 8894692856149207801
+    second: robe_75
+  - first:
+      213: -1249656343089787169
+    second: robe_76
+  - first:
+      213: -2121048095923614080
+    second: robe_77
+  - first:
+      213: 3247444033416471974
+    second: robe_78
+  - first:
+      213: -874672889348245930
+    second: robe_79
+  - first:
+      213: 875211389396905585
+    second: robe_80
+  - first:
+      213: -4444085447039632503
+    second: robe_81
+  - first:
+      213: 2318549802299028202
+    second: robe_82
+  - first:
+      213: -2159662691013431409
+    second: robe_83
+  - first:
+      213: -8358440546605016838
+    second: robe_84
+  - first:
+      213: -7357570182520704564
+    second: robe_85
+  - first:
+      213: 4160200260727077698
+    second: robe_86
+  - first:
+      213: -835630781298684122
+    second: robe_87
+  - first:
+      213: 8903575719981760031
+    second: robe_88
+  - first:
+      213: 7361445971833316934
+    second: robe_89
+  - first:
+      213: 2164864733483660227
+    second: robe_90
+  - first:
+      213: 5483487264693699099
+    second: robe_91
+  - first:
+      213: 6209791762761327785
+    second: robe_92
+  - first:
+      213: -4508263082612556881
+    second: robe_93
+  - first:
+      213: -5266723446899907916
+    second: robe_94
+  - first:
+      213: -4888690251658092771
+    second: robe_95
+  - first:
+      213: -5729962426042412362
+    second: robe_96
+  - first:
+      213: -5466332964368407519
+    second: robe_97
+  - first:
+      213: -4421753312966372966
+    second: robe_98
+  - first:
+      213: -500058436709055159
+    second: robe_99
+  - first:
+      213: -690112550004398440
+    second: robe_100
+  - first:
+      213: -3910934416296495665
+    second: robe_101
+  - first:
+      213: 3942743895481191329
+    second: robe_102
+  - first:
+      213: -5611130012510917594
+    second: robe_103
+  - first:
+      213: 1833077818252682896
+    second: robe_104
+  - first:
+      213: 7656088283495212463
+    second: robe_105
+  - first:
+      213: -7779094782370097793
+    second: robe_106
+  - first:
+      213: -8799061724565130505
+    second: robe_107
+  - first:
+      213: -2091860990459242629
+    second: robe_108
+  - first:
+      213: 5353522070538689723
+    second: robe_109
+  - first:
+      213: -6291404572307055724
+    second: robe_110
+  - first:
+      213: 2408410716682272385
+    second: robe_111
+  - first:
+      213: 2332819328270188864
+    second: robe_112
+  - first:
+      213: 30291274450341156
+    second: robe_113
+  - first:
+      213: 3786081072337919159
+    second: robe_114
+  - first:
+      213: 184388034239350633
+    second: robe_115
+  - first:
+      213: 6854379935493452402
+    second: robe_116
+  - first:
+      213: -7866740117269326632
+    second: robe_117
+  - first:
+      213: 3574484363090870686
+    second: robe_118
+  - first:
+      213: -1028299852768948817
+    second: robe_119
+  - first:
+      213: -2442504868570522259
+    second: robe_120
+  - first:
+      213: 872789900619999535
+    second: robe_121
+  - first:
+      213: -5508149703811479165
+    second: robe_122
+  - first:
+      213: -4245027881738121262
+    second: robe_123
+  - first:
+      213: -180082640530808589
+    second: robe_124
+  - first:
+      213: -4889327247599259529
+    second: robe_125
+  - first:
+      213: 6528895483487104850
+    second: robe_126
+  - first:
+      213: 2753635910113652
+    second: robe_127
+  - first:
+      213: -7416624368134059995
+    second: robe_128
+  - first:
+      213: -8112902104875455189
+    second: robe_129
+  - first:
+      213: -3638824386338665206
+    second: robe_130
+  - first:
+      213: -4401100210800265857
+    second: robe_131
+  - first:
+      213: -3233066341220504495
+    second: robe_132
+  - first:
+      213: -5595108752960718155
+    second: robe_133
+  - first:
+      213: -526396686619491669
+    second: robe_134
+  - first:
+      213: 183692807347105797
+    second: robe_135
+  - first:
+      213: -7827632066233902438
+    second: robe_136
+  - first:
+      213: 6583964208208733815
+    second: robe_137
+  - first:
+      213: -9180995537024172542
+    second: robe_138
+  - first:
+      213: -6011030239190963480
+    second: robe_139
+  - first:
+      213: 8357518197104046340
+    second: robe_140
+  - first:
+      213: 8145194550697458100
+    second: robe_141
+  - first:
+      213: 3260921348956971562
+    second: robe_142
+  - first:
+      213: 5734286052747324899
+    second: robe_143
+  - first:
+      213: -604285966772225412
+    second: robe_144
+  - first:
+      213: -1107124463683377236
+    second: robe_145
+  - first:
+      213: -3612472098514615579
+    second: robe_146
+  - first:
+      213: -6416297031783643060
+    second: robe_147
+  - first:
+      213: 8842157164685130843
+    second: robe_148
+  - first:
+      213: 8220856243015436778
+    second: robe_149
+  - first:
+      213: 3072835921614525416
+    second: robe_150
+  - first:
+      213: -4793896524212590378
+    second: robe_151
+  - first:
+      213: 6268286259582486838
+    second: robe_152
+  - first:
+      213: -7478170243455493793
+    second: robe_153
+  - first:
+      213: 4040694007696869235
+    second: robe_154
+  - first:
+      213: 7379215167951582663
+    second: robe_155
+  - first:
+      213: 4783446962547150885
+    second: robe_156
+  - first:
+      213: 6028297445004683029
+    second: robe_157
+  - first:
+      213: 304414866781050517
+    second: robe_158
+  - first:
+      213: 6372313846868286228
+    second: robe_159
+  - first:
+      213: 3128259715993335239
+    second: robe_160
+  - first:
+      213: 8681827347140836714
+    second: robe_161
+  - first:
+      213: 7672272917193346836
+    second: robe_162
+  - first:
+      213: 7980420699772460382
+    second: robe_163
+  - first:
+      213: 952546787360825285
+    second: robe_164
+  - first:
+      213: -5799757122705736334
+    second: robe_165
+  - first:
+      213: 8229512823096610374
+    second: robe_166
+  - first:
+      213: -4154121518374389214
+    second: robe_167
+  - first:
+      213: 4084752911966133830
+    second: robe_168
+  - first:
+      213: 1777782258253154518
+    second: robe_169
+  - first:
+      213: 271905358642594031
+    second: robe_170
+  - first:
+      213: 4869140912610049790
+    second: robe_171
+  - first:
+      213: -6216235675675847405
+    second: robe_172
+  - first:
+      213: 4696354433707295858
+    second: robe_173
+  - first:
+      213: 2139005694318893172
+    second: robe_174
+  - first:
+      213: 6216929827806475128
+    second: robe_175
+  - first:
+      213: 8878690920817345251
+    second: robe_176
+  - first:
+      213: -3733111072990054074
+    second: robe_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robe_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1729
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52e05fc91e1cc70800000000000000
+      internalID: 8989714395450713564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1729
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff6ba55bc73a70b0800000000000000
+      internalID: -5730206229420347396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1729
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c35549fd720aa0e0800000000000000
+      internalID: -2257989523096644671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1729
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a09efce082e82d0800000000000000
+      internalID: -3274635834968962480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1729
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8469fa2b35173ca0800000000000000
+      internalID: -6037333431598619509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1729
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7cf58b9bef4fa70800000000000000
+      internalID: 8859986440560297915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1729
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f22e04322765090800000000000000
+      internalID: -8046118188512825467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1665
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f3733cf917d8740800000000000000
+      internalID: 5155902079398002492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1665
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3023f8ba25574b0800000000000000
+      internalID: -5443353677812071438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1665
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95cc42d39a9ee30800000000000000
+      internalID: 4533340580000586218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1665
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522b06a399cbb7c0800000000000000
+      internalID: -4054425403533876647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1665
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceca4efb3eaac510800000000000000
+      internalID: 1570258992784658115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1665
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad77203e20ad4c60800000000000000
+      internalID: 7804069849539771820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1665
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a13df5c7c6ea4930800000000000000
+      internalID: 4128365754133066147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1601
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2e5d13b774d1af0800000000000000
+      internalID: -424104195460308232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1601
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6fd0b95d70c1d60800000000000000
+      internalID: 7862167663492855488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1601
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624d003e0a33632a0800000000000000
+      internalID: -6758157424726584282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1601
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9816a6c795bb692b0800000000000000
+      internalID: -5578065095437950583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1601
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17a9659ae8efadd0800000000000000
+      internalID: -2472501576176392417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1601
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a954f77d0f03660800000000000000
+      internalID: 7363650199094663688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1601
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4320fa89e131b10800000000000000
+      internalID: 1950936704701576424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1537
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d58a62dabcd58200800000000000000
+      internalID: 181794054930597328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1537
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45b274f1d4756290800000000000000
+      internalID: -7897777926426151601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1537
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157ca385ba61e44d0800000000000000
+      internalID: -3148554164309932207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1537
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d44e788d7e9028a0800000000000000
+      internalID: -6331886814084840232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1537
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d72f6b05825b6f0800000000000000
+      internalID: -669584642462810847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1537
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c94f747e581e820800000000000000
+      internalID: 2945782859668167795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1537
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22017594d871bd970800000000000000
+      internalID: 8780637794077184034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1473
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfece66f4012c610800000000000000
+      internalID: 1639891147531546549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1471
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee24e34664634c20800000000000000
+      internalID: 3189503351496912617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1471
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099ae04f545e7dea0800000000000000
+      internalID: -5847953502507193968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1471
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aa3642cb00851e0800000000000000
+      internalID: -2209014809160865174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1471
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aa10508b3e7e640800000000000000
+      internalID: 5109302681772599927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1471
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2160d4acc76b0bf60800000000000000
+      internalID: 8048133181197321746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1471
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c489d12e333f40800000000000000
+      internalID: 5706973467912751002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1409
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29763f354d03ec200800000000000000
+      internalID: 202152721777911698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1409
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc3884cc63e40230800000000000000
+      internalID: 3604255658096475348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1409
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256ccbbb915032980800000000000000
+      internalID: -8564996458246519214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1409
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dc6bf303d5297c0800000000000000
+      internalID: -4066085051753378550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1409
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29be1de36223ce5d0800000000000000
+      internalID: -3031993309283095662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1409
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1c1acf8efd762b0800000000000000
+      internalID: -5591254220593315339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_41
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1409
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bebf3bf9bcc38a0800000000000000
+      internalID: -6323955889955148946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d305cfe886fc08c50800000000000000
+      internalID: 6665555496490782781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1346
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a57f334f684efe0800000000000000
+      internalID: -1160654420552754632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1344
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e254ca3c4097ee80800000000000000
+      internalID: -8149386343625764126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_45
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1346
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abeec18f01193a200800000000000000
+      internalID: 190155111347842746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_46
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1346
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a3f3a07210ce70800000000000000
+      internalID: 9133320319303656177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_47
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1343
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042c4d359a1a16b10800000000000000
+      internalID: 1973035860392985152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_48
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1346
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4104ea9de93de50800000000000000
+      internalID: 6832979717419701503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1281
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cd7b7da5a878a60800000000000000
+      internalID: 7676256212647140397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1281
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d2206d70a25ce00800000000000000
+      internalID: 1064303100086594957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1281
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12128a5361a5583b0800000000000000
+      internalID: -5510899517581942495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1281
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a64b72b88965b950800000000000000
+      internalID: 6464188875991107238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d59cd91948c5b40800000000000000
+      internalID: 5430361011654319495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_54
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1281
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d21f5d724f73460800000000000000
+      internalID: 7221508979442134360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1281
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c8565d37b04a2f0800000000000000
+      internalID: -962631828221096949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1215
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddef0c5db22a480800000000000000
+      internalID: -8889494517409980992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1218
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13e874b0cbd99330800000000000000
+      internalID: 3718244588079080223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1218
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792c44ae874ae2670800000000000000
+      internalID: 8515924784637592215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1217
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b9ff7fe3949db0800000000000000
+      internalID: -4786037847134456509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1216
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f37a74437c63b820800000000000000
+      internalID: 2932807024674239480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1217
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2fa938c1a934e80800000000000000
+      internalID: -8195537449626438934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1218
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be0260577e727050800000000000000
+      internalID: 5796834721294061238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1153
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6b59361d85ae670800000000000000
+      internalID: 8568758897367955111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1153
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d88749f2c8a2680800000000000000
+      internalID: -8779050387623080602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1153
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbf3816184420ff0800000000000000
+      internalID: -71419321606997048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1154
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685fe365fbcb66210800000000000000
+      internalID: 1325954670278931846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1154
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deacb4d2a338c1260800000000000000
+      internalID: 7069669800956119789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_68
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1153
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9c0517a8dfeea50800000000000000
+      internalID: 6552453278919084543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1153
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2c14e8a5d7e31a0800000000000000
+      internalID: -6827882157159890235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1090
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d57c0e0f943695f0800000000000000
+      internalID: -750354430170466864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1089
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a73e4cb5155ad00800000000000000
+      internalID: 983281548237437514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1089
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cd9c1a854859d10800000000000000
+      internalID: 2131755514836147283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1088
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d25639579ebcb70800000000000000
+      internalID: 8920480178130726145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1088
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6d6a2fb653f9610800000000000000
+      internalID: 1630080327880201910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1088
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa6afcc60c407b70800000000000000
+      internalID: 8894692856149207801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1089
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdec1da4d2458aee0800000000000000
+      internalID: -1249656343089787169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e44fa9ef58092e0800000000000000
+      internalID: -2121048095923614080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_78
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1025
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a520c7842d311d20800000000000000
+      internalID: 3247444033416471974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1025
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656bbbf24a98cd3f0800000000000000
+      internalID: -874672889348245930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_80
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1026
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ee0602f10652c00800000000000000
+      internalID: 875211389396905585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_81
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1026
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b38b9e4df6352c0800000000000000
+      internalID: -4444085447039632503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_82
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1025
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2f510d2c42d2020800000000000000
+      internalID: 2318549802299028202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_83
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1025
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fea7399365702e0800000000000000
+      internalID: -2159662691013431409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 961
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d2679b9ad00c80800000000000000
+      internalID: -8358440546605016838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 960
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1f8dca6e8a4e990800000000000000
+      internalID: -7357570182520704564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 961
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bff1f68100cb930800000000000000
+      internalID: 4160200260727077698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 961
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f4f455b3e3764f0800000000000000
+      internalID: -835630781298684122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_88
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 960
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e3e44b1fadf8b70800000000000000
+      internalID: 8903575719981760031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_89
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 960
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ea58db1c192660800000000000000
+      internalID: 7361445971833316934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_90
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 960
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3701251052b0e10800000000000000
+      internalID: 2164864733483660227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 897
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12427e4d92491c40800000000000000
+      internalID: 5483487264693699099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 897
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4298415bc9d2650800000000000000
+      internalID: 6209791762761327785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 897
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabfed6bc9e6f61c0800000000000000
+      internalID: -4508263082612556881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 897
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b26f49ede6d8e6b0800000000000000
+      internalID: -5266723446899907916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 897
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f11051e12e72cb0800000000000000
+      internalID: -4888690251658092771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_96
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2186b38851b70b0800000000000000
+      internalID: -5729962426042412362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_97
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 897
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12420da712fa324b0800000000000000
+      internalID: -5466332964368407519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a919b301ac6c2a2c0800000000000000
+      internalID: -4421753312966372966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9450501508f6f09f0800000000000000
+      internalID: -500058436709055159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896e2f9ca4a3c66f0800000000000000
+      internalID: -690112550004398440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc53cc09ed199b9c0800000000000000
+      internalID: -3910934416296495665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_102
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 833
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab0f72fea077b630800000000000000
+      internalID: 3942743895481191329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 833
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ce0cf8bf24122b0800000000000000
+      internalID: -5611130012510917594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_104
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 833
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096699a4096607910800000000000000
+      internalID: 1833077818252682896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_105
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa523caeab3ef3a60800000000000000
+      internalID: 7656088283495212463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_106
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 769
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f755cb6c28a1b0490800000000000000
+      internalID: -7779094782370097793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_107
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f23f8e1bf373e580800000000000000
+      internalID: -8799061724565130505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b771e28238738f2e0800000000000000
+      internalID: -2091860990459242629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_109
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 769
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc1caf75f78b4a40800000000000000
+      internalID: 5353522070538689723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_110
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 769
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b9e51ffd070b8a0800000000000000
+      internalID: -6291404572307055724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_111
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 769
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e371959c46c6120800000000000000
+      internalID: 2408410716682272385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 704
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c5bab1d6df5020800000000000000
+      internalID: 2332819328270188864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_113
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 704
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d086de0cd9b6000800000000000000
+      internalID: 30291274450341156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_114
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 705
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc188ffcacda8430800000000000000
+      internalID: 3786081072337919159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 703
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9674ba1b0f31f8200800000000000000
+      internalID: 184388034239350633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_116
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 703
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272f6aa3c36af1f50800000000000000
+      internalID: 6854379935493452402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_117
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 703
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4d8d90b89b3d290800000000000000
+      internalID: -7866740117269326632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_118
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 703
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91483df69e1b9130800000000000000
+      internalID: 3574484363090870686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadce196bbebab1f0800000000000000
+      internalID: -1028299852768948817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 641
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d11b253ca7a1ed0800000000000000
+      internalID: -2442504868570522259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_121
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 641
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29e0065ac5cc1c00800000000000000
+      internalID: 872789900619999535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 641
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c4ae170f1f83b0800000000000000
+      internalID: -5508149703811479165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_123
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 641
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfce57f1a1a615c0800000000000000
+      internalID: -4245027881738121262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_124
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 641
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f062f4eac7308df0800000000000000
+      internalID: -180082640530808589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_125
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 641
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7703538e5ce952cb0800000000000000
+      internalID: -4889327247599259529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_126
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fa6e4c9db4b9a50800000000000000
+      internalID: 6528895483487104850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 577
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4795342da68c90000800000000000000
+      internalID: 2753635910113652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_128
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 577
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5280dd0ae6bd21990800000000000000
+      internalID: -7416624368134059995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_129
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 578
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d2165058e296f80800000000000000
+      internalID: -8112902104875455189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_130
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 578
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d414cff7c408dc0800000000000000
+      internalID: -3638824386338665206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 575
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f757a522da62ce2c0800000000000000
+      internalID: -4401100210800265857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_132
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 575
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca74cca47d123d0800000000000000
+      internalID: -3233066341220504495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 513
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf81cbb3e2a52b0800000000000000
+      internalID: -5595108752960718155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24a13a00dd1b8f0800000000000000
+      internalID: -526396686619491669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_135
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 513
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500f7b192ab9c8200800000000000000
+      internalID: 183692807347105797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_136
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 513
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9adbabbb1aae5390800000000000000
+      internalID: -7827632066233902438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 513
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776ea246090fe5b50800000000000000
+      internalID: 6583964208208733815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_138
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 513
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e3a3bb33d869080800000000000000
+      internalID: -9180995537024172542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_139
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 513
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea24e268d7849ca0800000000000000
+      internalID: -6011030239190963480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_140
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 447
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ff3e258edbf370800000000000000
+      internalID: 8357518197104046340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_141
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9f4cce94b890170800000000000000
+      internalID: 8145194550697458100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_142
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 447
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22611590be114d20800000000000000
+      internalID: 3260921348956971562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_143
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 447
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed2b7e88c6449f40800000000000000
+      internalID: 5734286052747324899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_144
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 447
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ab9c76d152d97f0800000000000000
+      internalID: -604285966772225412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_145
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 447
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e1048a24b2a0f0800000000000000
+      internalID: -1107124463683377236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_146
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 447
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2c60f14cbedddc0800000000000000
+      internalID: -3612472098514615579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48842738dbb4f6a0800000000000000
+      internalID: -6416297031783643060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 385
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c7b31f717a5ba70800000000000000
+      internalID: 8842157164685130843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_149
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 385
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9cc727239561270800000000000000
+      internalID: 8220856243015436778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 385
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3d4e87df7e4aa20800000000000000
+      internalID: 3072835921614525416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_151
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 385
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d82458a288a87db0800000000000000
+      internalID: -4793896524212590378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 385
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63940ec642d6df650800000000000000
+      internalID: 6268286259582486838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_153
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 385
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5950fcd8c3383890800000000000000
+      internalID: -7478170243455493793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 321
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37742de9acd631830800000000000000
+      internalID: 4040694007696869235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5bde6391d386660800000000000000
+      internalID: 7379215167951582663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_156
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 321
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5205b8c2ba7326240800000000000000
+      internalID: 4783446962547150885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51726e14690d8a350800000000000000
+      internalID: 6028297445004683029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_158
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 319
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59615de55bf793400800000000000000
+      internalID: 304414866781050517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_159
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 319
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b13e78ea10f6850800000000000000
+      internalID: 6372313846868286228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 319
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c572f033afc96b20800000000000000
+      internalID: 3128259715993335239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 257
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6df99359fb0c7870800000000000000
+      internalID: 8681827347140836714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_162
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 257
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc8299193697a60800000000000000
+      internalID: 7672272917193346836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_163
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 257
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d9c18285620ce60800000000000000
+      internalID: 7980420699772460382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 257
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfd49c9140283d00800000000000000
+      internalID: 952546787360825285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_165
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 257
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d359510af138fa0800000000000000
+      internalID: -5799757122705736334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_166
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 257
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e023f8f4a153270800000000000000
+      internalID: 8229512823096610374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_167
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 257
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22afc7f0d789956c0800000000000000
+      internalID: -4154121518374389214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_168
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 191
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64edbf8a125ffa830800000000000000
+      internalID: 4084752911966133830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 193
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8cb277b83fba810800000000000000
+      internalID: 1777782258253154518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_170
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0ca6aab7006c300800000000000000
+      internalID: 271905358642594031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_171
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 193
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe7179bcd9a29340800000000000000
+      internalID: 4869140912610049790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_172
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 194
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3151b37869e7bb9a0800000000000000
+      internalID: -6216235675675847405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_173
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744470a97dcc2140800000000000000
+      internalID: 4696354433707295858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_174
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 192
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4785a6698564fad10800000000000000
+      internalID: 2139005694318893172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_175
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8737feb5db8f64650800000000000000
+      internalID: 6216929827806475128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2cdc5e952773b70800000000000000
+      internalID: 8878690920817345251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649b95b0243513cc0800000000000000
+      internalID: -3733111072990054074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

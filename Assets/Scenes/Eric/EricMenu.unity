@@ -1653,8 +1653,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aed13e10cc6954fcd9db95c83cfb9114, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volumeJeuSlider: {fileID: 313009207}
-  volumeMusiqueSlider: {fileID: 1016238732}
+  volumeMusiqueToogle: {fileID: 0}
   togglePleinEcran: {fileID: 958824167}
 --- !u!1 &935202525
 GameObject:
@@ -1987,8 +1986,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aed13e10cc6954fcd9db95c83cfb9114, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volumeJeuSlider: {fileID: 313009207}
-  volumeMusiqueSlider: {fileID: 1016238732}
+  volumeMusiqueToogle: {fileID: 0}
   togglePleinEcran: {fileID: 958824167}
 --- !u!1 &981154546
 GameObject:
