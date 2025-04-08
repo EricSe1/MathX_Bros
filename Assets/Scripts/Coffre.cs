@@ -64,13 +64,15 @@ public class Coffre : MonoBehaviour
             popupPanel.SetActive(false);
             controlButtons.SetActive(false);
             popupGameOver.SetActive(true);
-            
-           // menuButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
-           // menuButton.onClick.AddListener(SceneManager.LoadScene("Menu"));
-           // restartButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
-           // restartButton.onClick.AddListener(SceneManager.LoadScene("Level 1"));
 
-            
+
+            menuButton.interactable = true;
+            menuButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
+            menuButton.onClick.AddListener(SceneMenu);
+
+            restartButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
+            restartButton.onClick.AddListener(SceneLvl1);
+          
         }
     }
 
@@ -78,6 +80,9 @@ public class Coffre : MonoBehaviour
     {
          if (popupPanel != null)
         popupPanel.SetActive(false);
+
+        if(popupGameOver!=null)
+        popupGameOver.SetActive(false);
 
         sr = GetComponent<SpriteRenderer>(); // On récupère le SpriteRenderer du coffre
         if (cle != null)
@@ -197,9 +202,10 @@ public class Coffre : MonoBehaviour
             else
             {
 
-                PrendreDegat();
+                
                 Debug.Log(" Mauvaise réponse !");  
                 LancerNouvelleEquation();
+                PrendreDegat();
             }
         }
         else
@@ -233,6 +239,16 @@ public class Coffre : MonoBehaviour
             yield return null; // Attendre une frame avant de recommencer
         }
         gameObject.SetActive(false); // Après le fondu, désactiver le coffre
+    }
+
+    public void SceneMenu(){
+        Debug.Log("Bouton menu principal clicker !");
+        SceneManager.LoadScene("Menu");
+    }
+
+    public void SceneLvl1(){
+        Debug.Log("Bouton restart !");
+        SceneManager.LoadScene("Level 1");   
     }
 
     public void Ouvrir(){
