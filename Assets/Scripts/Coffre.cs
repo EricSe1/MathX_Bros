@@ -13,6 +13,7 @@ public class Coffre : MonoBehaviour
 
     public GameObject popupPanel;        // Le panel de la popup
     public Text equationText;            // Texte qui affiche l'équation
+    public Text scoreText;            // Texte qui affiche le score
     public InputField inputField;        // Champ de réponse
     public Button submitButton;          // Bouton valider
 
@@ -77,11 +78,51 @@ public class Coffre : MonoBehaviour
 
     void LancerNouvelleEquation()
     {
-        a = Random.Range(1, 10);
-        b = Random.Range(1, 10);
-        equationText.text = $"Résous : {a} + {b} = ?";
-        inputField.text = "";
-        popupPanel.SetActive(true);
+    int type = Random.Range(0, 4); // 0 = +, 1 = *, 2 = division, 3 = équation type x + b = c
+    int a = 0, b = 0, resultat = 0;
+    string equation = "";
+
+    switch (type)
+    {
+        case 0: // addition
+            a = Random.Range(10, 100);
+            b = Random.Range(10, 100);
+            resultat = a + b;
+            equation = $"{a} + {b} = ?";
+            break;
+
+        case 1: // multiplication
+            a = Random.Range(5, 15);
+            b = Random.Range(5, 15);
+            resultat = a * b;
+            equation = $"{a} × {b} = ?";
+            break;
+
+        case 2: // division entière
+            b = Random.Range(2, 10);
+            resultat = Random.Range(2, 10);
+            a = resultat * b; // pour que a / b donne un résultat entier
+            equation = $"{a} ÷ {b} = ?";
+            break;
+
+        case 3: // équation type "x + 7 = 21"
+            int x = Random.Range(5, 30);     // la vraie valeur de x
+            b = Random.Range(1, 20);
+            resultat = x - b;
+            Debug.Log("Resultat dans le switch :" + resultat);  
+            a = resultat; // stocke la bonne réponse dans a
+
+            equation = $"x + {b} = {x} | x = ?";
+            break;
+    }
+
+    
+    this.a = resultat; // on stocke la bonne réponse dans la variable `a`
+    Debug.Log("Resultat en dehors du switch :" + this.a);  
+    equationText.text = equation + $"\n {score} / {objectif}";
+    inputField.text = "";
+    popupPanel.SetActive(true);
+        //scoreText.text = $"Score : {score} / {objectif}";
     }
 
     void VerifierReponse()
