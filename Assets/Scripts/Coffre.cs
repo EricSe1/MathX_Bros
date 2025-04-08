@@ -2,6 +2,8 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
+
 public class Coffre : MonoBehaviour
 {
     public GameObject cle; // Référence à la clé qui apparaîtra
@@ -10,6 +12,7 @@ public class Coffre : MonoBehaviour
     private bool isPlayerInRange = false; // Vérifie si le joueur est proche
     private bool isOpened = false; // Vérifie si le coffre a été ouvert
     public Player joueur; // Référence au joueur
+    public GameObject controlButtons; // Référence au controle Button
 
     public GameObject popupPanel;        // Le panel de la popup
     public Text equationText;            // Texte qui affiche l'équation
@@ -30,6 +33,15 @@ public class Coffre : MonoBehaviour
     public GameObject coeur2;
     public GameObject coeur3;
 
+    public GameObject coeurVIDE1;
+    public GameObject coeurVIDE2;
+    public GameObject coeurVIDE3;
+
+//Game Over
+    public Button menuButton;        // Boutton qui renvoie vers le menu
+    public Button restartButton;      // Boutton qui fais refaire le niveau 
+    public GameObject popupGameOver; // Panel Game Over
+
     // Appelle cette méthode quand le joueur prend un dégât
     public void PrendreDegat()
     {
@@ -37,15 +49,30 @@ public class Coffre : MonoBehaviour
 
         vie--;
 
-        if (vie == 2)
+        if (vie == 2){
             coeur3.SetActive(false); // Masque le 3e cœur
-        else if (vie == 1)
+            coeurVIDE3.SetActive(true); //Démasque le 3eme coeur vide
+        }
+        else if (vie == 1){
             coeur2.SetActive(false); // Masque le 2e cœur
-        else if (vie == 0)
-        {
+            coeurVIDE2.SetActive(true); //Démasque le 3eme coeur vide
+        }
+        else if (vie == 0){
             coeur1.SetActive(false); // Masque le 1er cœur
-            Debug.Log("💀 Le joueur est mort !");
-            // Ajoute ici la logique de mort (rejouer, game over, etc.)
+            coeurVIDE1.SetActive(true); //Démasque le 3eme coeur vide
+            Debug.Log(" Le joueur est mort !");
+            popupPanel.SetActive(false);
+            controlButtons.SetActive(false);
+            popupGameOver.SetActive(true);
+
+
+            menuButton.interactable = true;
+            menuButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
+            menuButton.onClick.AddListener(SceneMenu);
+
+            restartButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
+            restartButton.onClick.AddListener(SceneLvl1);
+          
         }
     }
 
@@ -53,6 +80,9 @@ public class Coffre : MonoBehaviour
     {
          if (popupPanel != null)
         popupPanel.SetActive(false);
+
+        if(popupGameOver!=null)
+        popupGameOver.SetActive(false);
 
         sr = GetComponent<SpriteRenderer>(); // On récupère le SpriteRenderer du coffre
         if (cle != null)
@@ -172,9 +202,10 @@ public class Coffre : MonoBehaviour
             else
             {
 
-                PrendreDegat();
+                
                 Debug.Log(" Mauvaise réponse !");  
                 LancerNouvelleEquation();
+                PrendreDegat();
             }
         }
         else
@@ -208,6 +239,16 @@ public class Coffre : MonoBehaviour
             yield return null; // Attendre une frame avant de recommencer
         }
         gameObject.SetActive(false); // Après le fondu, désactiver le coffre
+    }
+
+    public void SceneMenu(){
+        Debug.Log("Bouton menu principal clicker !");
+        SceneManager.LoadScene("Menu");
+    }
+
+    public void SceneLvl1(){
+        Debug.Log("Bouton restart !");
+        SceneManager.LoadScene("Level 1");   
     }
 
     public void Ouvrir(){
