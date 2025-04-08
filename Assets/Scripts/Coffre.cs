@@ -125,12 +125,13 @@ public class Coffre : MonoBehaviour
                 else
                 {
                     LancerNouvelleEquation();
-                    PrendreDegat();
+                    
                 }
             }
             else
             {
 
+                PrendreDegat();
                 Debug.Log(" Mauvaise réponse !");  
                 LancerNouvelleEquation();
             }

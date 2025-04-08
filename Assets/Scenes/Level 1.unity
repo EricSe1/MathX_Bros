@@ -1126,6 +1126,10 @@ MonoBehaviour:
   equationText: {fileID: 1275502622}
   inputField: {fileID: 932439766}
   submitButton: {fileID: 1932697039}
+  vie: 3
+  coeur1: {fileID: 1416886577}
+  coeur2: {fileID: 1555854182}
+  coeur3: {fileID: 613140088}
 --- !u!1 &281584005
 GameObject:
   m_ObjectHideFlags: 0
@@ -3166,7 +3170,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_TargetDisplay: 0
 --- !u!224 &810376994
 RectTransform:
@@ -3540,7 +3544,7 @@ SpriteRenderer:
   m_Size: {x: 0.95, y: 0.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &932439764
@@ -9058,7 +9062,7 @@ SpriteRenderer:
   m_Size: {x: 0.95, y: 0.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1262232459
@@ -9073,6 +9077,7 @@ GameObject:
   - component: {fileID: 1262232462}
   - component: {fileID: 1262232461}
   - component: {fileID: 1262232460}
+  - component: {fileID: 1262232464}
   m_Layer: 5
   m_Name: lifeBar
   m_TagString: Untagged
@@ -9165,6 +9170,30 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1262232464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1262232459}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 240b54abdacd8453184e5e41a9df2221, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cle: {fileID: 0}
+  effetMagique: {fileID: 0}
+  fonduSpeed: 1
+  joueur: {fileID: 1841386516}
+  popupPanel: {fileID: 1069706878}
+  equationText: {fileID: 1275502622}
+  inputField: {fileID: 932439766}
+  submitButton: {fileID: 1932697039}
+  vie: 3
+  coeur1: {fileID: 1416886577}
+  coeur2: {fileID: 1555854182}
+  coeur3: {fileID: 613140088}
 --- !u!1 &1267589677
 GameObject:
   m_ObjectHideFlags: 0
@@ -10273,7 +10302,7 @@ SpriteRenderer:
   m_Size: {x: 0.95, y: 0.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1497105483
@@ -10391,7 +10420,7 @@ SpriteRenderer:
   m_Size: {x: 0.95, y: 0.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1542376062
@@ -10921,7 +10950,7 @@ SpriteRenderer:
   m_Size: {x: 0.95, y: 0.93}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1841386506 stripped
