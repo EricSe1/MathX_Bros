@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Juan.unity
+    path: Assets/Scenes/Juan/Juan.unity
     guid: f712d79357a2b4c86b4302eff9e3c959
   - enabled: 1
     path: Assets/Scenes/Menu.unity
