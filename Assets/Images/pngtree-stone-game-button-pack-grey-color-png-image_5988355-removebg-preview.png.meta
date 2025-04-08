@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 29c861fb336ed40e0be9f648cdac0130
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7342512324597305868
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_0
+  - first:
+      213: 3995103040108341408
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_1
+  - first:
+      213: 3015549115921348933
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_2
+  - first:
+      213: 2901921400247202998
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_3
+  - first:
+      213: -5982185400579928701
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_4
+  - first:
+      213: -3259790691690752034
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_5
+  - first:
+      213: -3512285879363376253
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_6
+  - first:
+      213: -3207901511188885692
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_7
+  - first:
+      213: -8763773425110196323
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_8
+  - first:
+      213: -8189551878588988722
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_9
+  - first:
+      213: -4397373762651383003
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_10
+  - first:
+      213: 6190198299264476734
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_11
+  - first:
+      213: -1882924032280695762
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_12
+  - first:
+      213: -5550512599541952713
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_13
+  - first:
+      213: -5131216938409226856
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_14
+  - first:
+      213: -7897034670480832838
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_15
+  - first:
+      213: 4011585920961880706
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_16
+  - first:
+      213: -2956732883563206592
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_17
+  - first:
+      213: 4759989284363199100
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_18
+  - first:
+      213: -8084518700283379931
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_19
+  - first:
+      213: -402294286085313768
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_20
+  - first:
+      213: -243823821082174278
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_21
+  - first:
+      213: 7299790376425658480
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_22
+  - first:
+      213: -3869976978481459105
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_23
+  - first:
+      213: -4544241642382579734
+    second: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd237d61f72a1a90800000000000000
+      internalID: -7342512324597305868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8adba4c05717730800000000000000
+      internalID: 3995103040108341408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5493c31a1f169d920800000000000000
+      internalID: 3015549115921348933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4b6d37322b54820800000000000000
+      internalID: 2901921400247202998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc7e9b2120bfca0800000000000000
+      internalID: -5982185400579928701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d5a313a5e2c2d0800000000000000
+      internalID: -3259790691690752034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bece20a9ad14fc0800000000000000
+      internalID: -3512285879363376253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fc52f529e3b73d0800000000000000
+      internalID: -3207901511188885692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f5c489082d06680800000000000000
+      internalID: -8763773425110196323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2021fd4fdd85e80800000000000000
+      internalID: -8189551878588988722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b9a847cd369f2c0800000000000000
+      internalID: -4397373762651383003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e2ec5e8008e550800000000000000
+      internalID: 6190198299264476734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cecdc91928ed5e0800000000000000
+      internalID: -1882924032280695762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fc8f6d23e98f2b0800000000000000
+      internalID: -5550512599541952713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d86a081614ac8b0800000000000000
+      internalID: -5131216938409226856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6cb07bec8186290800000000000000
+      internalID: -7897034670480832838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28224ec04240ca730800000000000000
+      internalID: 4011585920961880706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048af7b9b1397f6d0800000000000000
+      internalID: -2956732883563206592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72622dd801ee0240800000000000000
+      internalID: 4759989284363199100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f3b9163150ecf80800000000000000
+      internalID: -8084518700283379931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b27be6a73ca6af0800000000000000
+      internalID: -402294286085313768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc5e9cc683cd9cf0800000000000000
+      internalID: -243823821082174278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0789aa1eba01e4560800000000000000
+      internalID: 7299790376425658480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f505cac21741b4ac0800000000000000
+      internalID: -3869976978481459105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7af3c7d4c9fe0c0800000000000000
+      internalID: -4544241642382579734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc899146e4dfa469f8d4089c4ee634ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_0: -7342512324597305868
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_1: 3995103040108341408
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_10: -4397373762651383003
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_11: 6190198299264476734
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_12: -1882924032280695762
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_13: -5550512599541952713
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_14: -5131216938409226856
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_15: -7897034670480832838
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_16: 4011585920961880706
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_17: -2956732883563206592
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_18: 4759989284363199100
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_19: -8084518700283379931
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_2: 3015549115921348933
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_20: -402294286085313768
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_21: -243823821082174278
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_22: 7299790376425658480
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_23: -3869976978481459105
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_24: -4544241642382579734
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_3: 2901921400247202998
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_4: -5982185400579928701
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_5: -3259790691690752034
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_6: -3512285879363376253
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_7: -3207901511188885692
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_8: -8763773425110196323
+      pngtree-stone-game-button-pack-grey-color-png-image_5988355-removebg-preview_9: -8189551878588988722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
