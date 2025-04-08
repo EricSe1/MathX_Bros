@@ -19,9 +19,34 @@ public class Coffre : MonoBehaviour
     private SpriteRenderer sr; // SpriteRenderer du coffre pour le fondu
 
     
-        private int a, b;
-        private int score = 0;
-        private int objectif = 4;
+    private int a, b;
+    private int score = 0;
+    private int objectif = 4;
+
+    public int vie = 3;
+
+    public GameObject coeur1;
+    public GameObject coeur2;
+    public GameObject coeur3;
+
+    // Appelle cette méthode quand le joueur prend un dégât
+    public void PrendreDegat()
+    {
+        if (vie <= 0) return;
+
+        vie--;
+
+        if (vie == 2)
+            coeur3.SetActive(false); // Masque le 3e cœur
+        else if (vie == 1)
+            coeur2.SetActive(false); // Masque le 2e cœur
+        else if (vie == 0)
+        {
+            coeur1.SetActive(false); // Masque le 1er cœur
+            Debug.Log("💀 Le joueur est mort !");
+            // Ajoute ici la logique de mort (rejouer, game over, etc.)
+        }
+    }
 
     void Start()
     {
@@ -39,25 +64,7 @@ public class Coffre : MonoBehaviour
         if (isPlayerInRange && Input.GetKeyDown(KeyCode.E) && !isOpened)
         {     
             
-            /*
-            // Lancer l'effet magique
-            if (effetMagique != null)
-            {
-                effetMagique.SetActive(true); // Afficher l'effet magique
-            }
-
-            // Faire apparaître la clé
-            if (cle != null)
-            {
-                cle.SetActive(true);
-            }
-
-            // Lancer le fondu du coffre
-            StartCoroutine(FonduCoffre());
-
-            // Marquer le coffre comme ouvert pour éviter de réagir plusieurs fois
-            isOpened = true;
-            */
+           
         }
     }
     public void StartEquation()
@@ -91,7 +98,7 @@ public class Coffre : MonoBehaviour
 
                 if (score >= objectif)
                 {
-                    Debug.Log("✅ Objectif atteint !");
+                    Debug.Log(" Objectif atteint !");
                     // ici ton bloc `if` de succès
                     popupPanel.SetActive(false);
 
@@ -118,18 +125,19 @@ public class Coffre : MonoBehaviour
                 else
                 {
                     LancerNouvelleEquation();
+                    PrendreDegat();
                 }
             }
             else
             {
-                Debug.Log("❌ Mauvaise réponse !");
-                // ici ton bloc `else`
+
+                Debug.Log(" Mauvaise réponse !");  
                 LancerNouvelleEquation();
             }
         }
         else
         {
-            Debug.Log("⚠️ Entrez un nombre valide !");
+            Debug.Log(" Entrez un nombre valide !");
         }
     }
 
