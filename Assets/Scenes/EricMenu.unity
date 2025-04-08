@@ -1205,13 +1205,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecd331be85322471090069eb1103d03e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Level1: {fileID: 470296837}
-  Level2: {fileID: 0}
-  Level3: {fileID: 0}
-  Level2Button: {fileID: 0}
-  Level3Button: {fileID: 0}
-  Level2Text: {fileID: 0}
-  Level3Text: {fileID: 0}
+  Level2: {fileID: 1621468648}
+  Level3: {fileID: 935202525}
+  Level2Button: {fileID: 1621468650}
+  Level3Button: {fileID: 935202527}
+  Level2Text: {fileID: 1730289531}
+  Level3Text: {fileID: 14979255}
   isLevel2Active: 0
   isLevel3Active: 0
 --- !u!1 &600700927
@@ -1791,7 +1790,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecd331be85322471090069eb1103d03e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Level1: {fileID: 470296837}
   Level2: {fileID: 1621468648}
   Level3: {fileID: 935202525}
   Level2Button: {fileID: 1621468650}
@@ -3447,7 +3445,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecd331be85322471090069eb1103d03e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Level1: {fileID: 470296837}
   Level2: {fileID: 1621468648}
   Level3: {fileID: 935202525}
   Level2Button: {fileID: 1621468650}

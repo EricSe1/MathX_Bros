@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class Level : MonoBehaviour
 {
-    public GameObject Level1; // Référence au canvas du menu principal
     public GameObject Level2; // Référence au canvas du jeu
     public GameObject Level3; // Référence au canvas des options
 
@@ -15,31 +14,41 @@ public class Level : MonoBehaviour
     public Text Level2Text; // Référence au texte du bouton du niveau 2
     public Text Level3Text; // Référence au texte du bouton du niveau 3
 
-    public bool isLevel2Active = false; // Indicateur pour savoir si le niveau 1 est actif
-    public bool isLevel3Active = false; // Indicateur pour savoir si le niveau 2 est actif
+    public bool isLevel2Active; // Indicateur pour savoir si le niveau 1 est actif
+    public bool isLevel3Active; // Indicateur pour savoir si le niveau 2 est actif
 
     public void Start()
     {
+        /* isLevel2Active = PlayerPrefs.GetInt("Level2Active", 0) == 1; // Vérifier si le niveau 2 est actif
+        isLevel3Active = PlayerPrefs.GetInt("Level3Active", 0) == 1; // Vérifier si le niveau 3 est actif 
+        isLevel2Active = true; // Activer le niveau 2 pour le test
+        isLevel3Active = true; // Désactiver le niveau 3 pour le test*/
+
+        // Vérifier si le niveau 2 est actif
         if (isLevel2Active && !isLevel3Active)
+        {
+            Level3Text.text = "X"; // Changer le texte du bouton du niveau 2
+            Level3.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 2 en rouge
+            Level3Button.interactable = false; // Désactiver le bouton du niveau 2
+            Debug.Log("Le niveau 2 est déverrouillé mais le niveau 3 est bloqué");
+        }
+        else if (!isLevel2Active && !isLevel3Active)
         {
             Level2Text.text = "X"; // Changer le texte du bouton du niveau 2
             Level2.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 2 en rouge
             Level2Button.interactable = false; // Désactiver le bouton du niveau 2
-        }
-        else if (isLevel3Active && !isLevel2Active)
-        {
             Level3Text.text = "X"; // Changer le texte du bouton du niveau 3
             Level3.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 3 en rouge
             Level3Button.interactable = false; // Désactiver le bouton du niveau 3
+            Debug.Log("Le niveau 2 et le niveau 3 sont bloqués");
         }
         else
         {
-            Level2Text.text = "X"; // Changer le texte du bouton du niveau 2
-            Level2.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 2 en rouge
-            Level2Button.interactable = false; // Désactiver le bouton du niveau 2
-            Level3Text.text = "X"; // Changer le texte du bouton du niveau 3
-            Level3.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 3 en rouge
-            Level3Button.interactable = false; // Désactiver le bouton du niveau 3
+            Level2Text.text = "2"; // Changer le texte du bouton du niveau 2
+            Level2.GetComponent<Image>().color = Color.green; // Mettre le canvas du niveau 2 en rouge
+            Level3Text.text = "3"; // Changer le texte du bouton du niveau 3
+            Level3.GetComponent<Image>().color = Color.green; // Mettre le canvas du niveau 3 en rouge
+            Debug.Log("Le niveau 2 et le niveau 3 sont déverrouillés");
         }
     }
     public void Level1Laucher()
