@@ -87,7 +87,7 @@ public class CoffreLevel1 : MonoBehaviour
         if(popupGameOver!=null)
         {popupGameOver.SetActive(false);}
 
-        textCléScore.text = $"{cléScore} / 2";
+        textCléScore.text = $"{cléScore} / 1";
 
         sr = GetComponent<SpriteRenderer>(); // On récupère le SpriteRenderer du coffre
         if (cle != null)
