@@ -6,6 +6,7 @@ public class Parametres : MonoBehaviour
     // Références aux UI
     public Toggle volumeMusiqueToogle; // Slider pour le volume de la musique
     public Toggle togglePleinEcran; // Référence au Toggle pour basculer le plein écran
+    
 
     void Start()
     {
