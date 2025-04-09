@@ -21,6 +21,7 @@ public class Coffre : MonoBehaviour
     public Button submitButton;          // Bouton valider
 
     private SpriteRenderer sr; // SpriteRenderer du coffre pour le fondu
+    private Player player; // Référence au script Player
 
     
     private int a, b;
@@ -67,7 +68,8 @@ public class Coffre : MonoBehaviour
             popupPanel.SetActive(false);
             controlButtons.SetActive(false);
             popupGameOver.SetActive(true);
-
+            
+            player.Dead();
 
             menuButton.interactable = true;
             menuButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
@@ -81,11 +83,17 @@ public class Coffre : MonoBehaviour
 
     void Start()
     {
-         if (popupPanel != null)
-        {popupPanel.SetActive(false);}
+        player = FindObjectOfType<Player>(); // Trouve automatiquement le joueur dans la scène
+        
+        if (popupPanel != null)
+        {
+            popupPanel.SetActive(false);
+        }
 
-        if(popupGameOver!=null)
-        {popupGameOver.SetActive(false);}
+        if (popupGameOver != null)
+        {
+            popupGameOver.SetActive(false);
+        }
 
         textCléScore.text = $"{cléScore} / 2";
 

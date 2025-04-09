@@ -17,6 +17,7 @@ public class Player : MonoBehaviour
     private bool isGrounded;
     private bool isJumping;
     private bool isNearCoffre = false; // Vérifie si le joueur est proche d'un coffre
+    private bool isDead = false; // Vérifie si le joueur est mort
 
     private Coffre coffreProche; // Référence vers le coffre à proximité
 
@@ -77,7 +78,7 @@ public class Player : MonoBehaviour
         // On met à jour isGrounded à chaque frame
         isGrounded = IsGrounded();
 
-       if (isNearCoffre && Input.GetKeyDown(KeyCode.E))
+        if (isNearCoffre && Input.GetKeyDown(KeyCode.E))
         {
             Debug.Log("Interaction avec le coffre"); // 👈 tu dois voir ça
             if (coffreProche != null)
@@ -101,10 +102,10 @@ public class Player : MonoBehaviour
     {
         // Augmentez la hauteur de la capsule si nécessaire (par exemple, 0.2f au lieu de 0.1f)
         Collider2D collider = Physics2D.OverlapCapsule(
-            groundCheck.position, 
+            groundCheck.position,
             new Vector2(0.5f, 0.2f), // Augmentez la hauteur ici
-            CapsuleDirection2D.Vertical, 
-            0, 
+            CapsuleDirection2D.Vertical,
+            0,
             groundLayer
         );
 
@@ -113,20 +114,35 @@ public class Player : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D other)
-{
-    if (other.CompareTag("Coffre"))
     {
-        isNearCoffre = true;
-        coffreProche = other.GetComponent<Coffre>(); // Stocke le script du coffre
+        if (other.CompareTag("Coffre"))
+        {
+            isNearCoffre = true;
+            coffreProche = other.GetComponent<Coffre>(); // Stocke le script du coffre
+        }
     }
-}
 
     private void OnTriggerExit2D(Collider2D other)
-{
-    if (other.CompareTag("Coffre"))
     {
-        isNearCoffre = false;
-        coffreProche = null; // On oublie le coffre
+        if (other.CompareTag("Coffre"))
+        {
+            isNearCoffre = false;
+            coffreProche = null; // On oublie le coffre
+        }
     }
-}
+
+    public void Dead()
+    {
+        if (isDead) return; // Évite d'appeler plusieurs fois Dead()
+
+        isDead = true; // Le joueur est mort
+        animator.SetBool("isDead", isDead); // Déclenche l'animation de mort
+
+        Debug.Log("Le joueur est mort !");
+        
+        // Désactiver les mouvements
+        rb.linearVelocity = Vector2.zero; // Arrête le joueur
+        rb.isKinematic = true; // Empêche les forces physiques
+        this.enabled = false; // Désactive le script Player pour bloquer les inputs
+    }
 }
