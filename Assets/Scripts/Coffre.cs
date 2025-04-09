@@ -261,7 +261,7 @@ public class Coffre : MonoBehaviour
 
     public void SceneLvl1(){
         Debug.Log("Bouton restart !");
-        SceneManager.LoadScene("Level 1");   
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name); 
     }
 
     public void Ouvrir(){
