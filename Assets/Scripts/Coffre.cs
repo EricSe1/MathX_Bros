@@ -261,13 +261,13 @@ public class Coffre : MonoBehaviour
     {
         Debug.Log("Coffre ouvert !");
         effetMagique.SetActive(true);
-        if (cle != null && joueur != null && joueur.clePosition != null)
+       /* if (cle != null && joueur != null && joueur.clePosition != null)
             {
                 cle.transform.SetParent(joueur.clePosition); // Attache la clé au joueur
                 cle.transform.localPosition = Vector3.zero;  // Elle se place pile au-dessus de la tête
                 cle.SetActive(true);
                 Debug.Log("Clé attachée au joueur ! " + cle);
-            }   
+            }*/   
         StartCoroutine(FonduCoffre());
         cléScore++;
         textCléScore.text = $"{cléScore} / 2";
