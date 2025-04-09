@@ -21,7 +21,7 @@ public class Player : MonoBehaviour
     private bool isDead = false; // Vérifie si le joueur est mort
 
     private Coffre coffreProche; // Référence vers le coffre à proximité
-    private CoffreLevel1 coffreProchelv1; // Référence vers le coffre à proximité
+   // private Coffre2 coffreProche2; // Référence vers le coffre à proximité
 
     public Transform clePosition; // L’endroit sur la tête du joueur
 
@@ -88,11 +88,11 @@ public class Player : MonoBehaviour
                 Debug.Log("Coffre trouvé, on lance l'équation !");
                 coffreProche.StartEquation();
             }
-            else if (coffreProchelv1 != null)
+            /*else if (coffreProche2 != null)
             {
                 Debug.Log("Coffre trouvé, on lance l'équation !");
-                coffreProchelv1.StartEquation();
-            }
+                coffreProche2.StartExpression();
+            }*/
             else
             {
                 Debug.LogWarning("Pas de coffre trouvé !");
