@@ -14,6 +14,15 @@ public class Parametres : MonoBehaviour
         togglePleinEcran.onValueChanged.AddListener(ChangerModePleinEcran);
         // Ajout
         volumeMusiqueToogle.onValueChanged.AddListener(ChangerVolumeMusique);
+
+        // Charger le volume sauvegardé
+        if (PlayerPrefs.HasKey("Volume"))
+        {
+            float volume = PlayerPrefs.GetFloat("Volume");
+            AudioListener.volume = volume;
+            volumeMusiqueToogle.isOn = volume > 0.5f; // Met à jour le Toggle en fonction du volume
+            MettreAJourCouleurToggleVolume(volumeMusiqueToogle.isOn);
+        }
     }
 
     // Fonction pour basculer entre plein écran et mode fenêtre
@@ -67,6 +76,7 @@ public class Parametres : MonoBehaviour
             {
                 toggleBackgroundImageVol.color = new Color32(0, 255, 37, 255); // Couleur verte (#00FF25)
                 Debug.Log("Le Volume est activé et couleur verte.");
+                
             }
             else
             {
@@ -100,7 +110,12 @@ public class Parametres : MonoBehaviour
     {
         // Appliquer le volume à la musique (exemple)
         AudioListener.volume = volume; // Ajuster le volume global de l'audio
+        // Sauvegarder le volume dans PlayerPrefs
+        PlayerPrefs.SetFloat("Volume", volume);
+        PlayerPrefs.Save(); // Assurez-vous que les données sont sauvegardées
+        // Afficher un message dans la console pour confirmer l'action
+        Debug.Log("Volume Sauvegarder dans le PlayerPrefs : " + volume);
         Debug.Log("Volume de la musique appliqué : " + volume);
-        
     }
+
 }
