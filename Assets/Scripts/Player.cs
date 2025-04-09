@@ -20,6 +20,7 @@ public class Player : MonoBehaviour
     private bool isDead = false; // Vérifie si le joueur est mort
 
     private Coffre coffreProche; // Référence vers le coffre à proximité
+    private CoffreLevel1 coffreProchelv1; // Référence vers le coffre à proximité
 
     public Transform clePosition; // L’endroit sur la tête du joueur
 
@@ -86,6 +87,11 @@ public class Player : MonoBehaviour
                 Debug.Log("Coffre trouvé, on lance l'équation !");
                 coffreProche.StartEquation();
             }
+            else if (coffreProchelv1 != null)
+            {
+                Debug.Log("Coffre trouvé, on lance l'équation !");
+                coffreProchelv1.StartEquation();
+            }
             else
             {
                 Debug.LogWarning("Pas de coffre trouvé !");
@@ -117,6 +123,7 @@ public class Player : MonoBehaviour
     {
         if (other.CompareTag("Coffre"))
         {
+            Debug.Log("Coffre détecté : " + other.name); // Ajoutez ce log
             isNearCoffre = true;
             coffreProche = other.GetComponent<Coffre>(); // Stocke le script du coffre
         }
@@ -126,6 +133,7 @@ public class Player : MonoBehaviour
     {
         if (other.CompareTag("Coffre"))
         {
+            Debug.Log("Coffre quitté : " + other.name); // Ajoutez ce log
             isNearCoffre = false;
             coffreProche = null; // On oublie le coffre
         }
@@ -139,7 +147,7 @@ public class Player : MonoBehaviour
         animator.SetBool("isDead", isDead); // Déclenche l'animation de mort
 
         Debug.Log("Le joueur est mort !");
-        
+
         // Désactiver les mouvements
         rb.linearVelocity = Vector2.zero; // Arrête le joueur
         rb.isKinematic = true; // Empêche les forces physiques
