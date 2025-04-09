@@ -28,6 +28,9 @@ public class Coffre : MonoBehaviour
     private int objectif = 4;
 
     public int vie = 3;
+    public int cléScore = 0 ;
+
+    public Text textCléScore;
 
     public GameObject coeur1;
     public GameObject coeur2;
@@ -79,10 +82,12 @@ public class Coffre : MonoBehaviour
     void Start()
     {
          if (popupPanel != null)
-        popupPanel.SetActive(false);
+        {popupPanel.SetActive(false);}
 
         if(popupGameOver!=null)
-        popupGameOver.SetActive(false);
+        {popupGameOver.SetActive(false);}
+
+        textCléScore.text = $"{cléScore} / 2";
 
         sr = GetComponent<SpriteRenderer>(); // On récupère le SpriteRenderer du coffre
         if (cle != null)
@@ -264,6 +269,8 @@ public class Coffre : MonoBehaviour
                 Debug.Log("Clé attachée au joueur ! " + cle);
             }   
         StartCoroutine(FonduCoffre());
+        cléScore++;
+        textCléScore.text = $"{cléScore} / 2";
         isOpened = true;
     }
 }
