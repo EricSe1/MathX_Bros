@@ -9722,6 +9722,7 @@ GameObject:
   - component: {fileID: 652970442}
   - component: {fileID: 652970441}
   - component: {fileID: 652970440}
+  - component: {fileID: 652970444}
   m_Layer: 6
   m_Name: Coffre
   m_TagString: Coffre
@@ -9879,6 +9880,40 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1676406889}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &652970444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652970439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9390788b9f2d1f34dbb5827298b59f16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cle: {fileID: 0}
+  effetMagique: {fileID: 0}
+  fonduSpeed: 1
+  joueur: {fileID: 621062863}
+  controlButtons: {fileID: 1684959508}
+  popupPanel: {fileID: 2004865732}
+  equationText: {fileID: 1770695963}
+  scoreText: {fileID: 0}
+  inputField: {fileID: 732207564}
+  submitButton: {fileID: 2114428268}
+  vie: 3
+  "cl\xE9Score": 0
+  "textCl\xE9Score": {fileID: 153070592}
+  coeur1: {fileID: 70723837}
+  coeur2: {fileID: 2145059566}
+  coeur3: {fileID: 1603789832}
+  coeurVIDE1: {fileID: 1302774508}
+  coeurVIDE2: {fileID: 1783456057}
+  coeurVIDE3: {fileID: 169505750}
+  menuButton: {fileID: 1198862943}
+  restartButton: {fileID: 513525193}
+  popupGameOver: {fileID: 905785432}
 --- !u!1 &653261855
 GameObject:
   m_ObjectHideFlags: 0
@@ -26688,6 +26723,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 2114734356}
   - {fileID: 557217413}
   - {fileID: 652970443}
   - {fileID: 993596890}
@@ -29501,7 +29537,7 @@ GameObject:
   - component: {fileID: 2114734354}
   - component: {fileID: 2114734353}
   m_Layer: 5
-  m_Name: LVL3Enigme
+  m_Name: LVL3Enigme1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29577,19 +29613,19 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2114734352}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.0041140765, y: 0.0041140765, z: 0.0041140765}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2004865733}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1676406889}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -8.640015, y: -0.92004395}
+  m_SizeDelta: {x: 2560, y: 1440}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2128081090
 GameObject:
   m_ObjectHideFlags: 0
@@ -29991,7 +30027,6 @@ SceneRoots:
   - {fileID: 1877757106}
   - {fileID: 10600522}
   - {fileID: 1684959512}
-  - {fileID: 2114734356}
   - {fileID: 393646165}
   - {fileID: 1192039927}
   - {fileID: 128961935}

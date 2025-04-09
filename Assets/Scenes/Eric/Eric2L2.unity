@@ -5065,7 +5065,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &214182904
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11862,8 +11862,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 130fb8d505b0d554ea0f3a440e015d7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cle: {fileID: 0}
-  effetMagique: {fileID: 0}
+  cle: {fileID: 214182903}
+  effetMagique: {fileID: 1389321154}
   fonduSpeed: 1
   joueur: {fileID: 859125018}
   controlButtons: {fileID: 729623598}
@@ -26977,6 +26977,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 2388403639285429919, guid: 25e92d6bd61bc4cc2b621f52c6d2d2d3, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 5956731949076095897, guid: 25e92d6bd61bc4cc2b621f52c6d2d2d3, type: 3}
       propertyPath: m_UpdateMode
       value: 0
@@ -31087,7 +31091,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!199 &1389321155
 ParticleSystemRenderer:
   serializedVersion: 6
