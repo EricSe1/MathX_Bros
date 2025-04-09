@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
     public float jumping;
     public LayerMask groundLayer;
     public Transform groundCheck;
+    public Text interactEText;
 
     private float horizontalMove;
     private SpriteRenderer sr;
@@ -124,6 +125,8 @@ public class Player : MonoBehaviour
         if (other.CompareTag("Coffre"))
         {
             Debug.Log("Coffre détecté : " + other.name); // Ajoutez ce log
+            interactEText.text = "E pour ouvrir";
+            
             isNearCoffre = true;
             coffreProche = other.GetComponent<Coffre>(); // Stocke le script du coffre
         }
