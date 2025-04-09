@@ -9721,7 +9721,6 @@ GameObject:
   - component: {fileID: 652970443}
   - component: {fileID: 652970442}
   - component: {fileID: 652970441}
-  - component: {fileID: 652970440}
   - component: {fileID: 652970444}
   m_Layer: 6
   m_Name: Coffre
@@ -9730,40 +9729,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &652970440
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 652970439}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 240b54abdacd8453184e5e41a9df2221, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cle: {fileID: 993596887}
-  effetMagique: {fileID: 557217410}
-  fonduSpeed: 1
-  joueur: {fileID: 0}
-  controlButtons: {fileID: 0}
-  popupPanel: {fileID: 0}
-  equationText: {fileID: 0}
-  scoreText: {fileID: 0}
-  inputField: {fileID: 0}
-  submitButton: {fileID: 0}
-  vie: 3
-  "cl\xE9Score": 0
-  "textCl\xE9Score": {fileID: 0}
-  coeur1: {fileID: 0}
-  coeur2: {fileID: 0}
-  coeur3: {fileID: 0}
-  coeurVIDE1: {fileID: 0}
-  coeurVIDE2: {fileID: 0}
-  coeurVIDE3: {fileID: 0}
-  menuButton: {fileID: 0}
-  restartButton: {fileID: 0}
-  popupGameOver: {fileID: 0}
 --- !u!61 &652970441
 BoxCollider2D:
   m_ObjectHideFlags: 0
