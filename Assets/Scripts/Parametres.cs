@@ -29,14 +29,9 @@ public class Parametres : MonoBehaviour
     // Fonction pour basculer entre plein écran et mode fenêtre
     public void ChangerModePleinEcran(bool estPleinEcran)
     {
-        // Activer ou désactiver le mode plein écran
+        Debug.Log("ChangerModePleinEcran appelé avec : " + estPleinEcran);
         Screen.fullScreen = estPleinEcran;
-
-        // Mettre à jour la couleur du Toggle en fonction de son état
         MettreAJourCouleurToggle(estPleinEcran);
-
-        // Optionnel : Afficher un message dans la console pour confirmer l'action
-        Debug.Log("Mode plein écran : " + estPleinEcran);
     }
 
     // Fonction pour mettre à jour la couleur du Toggle
@@ -94,17 +89,10 @@ public class Parametres : MonoBehaviour
     // Fonction pour changer le volume de la musique
     public void ChangerVolumeMusique(bool estActif)
     {
-        // Récupérer la valeur du slider
-        float volume = volumeMusiqueToogle.isOn ? 1.0f : 0.0f; // Exemple : 1.0 pour actif, 0.0 pour inactif
-
-        // Appliquer le volume à la musique
+        Debug.Log("ChangerVolumeMusique appelé avec : " + estActif);
+        float volume = volumeMusiqueToogle.isOn ? 1.0f : 0.0f;
         AppliquerVolumeMusique(volume);
-
-        // Mettre à jour la couleur du Toggle en fonction de son état
         MettreAJourCouleurToggleVolume(estActif);
-
-        // Afficher un message dans la console pour confirmer l'action
-        Debug.Log("Volume de la musique : " + volume);
     }
     // Fonction pour appliquer le volume de la musique
     private void AppliquerVolumeMusique(float volume)
