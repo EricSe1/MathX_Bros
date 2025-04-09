@@ -129,7 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 135914}
   - component: {fileID: 135915}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -145,8 +145,8 @@ Transform:
   m_GameObject: {fileID: 135913}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1284, y: -712, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1284, y: -708.1852, z: 0}
+  m_LocalScale: {x: 2, y: 5.8148, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -216,7 +216,7 @@ GameObject:
   m_Component:
   - component: {fileID: 22314115}
   - component: {fileID: 22314116}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -303,7 +303,7 @@ GameObject:
   m_Component:
   - component: {fileID: 78998564}
   - component: {fileID: 78998565}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -390,7 +390,7 @@ GameObject:
   m_Component:
   - component: {fileID: 94529826}
   - component: {fileID: 94529825}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirty_plateform_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -477,7 +477,8 @@ GameObject:
   m_Component:
   - component: {fileID: 101137215}
   - component: {fileID: 101137214}
-  m_Layer: 0
+  - component: {fileID: 101137216}
+  m_Layer: 6
   m_Name: dirtyPlateform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -554,6 +555,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1795104973}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &101137216
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101137213}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.023994088, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 5.9352703, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &105175124
 GameObject:
   m_ObjectHideFlags: 0
@@ -564,7 +611,7 @@ GameObject:
   m_Component:
   - component: {fileID: 105175125}
   - component: {fileID: 105175126}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -580,8 +627,8 @@ Transform:
   m_GameObject: {fileID: 105175124}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1288, y: -716, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1292.4664, y: -716, z: 0}
+  m_LocalScale: {x: 6.4664, y: 2, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -651,7 +698,8 @@ GameObject:
   m_Component:
   - component: {fileID: 110974833}
   - component: {fileID: 110974834}
-  m_Layer: 0
+  - component: {fileID: 110974835}
+  m_Layer: 6
   m_Name: dirtyPlateform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -728,6 +776,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &110974835
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 110974832}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.7197807, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.56043863, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &128961932
 GameObject:
   m_ObjectHideFlags: 0
@@ -797,7 +891,7 @@ MonoBehaviour:
   m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
-    TrackingTarget: {fileID: 0}
+    TrackingTarget: {fileID: 621062868}
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
@@ -829,7 +923,7 @@ Transform:
   m_GameObject: {fileID: 128961932}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.74, y: -5.23, z: -10}
+  m_LocalPosition: {x: -8.64, y: -0.92, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -845,7 +939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 145892367}
   - component: {fileID: 145892368}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -932,7 +1026,7 @@ GameObject:
   m_Component:
   - component: {fileID: 159114909}
   - component: {fileID: 159114910}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1019,7 +1113,7 @@ GameObject:
   m_Component:
   - component: {fileID: 177004255}
   - component: {fileID: 177004256}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1035,8 +1129,8 @@ Transform:
   m_GameObject: {fileID: 177004254}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1272, y: -716, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1267.772, y: -716, z: 0}
+  m_LocalScale: {x: 6.228, y: 2, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -1110,7 +1204,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1908951980792665896, guid: 25e92d6bd61bc4cc2b621f52c6d2d2d3, type: 3}
       propertyPath: m_SortingOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2388403639285429919, guid: 25e92d6bd61bc4cc2b621f52c6d2d2d3, type: 3}
       propertyPath: m_Name
@@ -1200,7 +1294,7 @@ GameObject:
   m_Component:
   - component: {fileID: 206548457}
   - component: {fileID: 206548456}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1288,7 +1382,7 @@ GameObject:
   - component: {fileID: 278086531}
   - component: {fileID: 278086532}
   - component: {fileID: 278086533}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1399,7 +1493,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 5.301469, y: 0.8668338}
+  m_Offset: {x: 5.1866426, y: 0.8668338}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1409,7 +1503,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 12.209837, y: 0.2663324}
+  m_Size: {x: 11.980185, y: 0.2663324}
   m_EdgeRadius: 0
 --- !u!1 &294596938
 GameObject:
@@ -1421,7 +1515,7 @@ GameObject:
   m_Component:
   - component: {fileID: 294596939}
   - component: {fileID: 294596940}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround45
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1508,7 +1602,7 @@ GameObject:
   m_Component:
   - component: {fileID: 304637129}
   - component: {fileID: 304637130}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1595,7 +1689,7 @@ GameObject:
   m_Component:
   - component: {fileID: 319228374}
   - component: {fileID: 319228375}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1682,7 +1776,7 @@ GameObject:
   m_Component:
   - component: {fileID: 325626121}
   - component: {fileID: 325626122}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1698,8 +1792,8 @@ Transform:
   m_GameObject: {fileID: 325626120}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1280, y: -712, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1280, y: -708.9005, z: 0}
+  m_LocalScale: {x: 2, y: 5.0994, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -1873,7 +1967,7 @@ GameObject:
   m_Component:
   - component: {fileID: 339770142}
   - component: {fileID: 339770143}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1960,7 +2054,7 @@ GameObject:
   m_Component:
   - component: {fileID: 351094084}
   - component: {fileID: 351094085}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2047,7 +2141,7 @@ GameObject:
   m_Component:
   - component: {fileID: 380551153}
   - component: {fileID: 380551154}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround36
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2134,7 +2228,7 @@ GameObject:
   m_Component:
   - component: {fileID: 427937099}
   - component: {fileID: 427937100}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2325,7 +2419,8 @@ GameObject:
   m_Component:
   - component: {fileID: 478641545}
   - component: {fileID: 478641546}
-  m_Layer: 0
+  - component: {fileID: 478641547}
+  m_Layer: 6
   m_Name: nightSky05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2341,8 +2436,8 @@ Transform:
   m_GameObject: {fileID: 478641544}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1272, y: -712, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1265.5149, y: -709.3138, z: 0}
+  m_LocalScale: {x: 8.485, y: 4.6862, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -2402,6 +2497,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &478641547
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 478641544}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.48213083, y: -2.3031945}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.11166847, y: 6.794755}
+  m_EdgeRadius: 0
 --- !u!1 &481130113
 GameObject:
   m_ObjectHideFlags: 0
@@ -2412,7 +2553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 481130114}
   - component: {fileID: 481130115}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround44
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2499,7 +2640,7 @@ GameObject:
   m_Component:
   - component: {fileID: 487138355}
   - component: {fileID: 487138354}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirty_plateform_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2760,7 +2901,8 @@ GameObject:
   m_Component:
   - component: {fileID: 543171445}
   - component: {fileID: 543171446}
-  m_Layer: 0
+  - component: {fileID: 543171447}
+  m_Layer: 6
   m_Name: dirtyGround210
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2837,6 +2979,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &543171447
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 543171444}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.67081213, y: -1.9804163}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.65837574, y: 9.942413}
+  m_EdgeRadius: 0
 --- !u!1 &548517055
 GameObject:
   m_ObjectHideFlags: 0
@@ -2847,7 +3035,7 @@ GameObject:
   m_Component:
   - component: {fileID: 548517056}
   - component: {fileID: 548517057}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2934,7 +3122,8 @@ GameObject:
   m_Component:
   - component: {fileID: 553153520}
   - component: {fileID: 553153521}
-  m_Layer: 0
+  - component: {fileID: 553153522}
+  m_Layer: 6
   m_Name: dirtyPlateform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3011,6 +3200,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &553153522
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 553153519}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.0046851635, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 5.8899255, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &557217410
 GameObject:
   m_ObjectHideFlags: 0
@@ -7855,7 +8090,7 @@ GameObject:
   - component: {fileID: 571572810}
   - component: {fileID: 571572812}
   - component: {fileID: 571572811}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Key_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7988,7 +8223,7 @@ GameObject:
   m_Component:
   - component: {fileID: 579639505}
   - component: {fileID: 579639506}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8075,7 +8310,7 @@ GameObject:
   m_Component:
   - component: {fileID: 614523691}
   - component: {fileID: 614523692}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround38
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8191,8 +8426,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 2.8999999, y: 5.74}
+  m_Offset: {x: 0, y: -0.35115063}
+  m_Size: {x: 2.8999999, y: 5.0376997}
   m_Direction: 0
 --- !u!114 &621062862
 MonoBehaviour:
@@ -8294,7 +8529,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 621062864}
   speed: 4
-  jumping: 9
+  jumping: 8
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -8361,7 +8596,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.04}
+  m_Offset: {x: 0, y: -0.097875595}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -8371,7 +8606,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 3.01, y: 4.88}
+  m_Size: {x: 3.01, y: 4.604249}
   m_EdgeRadius: 0
 --- !u!4 &621062868 stripped
 Transform:
@@ -8388,7 +8623,7 @@ GameObject:
   m_Component:
   - component: {fileID: 632599561}
   - component: {fileID: 632599562}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround410
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8475,7 +8710,7 @@ GameObject:
   m_Component:
   - component: {fileID: 645705639}
   - component: {fileID: 645705640}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround58
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8564,7 +8799,7 @@ GameObject:
   - component: {fileID: 652970442}
   - component: {fileID: 652970441}
   - component: {fileID: 652970440}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: Coffre
   m_TagString: Coffre
   m_Icon: {fileID: 0}
@@ -8731,7 +8966,8 @@ GameObject:
   m_Component:
   - component: {fileID: 653261857}
   - component: {fileID: 653261856}
-  m_Layer: 0
+  - component: {fileID: 653261858}
+  m_Layer: 6
   m_Name: dirtyGround255
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8808,6 +9044,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 499997556}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &653261858
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 653261855}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &656730486
 GameObject:
   m_ObjectHideFlags: 0
@@ -8818,7 +9100,7 @@ GameObject:
   m_Component:
   - component: {fileID: 656730487}
   - component: {fileID: 656730488}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8905,7 +9187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 657589593}
   - component: {fileID: 657589594}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround510
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8992,7 +9274,8 @@ GameObject:
   m_Component:
   - component: {fileID: 667833437}
   - component: {fileID: 667833438}
-  m_Layer: 0
+  - component: {fileID: 667833439}
+  m_Layer: 6
   m_Name: nightSky01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9008,8 +9291,8 @@ Transform:
   m_GameObject: {fileID: 667833436}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1288, y: -712, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1290.1458, y: -708.3283, z: 0}
+  m_LocalScale: {x: 4.1458, y: 5.6716, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -9069,6 +9352,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &667833439
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 667833436}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 4.0155272, y: 0.71094286}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 10.0310545, y: 0.57821417}
+  m_EdgeRadius: 0
 --- !u!1 &696340441
 GameObject:
   m_ObjectHideFlags: 0
@@ -9079,7 +9408,7 @@ GameObject:
   m_Component:
   - component: {fileID: 696340443}
   - component: {fileID: 696340442}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirty_plateform_12 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9129,7 +9458,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 199875364, guid: 88d7ecc6762946446b76879699b75b89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9274,7 +9603,7 @@ GameObject:
   m_Component:
   - component: {fileID: 757122901}
   - component: {fileID: 757122902}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround49
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9361,7 +9690,7 @@ GameObject:
   m_Component:
   - component: {fileID: 760661037}
   - component: {fileID: 760661038}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirty_plateform_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9448,7 +9777,8 @@ GameObject:
   m_Component:
   - component: {fileID: 768204979}
   - component: {fileID: 768204980}
-  m_Layer: 0
+  - component: {fileID: 768204981}
+  m_Layer: 6
   m_Name: dirtyGround53
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9525,6 +9855,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &768204981
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 768204978}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.62036943, y: 3.9834232}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.75926113, y: 9.966846}
+  m_EdgeRadius: 0
 --- !u!1 &769746248
 GameObject:
   m_ObjectHideFlags: 0
@@ -9535,7 +9911,7 @@ GameObject:
   m_Component:
   - component: {fileID: 769746249}
   - component: {fileID: 769746250}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround42
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9622,7 +9998,7 @@ GameObject:
   m_Component:
   - component: {fileID: 797238018}
   - component: {fileID: 797238019}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround55
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9709,7 +10085,7 @@ GameObject:
   m_Component:
   - component: {fileID: 816576029}
   - component: {fileID: 816576030}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9796,7 +10172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 825387128}
   - component: {fileID: 825387129}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround35
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9883,7 +10259,8 @@ GameObject:
   m_Component:
   - component: {fileID: 825816774}
   - component: {fileID: 825816775}
-  m_Layer: 0
+  - component: {fileID: 825816776}
+  m_Layer: 6
   m_Name: dirtyPlateform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9960,6 +10337,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &825816776
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 825816773}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.023950458, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 5.9434433, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &827997029
 GameObject:
   m_ObjectHideFlags: 0
@@ -9970,7 +10393,7 @@ GameObject:
   m_Component:
   - component: {fileID: 827997030}
   - component: {fileID: 827997031}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround59
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10058,7 +10481,7 @@ GameObject:
   - component: {fileID: 836707875}
   - component: {fileID: 836707874}
   - component: {fileID: 836707876}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10169,7 +10592,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.20707488, y: 0.8024818}
+  m_Offset: {x: -0.0797236, y: 0.8024818}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -10179,7 +10602,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.4141498, y: 0.39503646}
+  m_Size: {x: 2.1594472, y: 0.39503646}
   m_EdgeRadius: 0
 --- !u!1 &843481278
 GameObject:
@@ -10191,7 +10614,7 @@ GameObject:
   m_Component:
   - component: {fileID: 843481279}
   - component: {fileID: 843481280}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround37
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10278,7 +10701,8 @@ GameObject:
   m_Component:
   - component: {fileID: 865167786}
   - component: {fileID: 865167785}
-  m_Layer: 0
+  - component: {fileID: 865167787}
+  m_Layer: 6
   m_Name: dirty_plateform_4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10328,7 +10752,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -729150345, guid: 88d7ecc6762946446b76879699b75b89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10355,6 +10779,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1403639384}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &865167787
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 865167784}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &894489630
 GameObject:
   m_ObjectHideFlags: 0
@@ -10499,7 +10969,7 @@ GameObject:
   m_Component:
   - component: {fileID: 925518747}
   - component: {fileID: 925518748}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10586,7 +11056,7 @@ GameObject:
   m_Component:
   - component: {fileID: 958991343}
   - component: {fileID: 958991342}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirty_plateform_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10636,7 +11106,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -729150345, guid: 88d7ecc6762946446b76879699b75b89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10673,7 +11143,7 @@ GameObject:
   m_Component:
   - component: {fileID: 960950548}
   - component: {fileID: 960950549}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10760,7 +11230,7 @@ GameObject:
   m_Component:
   - component: {fileID: 975879320}
   - component: {fileID: 975879321}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround47
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10847,7 +11317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 985553711}
   - component: {fileID: 985553712}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround46
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10934,7 +11404,7 @@ GameObject:
   m_Component:
   - component: {fileID: 992214500}
   - component: {fileID: 992214501}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround310
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11022,7 +11492,7 @@ GameObject:
   - component: {fileID: 993596890}
   - component: {fileID: 993596889}
   - component: {fileID: 993596888}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Key_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11155,7 +11625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 993774638}
   - component: {fileID: 993774639}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11242,7 +11712,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1044267847}
   - component: {fileID: 1044267848}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11329,7 +11799,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1045998843}
   - component: {fileID: 1045998844}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16249,7 +16719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1106328974}
   - component: {fileID: 1106328975}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround410
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16336,7 +16806,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1109069757}
   - component: {fileID: 1109069758}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16454,7 +16924,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1142704956}
   - component: {fileID: 1142704957}
-  m_Layer: 0
+  - component: {fileID: 1142704958}
+  m_Layer: 6
   m_Name: dirtyPlateform0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16531,6 +17002,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1142704958
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142704955}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.66661936, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.6667613, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &1175213193
 GameObject:
   m_ObjectHideFlags: 0
@@ -16541,7 +17058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1175213195}
   - component: {fileID: 1175213194}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16782,7 +17299,7 @@ Transform:
   m_GameObject: {fileID: 1192039922}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.74, y: -5.23, z: -10}
+  m_LocalPosition: {x: -8.64, y: -0.92, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16902,7 +17419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1278565055}
   - component: {fileID: 1278565056}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16989,7 +17506,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1304317626}
   - component: {fileID: 1304317627}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17078,7 +17595,7 @@ GameObject:
   - component: {fileID: 1314038490}
   - component: {fileID: 1314038489}
   - component: {fileID: 1314038488}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: Coffre
   m_TagString: Coffre
   m_Icon: {fileID: 0}
@@ -17245,7 +17762,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1314233591}
   - component: {fileID: 1314233592}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22165,7 +22682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1340434572}
   - component: {fileID: 1340434573}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround56
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22252,7 +22769,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1379700839}
   - component: {fileID: 1379700840}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22339,7 +22856,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1382138687}
   - component: {fileID: 1382138688}
-  m_Layer: 0
+  - component: {fileID: 1382138689}
+  m_Layer: 6
   m_Name: dirtyPlateform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22416,6 +22934,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1382138689
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1382138686}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.048828006, y: 0.62246484}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 5.8862486, y: 0.75505435}
+  m_EdgeRadius: 0
 --- !u!1 &1403639380
 GameObject:
   m_ObjectHideFlags: 0
@@ -22533,7 +23097,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1406049965}
   - component: {fileID: 1406049966}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround39
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22620,7 +23184,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1473277187}
   - component: {fileID: 1473277188}
-  m_Layer: 0
+  - component: {fileID: 1473277189}
+  m_Layer: 6
   m_Name: nightSky21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22636,8 +23201,8 @@ Transform:
   m_GameObject: {fileID: 1473277186}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1288, y: -720, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1290.8292, y: -720, z: 0}
+  m_LocalScale: {x: 4.8292, y: 2, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -22697,6 +23262,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1473277189
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473277186}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.011826724, y: 3.8281083}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.3403232, y: 9.656213}
+  m_EdgeRadius: 0
 --- !u!1 &1494892186
 GameObject:
   m_ObjectHideFlags: 0
@@ -22811,7 +23422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1551243252}
   - component: {fileID: 1551243253}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23002,7 +23613,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1577064082}
   - component: {fileID: 1577064081}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23090,7 +23701,7 @@ GameObject:
   - component: {fileID: 1628004127}
   - component: {fileID: 1628004126}
   - component: {fileID: 1628004128}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23223,7 +23834,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1639782971}
   - component: {fileID: 1639782972}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23310,7 +23921,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1643232216}
   - component: {fileID: 1643232215}
-  m_Layer: 0
+  - component: {fileID: 1643232217}
+  m_Layer: 6
   m_Name: dirty_plateform_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23360,7 +23972,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 199875364, guid: 88d7ecc6762946446b76879699b75b89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23387,6 +23999,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1403639384}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1643232217
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1643232214}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.031131268, y: 1.0194125}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2.062263, y: 4.038825}
+  m_EdgeRadius: 0
 --- !u!1 &1671343119
 GameObject:
   m_ObjectHideFlags: 0
@@ -23397,7 +24055,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1671343121}
   - component: {fileID: 1671343120}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: green
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23588,7 +24246,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1724810898}
   - component: {fileID: 1724810899}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23604,8 +24262,8 @@ Transform:
   m_GameObject: {fileID: 1724810897}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1272, y: -720, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1265.7852, y: -720, z: 0}
+  m_LocalScale: {x: 8.2148, y: 2, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -23675,7 +24333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1745889994}
   - component: {fileID: 1745889995}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23931,7 +24589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1792184831}
   - component: {fileID: 1792184832}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24122,7 +24780,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1819245516}
   - component: {fileID: 1819245517}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround512
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24209,7 +24867,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1824946377}
   - component: {fileID: 1824946378}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround54
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24296,7 +24954,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1878892920}
   - component: {fileID: 1878892921}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24383,7 +25041,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1881949865}
   - component: {fileID: 1881949864}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround355
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24470,7 +25128,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1920989697}
   - component: {fileID: 1920989698}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround48
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24557,7 +25215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1930215304}
   - component: {fileID: 1930215305}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24644,7 +25302,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1937875674}
   - component: {fileID: 1937875673}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: porte
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24731,7 +25389,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1942345871}
   - component: {fileID: 1942345872}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24818,7 +25476,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1949472622}
   - component: {fileID: 1949472623}
-  m_Layer: 0
+  - component: {fileID: 1949472624}
+  m_Layer: 6
   m_Name: dirtyPlateform2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24895,6 +25554,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1949472624
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949472621}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -6.0381546, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 14.076315, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &1983627789
 GameObject:
   m_ObjectHideFlags: 0
@@ -24984,7 +25689,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1986080363}
   - component: {fileID: 1986080364}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyPlateform0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25070,7 +25775,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1991389590}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
@@ -25102,7 +25807,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1996382763}
   - component: {fileID: 1996382764}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25189,7 +25894,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1998972075}
   - component: {fileID: 1998972074}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirty_plateform_12 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25239,7 +25944,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 199875364, guid: 88d7ecc6762946446b76879699b75b89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -25276,7 +25981,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2002725138}
   - component: {fileID: 2002725139}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25363,7 +26068,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2026547728}
   - component: {fileID: 2026547729}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround57
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25450,7 +26155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2048647697}
   - component: {fileID: 2048647698}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25537,7 +26242,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2063935228}
   - component: {fileID: 2063935227}
-  m_Layer: 0
+  - component: {fileID: 2063935229}
+  m_Layer: 6
   m_Name: dirty_plateform_4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25587,7 +26293,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -729150345, guid: 88d7ecc6762946446b76879699b75b89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -25614,6 +26320,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1403639384}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &2063935229
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2063935226}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: -1.9285889}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2, y: 5.8571787}
+  m_EdgeRadius: 0
 --- !u!1 &2112838974
 GameObject:
   m_ObjectHideFlags: 0
@@ -25624,7 +26376,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2112838975}
   - component: {fileID: 2112838976}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25711,7 +26463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2128081091}
   - component: {fileID: 2128081092}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: nightSky04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25727,8 +26479,8 @@ Transform:
   m_GameObject: {fileID: 2128081090}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1276, y: -712, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: -1276, y: -709.3456, z: 0}
+  m_LocalScale: {x: 2, y: 4.6544, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 499997556}
@@ -25798,7 +26550,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2128871840}
   - component: {fileID: 2128871841}
-  m_Layer: 0
+  - component: {fileID: 2128871842}
+  m_Layer: 6
   m_Name: dirtyGround511
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25875,6 +26628,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &2128871842
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2128871839}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -7.0206175, y: -0.4235077}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 19.981417, y: 1.1529846}
+  m_EdgeRadius: 0
 --- !u!1 &2138124363
 GameObject:
   m_ObjectHideFlags: 0
@@ -25885,7 +26684,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2138124364}
   - component: {fileID: 2138124365}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: dirtyGround26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
