@@ -16,6 +16,9 @@ public class MenuGameplay : MonoBehaviour
             Debug.Log("Volume trouvé dans PlayerPrefs.");
             float volumes = PlayerPrefs.GetFloat("Volume");
             AudioListener.volume = volumes;
+            CanvasGroup canvasGroup = Canvas_Volume.GetComponent<CanvasGroup>();
+            canvasGroup = Canvas_Volume.AddComponent<CanvasGroup>(); // Ajouter dynamiquement CanvasGroup
+
 
             if (volumes == 0) {
                 VolumeOff();
