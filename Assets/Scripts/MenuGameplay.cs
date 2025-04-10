@@ -124,4 +124,13 @@ public class MenuGameplay : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
+    void OnApplicationQuit()
+    {
+        // Réinitialiser les paramètres (par exemple, supprimer la clé "Volume")
+        if (PlayerPrefs.HasKey("Volume"))
+        {
+            PlayerPrefs.DeleteKey("Volume");
+            Debug.Log("Clé 'Volume' supprimée de PlayerPrefs à la fermeture de l'application.");
+        }
+    }
 }
