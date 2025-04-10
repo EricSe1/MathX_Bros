@@ -28,7 +28,7 @@ public class Player : MonoBehaviour
     private bool isNearPorte = false; // Vérifie si le joueur est proche d'une porte
 
     private Coffre coffreProche; // Référence vers le coffre à proximité
-    private CoffreLevel1 coffreProchelv1; // Référence vers le coffre à proximité
+    private Coffre2 coffreProche2; // Référence vers le coffre à proximité
     private Porte porteProche; // Référence vers la porte à proximité
     private int clésRequises = 0; // Nombre de clés nécessaires pour ouvrir une porte
     private int totalCleScore = 0; // Score total des clés collectées
@@ -114,11 +114,11 @@ public class Player : MonoBehaviour
                 Debug.Log("Coffre trouvé, on lance l'équation !");
                 coffreProche.StartEquation();
             }
-            /*else if (coffreProche2 != null)
+            else if (coffreProche2 != null)
             {
                 Debug.Log("Coffre trouvé, on lance l'équation !");
                 coffreProche2.StartExpression();
-            }*/
+            }
             else
             {
                 Debug.LogWarning("Pas de coffre trouvé !");
@@ -197,7 +197,23 @@ public class Player : MonoBehaviour
                 Debug.LogWarning("Le label interactEText n'est pas assigné !");
             }
         }
-        
+        if (other.CompareTag("Coffre2"))
+        {
+           Debug.Log("Coffre détecté : " + other.name); // Ajoutez ce log
+
+            isNearCoffre = true;
+            coffreProche2 = other.GetComponent<Coffre2>(); // Stocke le script du coffre
+
+            if (interactEText != null) // Vérifie si le label est assigné
+            {
+                interactEText.text = "E pour ouvrir"; // Met à jour le texte
+                Debug.Log("Texte interactEText mis à jour pour le coffre.");
+            }
+            else
+            {
+                Debug.LogWarning("Le label interactEText n'est pas assigné !");
+            } 
+        }
         if (other.CompareTag("Porte"))
         {
             Debug.Log($"Porte détectée : {other.name} - Clés collectées : {totalCleScore}, Clés requises : {clésRequises}");

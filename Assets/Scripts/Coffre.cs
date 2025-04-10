@@ -29,7 +29,7 @@ public class Coffre : MonoBehaviour
     private int objectif = 4;
 
     public int vie = 3;
-    public int cléScore = 0;
+    public int cléScore;
 
     public Text textCléScore;
 
@@ -48,7 +48,7 @@ public class Coffre : MonoBehaviour
 
     private int clésRequises; // Nombre de clés nécessaires pour ouvrir la porte
 
-    public void PrendreDegat()
+    protected void PrendreDegat()
     {
         if (vie <= 0) return;
 
@@ -72,6 +72,7 @@ public class Coffre : MonoBehaviour
             popupPanel.SetActive(false);
             controlButtons.SetActive(false);
             popupGameOver.SetActive(true);
+            
 
             player.Dead();
 
@@ -328,5 +329,7 @@ public class Coffre : MonoBehaviour
     {
         return cléScore; // Retourne le score des clés
     }
+
+    
 
 }
