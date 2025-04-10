@@ -33,6 +33,13 @@ public class Player : MonoBehaviour
     private int clésRequises = 0; // Nombre de clés nécessaires pour ouvrir une porte
     private int totalCleScore = 0; // Score total des clés collectées
 
+    public Collider2D debouteCollider; // Référence vers le collider du joueur
+    public Collider2D mortCollider; // Référence vers le collider du joueur
+
+    public GameObject popupVie;
+    public GameObject popupCle;
+    public GameObject popupBouton;
+
     private void Start()
     {
         Time.timeScale = 1;
@@ -335,8 +342,21 @@ public class Player : MonoBehaviour
 
         // Désactiver les mouvements
         rb.linearVelocity = Vector2.zero; // Arrête le joueur
-        rb.isKinematic = true; // Empêche les forces physiques
+        //rb.isKinematic = true; // Empêche les forces physiques
         this.enabled = false; // Désactive le script Player pour bloquer les inputs
+        debouteCollider.enabled = false; // Désactive le collider du joueur
+        mortCollider.enabled = true; // Active le collider de mort
+        if (popupBouton != null || popupVie != null || popupCle != null)
+        {
+            popupBouton.SetActive(false); // Affiche le bouton d'interaction
+            popupVie.SetActive(false); // Affiche le canvas de vie
+            popupCle.SetActive(false); // Affiche le canvas de clé
+        }
+        else
+        {
+            Debug.LogWarning("Un ou plusieurs objets sont manquants dans le script Player.");
+        }
+
         PlayerPrefs.DeleteKey("Level2Active");
         PlayerPrefs.DeleteKey("Level3Active");
         PlayerPrefs.Save(); // Sauvegarde les préférences
@@ -346,11 +366,12 @@ public class Player : MonoBehaviour
     public void ShowGameOver()
     {
         Debug.Log("Game Over !");
-
         //Détruire les levels
         PlayerPrefs.DeleteKey("Level2Active");
         PlayerPrefs.DeleteKey("Level3Active");
         PlayerPrefs.Save(); // Sauvegarde les préférences
+
+        
 
         popupGameOver.SetActive(true); // Affiche le panel Game Over
 

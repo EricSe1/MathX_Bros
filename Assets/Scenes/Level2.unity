@@ -4669,7 +4669,7 @@ PrefabInstance:
       addedObject: {fileID: 1841386515}
     - targetCorrespondingSourceObject: {fileID: 2388403639285429919, guid: 25e92d6bd61bc4cc2b621f52c6d2d2d3, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1841386520}
+      addedObject: {fileID: 1841386523}
   m_SourcePrefab: {fileID: 100100000, guid: 25e92d6bd61bc4cc2b621f52c6d2d2d3, type: 3}
 --- !u!1 &833344151
 GameObject:
@@ -4760,7 +4760,7 @@ CapsuleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.34, y: 0.53}
+  m_Size: {x: 0.34, y: 0.65}
   m_Direction: 0
 --- !u!50 &833344155
 Rigidbody2D:
@@ -18983,7 +18983,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1572679038
 Transform:
   m_ObjectHideFlags: 0
@@ -25442,13 +25442,18 @@ MonoBehaviour:
   popupGameOver: {fileID: 231786310}
   menuButton: {fileID: 1881122618}
   restartButton: {fileID: 150427961}
+  debouteCollider: {fileID: 1841386510}
+  mortCollider: {fileID: 1841386523}
+  popupVie: {fileID: 1262232459}
+  popupCle: {fileID: 1271729704}
+  popupBouton: {fileID: 1649503035}
 --- !u!4 &1841386519 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9072892029667680520, guid: 25e92d6bd61bc4cc2b621f52c6d2d2d3, type: 3}
   m_PrefabInstance: {fileID: 814647214}
   m_PrefabAsset: {fileID: 0}
---- !u!70 &1841386520
-CapsuleCollider2D:
+--- !u!61 &1841386523
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -25457,7 +25462,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 63938422a502d438ab8746b3a3692d00, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -25481,9 +25486,18 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 2.8999999, y: 5.74}
-  m_Direction: 0
+  m_Offset: {x: 0, y: -0.06}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.9, y: 5}
+    newSize: {x: 2.9, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 5.3, y: 2.91}
+  m_EdgeRadius: 0
 --- !u!1 &1842568685
 GameObject:
   m_ObjectHideFlags: 0

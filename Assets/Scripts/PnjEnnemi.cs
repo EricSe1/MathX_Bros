@@ -63,8 +63,16 @@ public class PnjEnnemi : MonoBehaviour
                 }
                 else
                 {
-                    // Si le joueur entre en collision sans sauter, il perd une vie
-                    player.PrendreDegat(); // Appelle la méthode pour réduire les vies
+                    // Le joueur le headshot
+                    player.Dead();
+                    player.ShowGameOver();
+                    // Le pnj est en pause
+                    rb.linearVelocity = Vector2.zero; // Arrête le mouvement de l'ennemi
+                    rb.isKinematic = true; // Rend l'ennemi immobile
+                    rb.simulated = false; // Désactive la simulation physique
+                    enabled = false; // Désactive le script de l'ennemi
+                    
+                    
                 }
             }
         }
@@ -75,6 +83,7 @@ public class PnjEnnemi : MonoBehaviour
         // Déclenche l'effet de particules
         if (particleEffect != null)
         {
+            particleEffect.SetActive(true); // Désactive l'effet de particules pour le réinitialiser
             Instantiate(particleEffect, transform.position, Quaternion.identity);
         }
 
