@@ -35,7 +35,7 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        Time.timeScale = 1; 
+        Time.timeScale = 1;
 
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
@@ -45,7 +45,7 @@ public class Player : MonoBehaviour
         if (sceneName == "Level1")
         {
             clésRequises = 1;
-            
+
         }
         else if (sceneName == "Level2")
         {
@@ -107,19 +107,19 @@ public class Player : MonoBehaviour
         }
     }
 
-        public void DesactiverCanvasAvecTag(string tag)
+    public void DesactiverCanvasAvecTag(string tag)
+    {
+        GameObject canvas = GameObject.FindGameObjectWithTag(tag);
+        if (canvas != null)
         {
-            GameObject canvas = GameObject.FindGameObjectWithTag(tag);
-            if (canvas != null)
-            {
-                canvas.SetActive(false); // Désactive l'objet entier
-                Debug.Log($"Canvas avec le tag '{tag}' désactivé.");
-            }
-            else
-            {
-                Debug.LogWarning($"Aucun Canvas trouvé avec le tag '{tag}'.");
-            }
+            canvas.SetActive(false); // Désactive l'objet entier
+            Debug.Log($"Canvas avec le tag '{tag}' désactivé.");
         }
+        else
+        {
+            Debug.LogWarning($"Aucun Canvas trouvé avec le tag '{tag}'.");
+        }
+    }
     private void Update()
     {
         // On met à jour isGrounded à chaque frame
@@ -145,10 +145,10 @@ public class Player : MonoBehaviour
         }
 
         if (totalCleScore >= clésRequises)
-            {
-                DesactiverCanvasAvecTag("Cadenas"); // Désactiver le cadenas
-            }
-            
+        {
+            DesactiverCanvasAvecTag("Cadenas"); // Désactiver le cadenas
+        }
+
 
 
         if (porteProche != null)
@@ -236,7 +236,7 @@ public class Player : MonoBehaviour
         }
         if (other.CompareTag("Coffre2"))
         {
-           Debug.Log("Coffre détecté : " + other.name); // Ajoutez ce log
+            Debug.Log("Coffre détecté : " + other.name); // Ajoutez ce log
 
             isNearCoffre = true;
             coffreProche2 = other.GetComponent<Coffre2>(); // Stocke le script du coffre
@@ -249,7 +249,7 @@ public class Player : MonoBehaviour
             else
             {
                 Debug.LogWarning("Le label interactEText n'est pas assigné !");
-            } 
+            }
         }
         if (other.CompareTag("Porte"))
         {
@@ -274,14 +274,14 @@ public class Player : MonoBehaviour
             }
         }
 
-       
+
 
         if (other.CompareTag("Vide")) // Si le joueur tombe dans le vide
         {
             Debug.Log("Le joueur est tombé dans le vide !");
             ShowGameOver(); // Affiche l'écran de Game Over
         }
-        
+
     }
 
     private void OnTriggerExit2D(Collider2D other)
@@ -296,7 +296,7 @@ public class Player : MonoBehaviour
                 interactEText.text = ""; // Efface le texte d'interaction
             }
         }
-         if (other.CompareTag("Coffre2"))
+        if (other.CompareTag("Coffre2"))
         {
             Debug.Log("Coffre quitté : " + other.name); // Ajoutez ce log
             isNearCoffre = false;
@@ -343,7 +343,7 @@ public class Player : MonoBehaviour
     }
 
     // Méthode pour afficher l'écran de Game Over
-    private void ShowGameOver()
+    public void ShowGameOver()
     {
         Debug.Log("Game Over !");
 
