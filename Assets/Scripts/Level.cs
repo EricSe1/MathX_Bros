@@ -54,7 +54,7 @@ public class Level : MonoBehaviour
     public void Level1Laucher()
     {
         // Lancer le niveau 1
-        SceneManager.LoadScene("Level 1");
+        SceneManager.LoadScene("Level1");
     }
     public void Level2Laucher()
     {
@@ -67,7 +67,7 @@ public class Level : MonoBehaviour
         else
         {
             Level2Button.interactable = true; // Activer le bouton du niveau 2
-            SceneManager.LoadScene("Level 2");
+            SceneManager.LoadScene("Level2");
         }
         
     }
@@ -83,7 +83,7 @@ public class Level : MonoBehaviour
         else
         {
             Level3Button.interactable = true; // Activer le bouton du niveau 3
-            SceneManager.LoadScene("Level 3");
+            SceneManager.LoadScene("Level3");
         }
         
     }

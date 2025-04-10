@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class Coffre : MonoBehaviour
 {
-    public GameObject cle; // Référence à la clé qui apparaîtra
     public GameObject effetMagique; // Référence à l'effet magique (particules)
     public float fonduSpeed = 1f; // Vitesse de fondu pour le coffre
     private bool isPlayerInRange = false; // Vérifie si le joueur est proche
@@ -19,17 +18,18 @@ public class Coffre : MonoBehaviour
     public Text scoreText;            // Texte qui affiche le score
     public InputField inputField;        // Champ de réponse
     public Button submitButton;          // Bouton valider
+    public Button closeButton; // Bouton pour fermer le panneau
 
     private SpriteRenderer sr; // SpriteRenderer du coffre pour le fondu
     private Player player; // Référence au script Player
 
-    
+
     private int a, b;
     private int score = 0;
     private int objectif = 4;
 
     public int vie = 3;
-    public int cléScore = 0 ;
+    public int cléScore = 0;
 
     public Text textCléScore;
 
@@ -41,34 +41,38 @@ public class Coffre : MonoBehaviour
     public GameObject coeurVIDE2;
     public GameObject coeurVIDE3;
 
-//Game Over
+    //Game Over
     public Button menuButton;        // Boutton qui renvoie vers le menu
     public Button restartButton;      // Boutton qui fais refaire le niveau 
     public GameObject popupGameOver; // Panel Game Over
 
-    // Appelle cette méthode quand le joueur prend un dégât
+    private int clésRequises; // Nombre de clés nécessaires pour ouvrir la porte
+
     public void PrendreDegat()
     {
         if (vie <= 0) return;
 
         vie--;
 
-        if (vie == 2){
+        if (vie == 2)
+        {
             coeur3.SetActive(false); // Masque le 3e cœur
             coeurVIDE3.SetActive(true); //Démasque le 3eme coeur vide
         }
-        else if (vie == 1){
+        else if (vie == 1)
+        {
             coeur2.SetActive(false); // Masque le 2e cœur
             coeurVIDE2.SetActive(true); //Démasque le 3eme coeur vide
         }
-        else if (vie == 0){
+        else if (vie == 0)
+        {
             coeur1.SetActive(false); // Masque le 1er cœur
             coeurVIDE1.SetActive(true); //Démasque le 3eme coeur vide
             Debug.Log(" Le joueur est mort !");
             popupPanel.SetActive(false);
             controlButtons.SetActive(false);
             popupGameOver.SetActive(true);
-            
+
             player.Dead();
 
             menuButton.interactable = true;
@@ -77,14 +81,28 @@ public class Coffre : MonoBehaviour
 
             restartButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
             restartButton.onClick.AddListener(SceneLvl1);
-          
+
         }
     }
 
     void Start()
     {
+        string sceneName = SceneManager.GetActiveScene().name;
+        if (sceneName == "Level1")
+        {
+            clésRequises = 1;
+        }
+        else if (sceneName == "Level2")
+        {
+            clésRequises = 2;
+        }
+        else if (sceneName == "Level3")
+        {
+            clésRequises = 3;
+        }
+
         player = FindObjectOfType<Player>(); // Trouve automatiquement le joueur dans la scène
-        
+
         if (popupPanel != null)
         {
             popupPanel.SetActive(false);
@@ -95,77 +113,88 @@ public class Coffre : MonoBehaviour
             popupGameOver.SetActive(false);
         }
 
-        textCléScore.text = $"{cléScore} / 2";
+        textCléScore.text = $"{cléScore} / {clésRequises}";
 
         sr = GetComponent<SpriteRenderer>(); // On récupère le SpriteRenderer du coffre
-        if (cle != null)
-            cle.SetActive(false); // On cache la clé au début
+
         if (effetMagique != null)
             effetMagique.SetActive(false); // On cache l'effet magique au début
+
+        // Ajouter un listener pour le bouton "Fermer"
+        if (closeButton != null)
+        {
+            closeButton.onClick.AddListener(ClosePageCoffre);
+        }
     }
 
-    void Update(){
+    void Update()
+    {
         if (isPlayerInRange && Input.GetKeyDown(KeyCode.E) && !isOpened)
-        {     
-            
-           
+        {
+
+
         }
     }
     public void StartEquation()
-    {      
-    popupPanel.SetActive(true); //  Affiche le panel quand le joueur interagit
-    submitButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
-    submitButton.onClick.AddListener(VerifierReponse);
-    LancerNouvelleEquation();
+    {
+        popupPanel.SetActive(true); //  Affiche le panel quand le joueur interagit
+        submitButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
+        submitButton.onClick.AddListener(VerifierReponse);
+        LancerNouvelleEquation();
     }
 
     void LancerNouvelleEquation()
     {
-    int type = Random.Range(0, 4); // 0 = +, 1 = *, 2 = division, 3 = équation type x + b = c
-    int a = 0, b = 0, resultat = 0;
-    string equation = "";
+        int type = Random.Range(0, 4); // 0 = +, 1 = *, 2 = division, 3 = équation type x + b = c
+        int a = 0, b = 0, resultat = 0;
+        string equation = "";
 
-    switch (type)
-    {
-        case 0: // addition
-            a = Random.Range(10, 100);
-            b = Random.Range(10, 100);
-            resultat = a + b;
-            equation = $"{a} + {b} = ?";
-            break;
+        switch (type)
+        {
+            case 0: // addition
+                a = Random.Range(10, 100);
+                b = Random.Range(10, 100);
+                resultat = a + b;
+                equation = $"{a} + {b} = ?";
+                break;
 
-        case 1: // multiplication
-            a = Random.Range(5, 15);
-            b = Random.Range(5, 15);
-            resultat = a * b;
-            equation = $"{a} × {b} = ?";
-            break;
+            case 1: // multiplication
+                a = Random.Range(5, 15);
+                b = Random.Range(5, 15);
+                resultat = a * b;
+                equation = $"{a} × {b} = ?";
+                break;
 
-        case 2: // division entière
-            b = Random.Range(2, 10);
-            resultat = Random.Range(2, 10);
-            a = resultat * b; // pour que a / b donne un résultat entier
-            equation = $"{a} ÷ {b} = ?";
-            break;
+            case 2: // division entière
+                b = Random.Range(2, 10);
+                resultat = Random.Range(2, 10);
+                a = resultat * b; // pour que a / b donne un résultat entier
+                equation = $"{a} ÷ {b} = ?";
+                break;
 
-        case 3: // équation type "x + 7 = 21"
-            int x = Random.Range(5, 30);     // la vraie valeur de x
-            b = Random.Range(1, 20);
-            resultat = x - b;
-            Debug.Log("Resultat dans le switch :" + resultat);  
-            a = resultat; // stocke la bonne réponse dans a
+            case 3: // équation type "x + 7 = 21"
+                int x = Random.Range(5, 30);     // la vraie valeur de x
+                b = Random.Range(1, 20);
+                resultat = x - b;
+                Debug.Log("Resultat dans le switch :" + resultat);
+                a = resultat; // stocke la bonne réponse dans a
 
-            equation = $"x + {b} = {x} | x = ?";
-            break;
+                equation = $"x + {b} = {x} | x = ?";
+                break;
+        }
+
+
+        this.a = resultat; // on stocke la bonne réponse dans la variable `a`
+        Debug.Log("Resultat en dehors du switch :" + this.a);
+        equationText.text = equation + $"\n {score} / {objectif}";
+        inputField.text = "";
+        popupPanel.SetActive(true);
+        //scoreText.text = $"Score : {score} / {objectif}";
     }
 
-    
-    this.a = resultat; // on stocke la bonne réponse dans la variable `a`
-    Debug.Log("Resultat en dehors du switch :" + this.a);  
-    equationText.text = equation + $"\n {score} / {objectif}";
-    inputField.text = "";
-    popupPanel.SetActive(true);
-        //scoreText.text = $"Score : {score} / {objectif}";
+    public void ClosePageCoffre()
+    {
+        popupPanel.SetActive(false); // Ferme le panel
     }
 
     void VerifierReponse()
@@ -186,37 +215,31 @@ public class Coffre : MonoBehaviour
                     // ici ton bloc `if` de succès
                     popupPanel.SetActive(false);
 
-                 // Lancer l'effet magique
-            if (effetMagique != null)
-            {
-                effetMagique.SetActive(true); // Afficher l'effet magique
-            }
+                    // Lancer l'effet magique
+                    if (effetMagique != null)
+                    {
+                        effetMagique.SetActive(true); // Afficher l'effet magique
+                    }
 
-            // Faire apparaître la clé
-            if (cle != null)
-            {
-                cle.SetActive(true);
-            }
+                    // Lancer le fondu du coffre
+                    StartCoroutine(FonduCoffre());
 
-            // Lancer le fondu du coffre
-            StartCoroutine(FonduCoffre());
-
-            // Marquer le coffre comme ouvert pour éviter de réagir plusieurs fois
-                Ouvrir();
-            isOpened = true;
+                    // Marquer le coffre comme ouvert pour éviter de réagir plusieurs fois
+                    Ouvrir();
+                    isOpened = true;
 
                 }
                 else
                 {
                     LancerNouvelleEquation();
-                    
+
                 }
             }
             else
             {
 
-                
-                Debug.Log(" Mauvaise réponse !");  
+
+                Debug.Log(" Mauvaise réponse !");
                 LancerNouvelleEquation();
                 PrendreDegat();
             }
@@ -228,14 +251,26 @@ public class Coffre : MonoBehaviour
     }
 
 
-    private void OnTriggerEnter2D(Collider2D other){
+    private void OnTriggerEnter2D(Collider2D other)
+    {
         if (other.CompareTag("Player")) // Si le joueur entre dans la zone du coffre
         {
             isPlayerInRange = true;
+
+            if (textCléScore != null) // Vérifie si le texte est assigné
+            {
+                textCléScore.text = $"{cléScore} / {clésRequises}"; // Met à jour le texte
+                Debug.Log("Texte textCléScore mis à jour : " + textCléScore.text);
+            }
+            else
+            {
+                Debug.LogWarning("Le champ textCléScore n'est pas assigné dans l'inspecteur !");
+            }
         }
     }
 
-    private void OnTriggerExit2D(Collider2D other){
+    private void OnTriggerExit2D(Collider2D other)
+    {
         if (other.CompareTag("Player")) // Si le joueur quitte la zone du coffre
         {
             isPlayerInRange = false;
@@ -243,7 +278,8 @@ public class Coffre : MonoBehaviour
     }
 
     // Coroutine pour gérer le fondu du coffre
-    private IEnumerator FonduCoffre(){
+    private IEnumerator FonduCoffre()
+    {
         float t = 0;
         while (t < 1)
         {
@@ -254,35 +290,43 @@ public class Coffre : MonoBehaviour
         gameObject.SetActive(false); // Après le fondu, désactiver le coffre
     }
 
-    public void SceneMenu(){
+    public void SceneMenu()
+    {
         Debug.Log("Bouton menu principal clicker !");
         SceneManager.LoadScene("Menu");
     }
 
-    public void SceneLvl1(){
-        Debug.Log("Bouton restart !");
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name); 
-    }
-
-    public void Ouvrir(){
-    if (!isOpened)
+    public void SceneLvl1()
     {
-        Debug.Log("Coffre ouvert !");
-        effetMagique.SetActive(true);
-       /* if (cle != null && joueur != null && joueur.clePosition != null)
-            {
-                cle.transform.SetParent(joueur.clePosition); // Attache la clé au joueur
-                cle.transform.localPosition = Vector3.zero;  // Elle se place pile au-dessus de la tête
-                cle.SetActive(true);
-                Debug.Log("Clé attachée au joueur ! " + cle);
-            }*/   
-        StartCoroutine(FonduCoffre());
-        cléScore++;
-        textCléScore.text = $"{cléScore} / 2";
-        isOpened = true;
+        Debug.Log("Bouton restart !");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
-}
 
-    
+    public void Ouvrir()
+    {
+        if (!isOpened)
+        {
+            Debug.Log("Coffre ouvert !");
+            effetMagique.SetActive(true);
+            /* if (cle != null && joueur != null && joueur.clePosition != null)
+                 {
+                     cle.transform.SetParent(joueur.clePosition); // Attache la clé au joueur
+                     cle.transform.localPosition = Vector3.zero;  // Elle se place pile au-dessus de la tête
+                     cle.SetActive(true);
+                     Debug.Log("Clé attachée au joueur ! " + cle);
+                 }*/
+            StartCoroutine(FonduCoffre());
+            cléScore++;
+            textCléScore.text = $"{cléScore} / {clésRequises}";
+            isOpened = true;
+
+            player.AddCleScore(cléScore);
+        }
+    }
+
+    public int GetCleScore()
+    {
+        return cléScore; // Retourne le score des clés
+    }
 
 }

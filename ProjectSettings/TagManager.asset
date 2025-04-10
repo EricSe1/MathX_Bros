@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Coffre
+  - Porte
+  - Vide
   layers:
   - Default
   - TransparentFX
@@ -15,8 +17,8 @@ TagManager:
   - Ground
   - Coffre
   - PNG
-  - 
-  - 
+  - Porte
+  - Vide
   - 
   - 
   - 
