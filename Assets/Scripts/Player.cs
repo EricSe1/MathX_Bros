@@ -114,11 +114,11 @@ public class Player : MonoBehaviour
                 Debug.Log("Coffre trouvé, on lance l'équation !");
                 coffreProche.StartEquation();
             }
-            else if (coffreProchelv1 != null)
+            /*else if (coffreProche2 != null)
             {
                 Debug.Log("Coffre trouvé, on lance l'équation !");
-                coffreProchelv1.StartEquation();
-            }
+                coffreProche2.StartExpression();
+            }*/
             else
             {
                 Debug.LogWarning("Pas de coffre trouvé !");
