@@ -107,6 +107,19 @@ public class Player : MonoBehaviour
         }
     }
 
+        public void DesactiverCanvasAvecTag(string tag)
+        {
+            GameObject canvas = GameObject.FindGameObjectWithTag(tag);
+            if (canvas != null)
+            {
+                canvas.SetActive(false); // Désactive l'objet entier
+                Debug.Log($"Canvas avec le tag '{tag}' désactivé.");
+            }
+            else
+            {
+                Debug.LogWarning($"Aucun Canvas trouvé avec le tag '{tag}'.");
+            }
+        }
     private void Update()
     {
         // On met à jour isGrounded à chaque frame
@@ -130,6 +143,12 @@ public class Player : MonoBehaviour
                 Debug.LogWarning("Pas de coffre trouvé !");
             }
         }
+
+        if (totalCleScore >= clésRequises)
+            {
+                DesactiverCanvasAvecTag("Cadenas"); // Désactiver le cadenas
+            }
+            
 
 
         if (porteProche != null)
