@@ -45,14 +45,20 @@ public class Player : MonoBehaviour
         if (sceneName == "Level1")
         {
             clésRequises = 1;
+            
         }
         else if (sceneName == "Level2")
         {
             clésRequises = 2;
+            PlayerPrefs.SetInt("Level2Active", 1); // Verrouiller le niveau 2
+            PlayerPrefs.Save();
         }
         else if (sceneName == "Level3")
         {
             clésRequises = 3;
+            PlayerPrefs.SetInt("Level2Active", 1); // Verrouiller le niveau 2
+            PlayerPrefs.SetInt("Level3Active", 1); // Verrouiller le niveau 3
+            PlayerPrefs.Save();
         }
         // Ajoutez d'autres niveaux si nécessaire
     }
@@ -145,6 +151,18 @@ public class Player : MonoBehaviour
                         PlayerPrefs.SetInt("Level2Active", 1); // Débloque le niveau 2
                         PlayerPrefs.Save(); // Sauvegarde les préférences
                         SceneManager.LoadScene("Level2");
+                    }
+
+                    if (SceneManager.GetActiveScene().name == "Level2")
+                    {
+                        PlayerPrefs.SetInt("Level3Active", 1); // Débloque le niveau 3
+                        PlayerPrefs.Save(); // Sauvegarde les préférences
+                        SceneManager.LoadScene("Level3");
+                    }
+
+                    if (SceneManager.GetActiveScene().name == "Level3")
+                    {
+                        SceneManager.LoadScene("Menu"); // Retour au menu
                     }
 
                     SceneManager.LoadScene(porteProche.prochainNiveau); // Charge le niveau suivant
@@ -300,12 +318,21 @@ public class Player : MonoBehaviour
         rb.linearVelocity = Vector2.zero; // Arrête le joueur
         rb.isKinematic = true; // Empêche les forces physiques
         this.enabled = false; // Désactive le script Player pour bloquer les inputs
+        PlayerPrefs.DeleteKey("Level2Active");
+        PlayerPrefs.DeleteKey("Level3Active");
+        PlayerPrefs.Save(); // Sauvegarde les préférences
     }
 
     // Méthode pour afficher l'écran de Game Over
     private void ShowGameOver()
     {
         Debug.Log("Game Over !");
+
+        //Détruire les levels
+        PlayerPrefs.DeleteKey("Level2Active");
+        PlayerPrefs.DeleteKey("Level3Active");
+        PlayerPrefs.Save(); // Sauvegarde les préférences
+
         popupGameOver.SetActive(true); // Affiche le panel Game Over
 
         menuButton.interactable = true;

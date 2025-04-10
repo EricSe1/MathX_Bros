@@ -10,25 +10,22 @@ public class MenuGameplay : MonoBehaviour
 
     public void Start()
     {
-        Time.timeScale = 1; 
-        if (PlayerPrefs.HasKey("Volume"))
-        {
-            Debug.Log("Volume trouvé dans PlayerPrefs.");
-            float volumes = PlayerPrefs.GetFloat("Volume");
-            AudioListener.volume = volumes;
-            CanvasGroup canvasGroup = Canvas_Volume.GetComponent<CanvasGroup>();
-            canvasGroup = Canvas_Volume.AddComponent<CanvasGroup>(); // Ajouter dynamiquement CanvasGroup
+        Time.timeScale = 1;
 
-            // Toujours activer le volume au début
-            VolumeOn();
+        // Vérifier l'état du volume sauvegardé
+        if (PlayerPrefs.HasKey("VolumeState"))
+        {
+            bool volumeActif = PlayerPrefs.GetInt("VolumeState") == 1;
+            AudioListener.volume = volumeActif ? 1.0f : 0.0f;
+            Debug.Log("Volume appliqué depuis PlayerPrefs : " + AudioListener.volume);
+            Volume();
         }
         else
         {
+            // Si aucune valeur n'est sauvegardée, activer le volume par défaut
+            AudioListener.volume = 1.0f;
             Debug.Log("Aucune valeur de volume trouvée, activation par défaut.");
-            VolumeOn(); // Activer le volume par défaut
         }
-       
-        Debug.Log("Volume : " + AudioListener.volume);
     }
 
     public void MenuGame() {
@@ -59,7 +56,6 @@ public class MenuGameplay : MonoBehaviour
         Debug.Log("Bouton cliqué, exécution de la méthode Volume()."); // Confirme que le clic est détecté
         if (Canvas_Volume != null)
         {
-            Debug.Log("Canvas_Volume est reconnu et la méthode Volume() est exécutée."); // Message de débogage
             CanvasGroup canvasGroup = Canvas_Volume.GetComponent<CanvasGroup>();
             if (canvasGroup == null)
             {
@@ -67,7 +63,7 @@ public class MenuGameplay : MonoBehaviour
                 canvasGroup = Canvas_Volume.AddComponent<CanvasGroup>(); // Ajouter dynamiquement CanvasGroup
             }
 
-            if (canvasGroup.alpha == 1f)
+            if (AudioListener.volume > 0f)
             {
                 // Si le volume est activé, le désactiver
                 VolumeOff();
@@ -77,8 +73,10 @@ public class MenuGameplay : MonoBehaviour
                 // Si le volume est désactivé, l'activer
                 VolumeOn();
             }
-            PlayerPrefs.SetFloat("Volume", AudioListener.volume);
-            PlayerPrefs.Save(); // Assurez-vous que les données sont sauvegardées
+
+            // Sauvegarder l'état du volume dans PlayerPrefs
+            PlayerPrefs.SetInt("VolumeState", AudioListener.volume > 0f ? 1 : 0);
+            PlayerPrefs.Save();
         }
         else
         {
@@ -94,7 +92,7 @@ public class MenuGameplay : MonoBehaviour
         {
             canvasGroup.alpha = 0.3f; // Mettre l'opacité à 30%
             AudioListener.volume = 0; // Mettre le volume à 0
-            Debug.Log("Volume : " + AudioListener.volume);
+            Debug.Log("Volume désactivé : " + AudioListener.volume);
         }
         else
         {
@@ -109,8 +107,7 @@ public class MenuGameplay : MonoBehaviour
         {
             canvasGroup.alpha = 1f; // Mettre l'opacité à 100%
             AudioListener.volume = 1; // Remettre le volume à 1
-            Debug.Log("Volume : " + AudioListener.volume);
-
+            Debug.Log("Volume activé : " + AudioListener.volume);
         }
         else
         {

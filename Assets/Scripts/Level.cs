@@ -19,8 +19,8 @@ public class Level : MonoBehaviour
 
     public void Start()
     {
-        /*
-        PlayerPrefs.DeleteKey("FirstLaunch");
+        
+        /*PlayerPrefs.DeleteKey("FirstLaunch");
         // Vérifier si c'est le premier lancement du jeu
         if (!PlayerPrefs.HasKey("FirstLaunch"))
         {
@@ -29,15 +29,17 @@ public class Level : MonoBehaviour
             PlayerPrefs.SetInt("Level2Active", 0); // Verrouiller le niveau 2
             PlayerPrefs.SetInt("Level3Active", 0); // Verrouiller le niveau 3
             PlayerPrefs.Save(); // Sauvegarder les préférences
-        }
+        }*/
 
         // Lire l'état de progression depuis PlayerPrefs
         isLevel2Active = PlayerPrefs.GetInt("Level2Active", 0) == 1; // Vérifie si le niveau 2 est actif
         isLevel3Active = PlayerPrefs.GetInt("Level3Active", 0) == 1; // Vérifie si le niveau 3 est actif
-*/
+
         // Vérifier si le niveau 2 est actif
-        /*if (isLevel2Active && !isLevel3Active)
+        if (isLevel2Active && !isLevel3Active)
         {
+            Level2Text.text = "2"; // Changer le texte du bouton du niveau 2
+            Level2Button.interactable = true; // Activer le bouton du niveau 2
             Level3Text.text = "X"; // Changer le texte du bouton du niveau 3
             Level3.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 3 en rouge
             Level3Button.interactable = false; // Désactiver le bouton du niveau 3
@@ -54,14 +56,14 @@ public class Level : MonoBehaviour
             Debug.Log("Le niveau 2 et le niveau 3 sont bloqués");
         }
         else
-        {*/
+        {
             Level2Text.text = "2"; // Changer le texte du bouton du niveau 2
             Level2Button.interactable = true; // Activer le bouton du niveau 2
             Level3Text.text = "Bientôt Dispo"; // Changer le texte du bouton du niveau 3
             Level3Button.interactable = false; // Désactiver le bouton du niveau 3
             Level3.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 3 en vert
             Debug.Log("Le niveau 2 et le niveau 3 sont déverrouillés");
-        //}
+        }
     }
     public void Level1Laucher()
     {
@@ -70,10 +72,17 @@ public class Level : MonoBehaviour
     }
     public void Level2Laucher()
     {
-
+        if (Level2.GetComponent<Image>().color == Color.red) 
+        {
+            Level2Button.interactable = false; // Désactiver le bouton du niveau 2
+            Debug.Log("Le niveau 2 est bloqué.");
+        }
+        // Lancer le niveau 2
+        else
+        {
             Level2Button.interactable = true; // Activer le bouton du niveau 2
             SceneManager.LoadScene("Level2");
-        
+        }
     }
   
     public void Level3Laucher()

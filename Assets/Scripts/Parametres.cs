@@ -92,8 +92,14 @@ public class Parametres : MonoBehaviour
         Debug.Log("ChangerVolumeMusique appelé avec : " + estActif);
         float volume = volumeMusiqueToogle.isOn ? 1.0f : 0.0f;
         AppliquerVolumeMusique(volume);
+
+        // Sauvegarder l'état du volume (activé ou désactivé)
+        PlayerPrefs.SetInt("VolumeState", estActif ? 1 : 0);
+        PlayerPrefs.Save();
+
         MettreAJourCouleurToggleVolume(estActif);
     }
+
     // Fonction pour appliquer le volume de la musique
     private void AppliquerVolumeMusique(float volume)
     {
