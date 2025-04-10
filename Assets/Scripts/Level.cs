@@ -19,17 +19,16 @@ public class Level : MonoBehaviour
 
     public void Start()
     {
-        /* isLevel2Active = PlayerPrefs.GetInt("Level2Active", 0) == 1; // Vérifier si le niveau 2 est actif
-        isLevel3Active = PlayerPrefs.GetInt("Level3Active", 0) == 1; // Vérifier si le niveau 3 est actif 
-        isLevel2Active = true; // Activer le niveau 2 pour le test
-        isLevel3Active = true; // Désactiver le niveau 3 pour le test*/
+        // Lire l'état de progression depuis PlayerPrefs
+        isLevel2Active = PlayerPrefs.GetInt("Level2Active", 0) == 1; // Vérifie si le niveau 2 est actif
+        isLevel3Active = PlayerPrefs.GetInt("Level3Active", 0) == 1; // Vérifie si le niveau 3 est actif
 
         // Vérifier si le niveau 2 est actif
         if (isLevel2Active && !isLevel3Active)
         {
-            Level3Text.text = "X"; // Changer le texte du bouton du niveau 2
-            Level3.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 2 en rouge
-            Level3Button.interactable = false; // Désactiver le bouton du niveau 2
+            Level3Text.text = "X"; // Changer le texte du bouton du niveau 3
+            Level3.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 3 en rouge
+            Level3Button.interactable = false; // Désactiver le bouton du niveau 3
             Debug.Log("Le niveau 2 est déverrouillé mais le niveau 3 est bloqué");
         }
         else if (!isLevel2Active && !isLevel3Active)
@@ -45,9 +44,9 @@ public class Level : MonoBehaviour
         else
         {
             Level2Text.text = "2"; // Changer le texte du bouton du niveau 2
-            Level2.GetComponent<Image>().color = Color.green; // Mettre le canvas du niveau 2 en rouge
+            Level2.GetComponent<Image>().color = Color.green; // Mettre le canvas du niveau 2 en vert
             Level3Text.text = "3"; // Changer le texte du bouton du niveau 3
-            Level3.GetComponent<Image>().color = Color.green; // Mettre le canvas du niveau 3 en rouge
+            Level3.GetComponent<Image>().color = Color.green; // Mettre le canvas du niveau 3 en vert
             Debug.Log("Le niveau 2 et le niveau 3 sont déverrouillés");
         }
     }

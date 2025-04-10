@@ -11908,7 +11908,7 @@ GameObject:
   - component: {fileID: 536341911}
   - component: {fileID: 536341910}
   - component: {fileID: 536341913}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Coffre
   m_TagString: Coffre
   m_Icon: {fileID: 0}
@@ -12004,7 +12004,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_Sprite: {fileID: -2719063020422914690, guid: ac8ee4c0bbba4cc42bbf48cdcc561cf1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

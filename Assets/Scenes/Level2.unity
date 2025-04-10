@@ -858,6 +858,7 @@ GameObject:
   - component: {fileID: 150427963}
   - component: {fileID: 150427962}
   - component: {fileID: 150427961}
+  - component: {fileID: 150427964}
   m_Layer: 0
   m_Name: Restart
   m_TagString: Untagged
@@ -928,7 +929,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 150427962}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 150427964}
+        m_TargetAssemblyTypeName: MenuGameplay, Assembly-CSharp
+        m_MethodName: ReloadGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &150427962
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -967,6 +980,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150427959}
   m_CullTransparentMesh: 1
+--- !u!114 &150427964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 150427959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c90f9af5e8114fcdab36eff91e705ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Canvas_Pause: {fileID: 0}
+  Canvas_Volume: {fileID: 0}
+  Canvas_Resume: {fileID: 0}
 --- !u!1 &168345640
 GameObject:
   m_ObjectHideFlags: 0
@@ -1379,9 +1407,10 @@ GameObject:
   - component: {fileID: 266718282}
   - component: {fileID: 266718284}
   - component: {fileID: 266718285}
+  - component: {fileID: 266718286}
   m_Layer: 6
   m_Name: _Spritesheet_0
-  m_TagString: Untagged
+  m_TagString: Vide
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1539,6 +1568,52 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 6, y: 5.44}
   m_Direction: 1
+--- !u!61 &266718286
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 266718281}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 6.06, y: 5.44}
+    newSize: {x: 6.06, y: 5.44}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 55.94, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &272778300
 GameObject:
   m_ObjectHideFlags: 0
@@ -19136,6 +19211,9 @@ MonoBehaviour:
     m_Bits: 64
   groundCheck: {fileID: 635351428}
   interactEText: {fileID: 1403980646}
+  popupGameOver: {fileID: 231786310}
+  menuButton: {fileID: 1881122618}
+  restartButton: {fileID: 150427961}
 --- !u!4 &1841386519 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9072892029667680520, guid: 25e92d6bd61bc4cc2b621f52c6d2d2d3, type: 3}
@@ -19632,6 +19710,7 @@ GameObject:
   - component: {fileID: 1881122620}
   - component: {fileID: 1881122619}
   - component: {fileID: 1881122618}
+  - component: {fileID: 1881122621}
   m_Layer: 0
   m_Name: Menu
   m_TagString: Untagged
@@ -19702,7 +19781,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1881122619}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1881122621}
+        m_TargetAssemblyTypeName: MenuGameplay, Assembly-CSharp
+        m_MethodName: MenuGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1881122619
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19741,6 +19832,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1881122616}
   m_CullTransparentMesh: 1
+--- !u!114 &1881122621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1881122616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c90f9af5e8114fcdab36eff91e705ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Canvas_Pause: {fileID: 0}
+  Canvas_Volume: {fileID: 0}
+  Canvas_Resume: {fileID: 0}
 --- !u!1 &1905424598
 GameObject:
   m_ObjectHideFlags: 0

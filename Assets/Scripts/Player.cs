@@ -138,6 +138,15 @@ public class Player : MonoBehaviour
                 {
                     Debug.Log("Ouverture de la porte...");
                     interactEText.text = "Ouverture de la porte...";
+
+                    // Sauvegarder la progression si le joueur termine le niveau 1
+                    if (SceneManager.GetActiveScene().name == "Level1")
+                    {
+                        PlayerPrefs.SetInt("Level2Active", 1); // Débloque le niveau 2
+                        PlayerPrefs.Save(); // Sauvegarde les préférences
+                        SceneManager.LoadScene("Level2");
+                    }
+
                     SceneManager.LoadScene(porteProche.prochainNiveau); // Charge le niveau suivant
                 }
             }
@@ -188,7 +197,7 @@ public class Player : MonoBehaviour
                 Debug.LogWarning("Le label interactEText n'est pas assigné !");
             }
         }
-        /*
+        
         if (other.CompareTag("Porte"))
         {
             Debug.Log($"Porte détectée : {other.name} - Clés collectées : {totalCleScore}, Clés requises : {clésRequises}");
@@ -210,7 +219,7 @@ public class Player : MonoBehaviour
                     Debug.Log("Le joueur n'a pas assez de clés pour ouvrir la porte.");
                 }
             }
-        }*/
+        }
 
        
 
@@ -237,6 +246,7 @@ public class Player : MonoBehaviour
 
         if (other.CompareTag("Porte"))
         {
+            interactEText.text = "";
             Porte porte = other.GetComponent<Porte>();
             if (porte != null && porte == porteProche) // Vérifie si c'est bien la porte proche
             {

@@ -72,6 +72,7 @@ public class Porte : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             isPlayerInRange = false;
+            interactEText.text = ""; // Efface le texte d'interaction
             Debug.Log("Le joueur s'est éloigné de la porte.");
         }
     }
