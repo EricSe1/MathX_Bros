@@ -8,6 +8,7 @@ public class Coffre2 : Coffre
 {
     public GameObject panelExpression;
     public Text expressionText;
+    public GameObject coffre2;
     public InputField reponseExpression;
     public Button validateButton;
     public Button closeButton2; // Bouton pour fermer le panneau
@@ -30,6 +31,7 @@ public class Coffre2 : Coffre
         if (sceneName == "Level1")
         {
             clésRequises2 = 1;
+            Debug.Log($"CleRequise : {clésRequises2}");
         }
         else if (sceneName == "Level2")
         {
@@ -39,6 +41,7 @@ public class Coffre2 : Coffre
         else if (sceneName == "Level3")
         {
             clésRequises2 = 3;
+            Debug.Log($"CleRequise : {clésRequises2}");
         }
 
         panelExpression.SetActive(false);
@@ -99,6 +102,7 @@ public class Coffre2 : Coffre
                     // Marquer le coffre comme ouvert pour éviter de réagir plusieurs fois
                     Ouvrir2();
                     isOpened2 = true;
+                    
                 }
                 else
                 {
@@ -156,6 +160,6 @@ public class Coffre2 : Coffre
             sr2.color = new Color(sr2.color.r, sr2.color.g, sr2.color.b, 1 - t); // Appliquer le fondu
             yield return null; // Attendre une frame avant de recommencer
         }
-        gameObject.SetActive(false); // Après le fondu, désactiver le coffre
+        coffre2.SetActive(false); // Après le fondu, désactiver le coffre
     }
 }

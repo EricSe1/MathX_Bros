@@ -10688,8 +10688,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 17, y: 196}
-  m_SizeDelta: {x: 653.3, y: 109.7}
+  m_AnchoredPosition: {x: 8.5, y: 182.73}
+  m_SizeDelta: {x: 762.1, y: 185.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1065347949
 MonoBehaviour:
@@ -19150,7 +19150,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &1701973531
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21898,7 +21898,7 @@ BoxCollider2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_LayerOverridePriority: 0
+  m_LayerOverridePriority: 1
   m_ForceSendLayers:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -22021,7 +22021,7 @@ MonoBehaviour:
   closeButton: {fileID: 0}
   vie: 3
   "cl\xE9Score": 0
-  "textCl\xE9Score": {fileID: 1720506745}
+  "textCl\xE9Score": {fileID: 0}
   coeur1: {fileID: 1416886577}
   coeur2: {fileID: 1555854182}
   coeur3: {fileID: 613140088}
@@ -22033,6 +22033,7 @@ MonoBehaviour:
   popupGameOver: {fileID: 231786310}
   panelExpression: {fileID: 1821344342}
   expressionText: {fileID: 1065347949}
+  coffre2: {fileID: 2035243657}
   reponseExpression: {fileID: 1189543553}
   validateButton: {fileID: 501973652}
   closeButton2: {fileID: 860443959}
