@@ -259,6 +259,16 @@ public class Player : MonoBehaviour
                 interactEText.text = ""; // Efface le texte d'interaction
             }
         }
+         if (other.CompareTag("Coffre2"))
+        {
+            Debug.Log("Coffre quitté : " + other.name); // Ajoutez ce log
+            isNearCoffre = false;
+            coffreProche2 = null; // On oublie le coffre
+            if (interactEText != null) // Vérifie si interactEText est assigné
+            {
+                interactEText.text = ""; // Efface le texte d'interaction
+            }
+        }
 
         if (other.CompareTag("Porte"))
         {
