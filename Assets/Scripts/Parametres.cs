@@ -107,4 +107,14 @@ public class Parametres : MonoBehaviour
         Debug.Log("Volume de la musique appliqué : " + volume);
     }
 
+    void OnApplicationQuit()
+    {
+        // Supprimer la clé "Volume" de PlayerPrefs
+        if (PlayerPrefs.HasKey("Volume"))
+        {
+            PlayerPrefs.DeleteKey("Volume");
+            Debug.Log("Clé 'Volume' supprimée de PlayerPrefs à la fermeture de l'application.");
+        }
+    }
+
 }

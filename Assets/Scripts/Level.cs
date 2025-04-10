@@ -19,6 +19,7 @@ public class Level : MonoBehaviour
 
     public void Start()
     {
+        PlayerPrefs.DeleteKey("FirstLaunch");
         // Vérifier si c'est le premier lancement du jeu
         if (!PlayerPrefs.HasKey("FirstLaunch"))
         {
@@ -95,5 +96,14 @@ public class Level : MonoBehaviour
             SceneManager.LoadScene("Level3");
         }
         
+    }
+        void OnApplicationQuit()
+    {
+        // Réinitialiser les paramètres (par exemple, supprimer la clé "Volume")
+        if (PlayerPrefs.HasKey("Volume"))
+        {
+            PlayerPrefs.DeleteKey("Volume");
+            Debug.Log("Clé 'Volume' supprimée de PlayerPrefs à la fermeture de l'application.");
+        }
     }
 }
