@@ -19,6 +19,16 @@ public class Level : MonoBehaviour
 
     public void Start()
     {
+        // Vérifier si c'est le premier lancement du jeu
+        if (!PlayerPrefs.HasKey("FirstLaunch"))
+        {
+            Debug.Log("Premier lancement du jeu. Réinitialisation des niveaux.");
+            PlayerPrefs.SetInt("FirstLaunch", 1); // Marquer que le jeu a été lancé
+            PlayerPrefs.SetInt("Level2Active", 0); // Verrouiller le niveau 2
+            PlayerPrefs.SetInt("Level3Active", 0); // Verrouiller le niveau 3
+            PlayerPrefs.Save(); // Sauvegarder les préférences
+        }
+
         // Lire l'état de progression depuis PlayerPrefs
         isLevel2Active = PlayerPrefs.GetInt("Level2Active", 0) == 1; // Vérifie si le niveau 2 est actif
         isLevel3Active = PlayerPrefs.GetInt("Level3Active", 0) == 1; // Vérifie si le niveau 3 est actif
