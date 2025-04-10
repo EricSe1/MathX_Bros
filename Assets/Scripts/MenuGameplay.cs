@@ -19,14 +19,13 @@ public class MenuGameplay : MonoBehaviour
             CanvasGroup canvasGroup = Canvas_Volume.GetComponent<CanvasGroup>();
             canvasGroup = Canvas_Volume.AddComponent<CanvasGroup>(); // Ajouter dynamiquement CanvasGroup
 
-
-            if (volumes == 0) {
-                VolumeOff();
-            }
-            else 
-            {
-                VolumeOn();
-            }
+            // Toujours activer le volume au début
+            VolumeOn();
+        }
+        else
+        {
+            Debug.Log("Aucune valeur de volume trouvée, activation par défaut.");
+            VolumeOn(); // Activer le volume par défaut
         }
        
         Debug.Log("Volume : " + AudioListener.volume);
