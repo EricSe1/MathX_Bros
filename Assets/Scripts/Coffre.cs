@@ -3,9 +3,13 @@ using System.Collections;
 using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
-
-public class Coffre : MonoBehaviour
+public enum CoffreType
 {
+    Equation,   // Coffre qui génère des équations
+    Expression  // Coffre qui génère des expressions mathématiques
+}public class Coffre : MonoBehaviour
+{
+    public CoffreType typeDeCoffre; // Définit le type de coffre
     public GameObject effetMagique; // Référence à l'effet magique (particules)
     public float fonduSpeed = 1f; // Vitesse de fondu pour le coffre
     private bool isPlayerInRange = false; // Vérifie si le joueur est proche
@@ -15,17 +19,17 @@ public class Coffre : MonoBehaviour
 
     public GameObject popupPanel;        // Le panel de la popup
     public Text equationText;            // Texte qui affiche l'équation
-    public Text scoreText;            // Texte qui affiche le score
+    public Text expressionText;          // Texte qui affiche l'expression (pour Coffre2)
+    public Text scoreText;               // Texte qui affiche le score
     public InputField inputField;        // Champ de réponse
     public Button submitButton;          // Bouton valider
-    public Button closeButton; // Bouton pour fermer le panneau
+    public Button closeButton;           // Bouton pour fermer le panneau
 
     private SpriteRenderer sr; // SpriteRenderer du coffre pour le fondu
     private Player player; // Référence au script Player
 
-
-    private int a, b;
-    private int score = 0;
+    private int a, b, solution; // Variables pour les calculs
+    private int score;
     private int objectif = 4;
 
     public int vie = 3;
@@ -43,7 +47,7 @@ public class Coffre : MonoBehaviour
 
     //Game Over
     public Button menuButton;        // Boutton qui renvoie vers le menu
-    public Button restartButton;      // Boutton qui fais refaire le niveau 
+    public Button restartButton;     // Boutton qui fais refaire le niveau 
     public GameObject popupGameOver; // Panel Game Over
 
     private int clésRequises; // Nombre de clés nécessaires pour ouvrir la porte
@@ -136,12 +140,33 @@ public class Coffre : MonoBehaviour
 
         }
     }
+
+    public void StartInteraction()
+    {
+        if (typeDeCoffre == CoffreType.Equation)
+        {
+            StartEquation();
+        }
+        else if (typeDeCoffre == CoffreType.Expression)
+        {
+            StartExpression();
+        }
+    }
+
     public void StartEquation()
     {
-        popupPanel.SetActive(true); //  Affiche le panel quand le joueur interagit
+        popupPanel.SetActive(true); // Affiche le panel quand le joueur interagit
         submitButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
-        submitButton.onClick.AddListener(VerifierReponse);
+        submitButton.onClick.AddListener(VerifierReponseEquation);
         LancerNouvelleEquation();
+    }
+
+    public void StartExpression()
+    {
+        popupPanel.SetActive(true); // Affiche le panel pour l'expression
+        submitButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
+        submitButton.onClick.AddListener(VerifierReponseExpression);
+        GenerateExpression();
     }
 
     void LancerNouvelleEquation()
@@ -157,6 +182,7 @@ public class Coffre : MonoBehaviour
                 b = Random.Range(10, 100);
                 resultat = a + b;
                 equation = $"{a} + {b} = ?";
+                Debug.Log($"Réponse : {resultat}"); // Debug pour vérifier l'équation
                 break;
 
             case 1: // multiplication
@@ -164,6 +190,7 @@ public class Coffre : MonoBehaviour
                 b = Random.Range(5, 15);
                 resultat = a * b;
                 equation = $"{a} × {b} = ?";
+                Debug.Log($"Réponse : {resultat}"); // Debug pour vérifier l'équation
                 break;
 
             case 2: // division entière
@@ -171,26 +198,39 @@ public class Coffre : MonoBehaviour
                 resultat = Random.Range(2, 10);
                 a = resultat * b; // pour que a / b donne un résultat entier
                 equation = $"{a} ÷ {b} = ?";
+                Debug.Log($"Réponse : {resultat}"); // Debug pour vérifier l'équation
                 break;
 
             case 3: // équation type "x + 7 = 21"
                 int x = Random.Range(5, 30);     // la vraie valeur de x
                 b = Random.Range(1, 20);
                 resultat = x - b;
-                Debug.Log("Resultat dans le switch :" + resultat);
                 a = resultat; // stocke la bonne réponse dans a
-
                 equation = $"x + {b} = {x} | x = ?";
+                Debug.Log($"Réponse : {resultat}"); // Debug pour vérifier l'équation
                 break;
         }
 
-
         this.a = resultat; // on stocke la bonne réponse dans la variable `a`
-        Debug.Log("Resultat en dehors du switch :" + this.a);
         equationText.text = equation + $"\n {score} / {objectif}";
         inputField.text = "";
-        popupPanel.SetActive(true);
-        //scoreText.text = $"Score : {score} / {objectif}";
+    }
+
+    void GenerateExpression()
+    {
+        int a = Random.Range(1, 5);
+        int b = Random.Range(1, 5);
+        int c = Random.Range(1, 5);
+        int d = Random.Range(1, 10);
+
+        int par = a + b;
+        int pow = par * par;
+        int mult = pow * c;
+        solution = mult - d;
+
+        expressionText.text = $"Résous : ({a} + {b})² × {c} - {d} \n Score : {score}/{objectif}";
+        inputField.text = "";
+        Debug.Log($"Réponse : {solution}"); // Debug pour vérifier l'expression
     }
 
     public void ClosePageCoffre()
@@ -198,59 +238,63 @@ public class Coffre : MonoBehaviour
         popupPanel.SetActive(false); // Ferme le panel
     }
 
-    void VerifierReponse()
+    void VerifierReponseEquation()
     {
-        int resultAttendu = a + b;
-        int userReponse;
-
-        if (int.TryParse(inputField.text, out userReponse))
+        if (int.TryParse(inputField.text, out int userReponse))
         {
-            if (userReponse == resultAttendu)
+            if (userReponse == a)
             {
                 score++;
-                Debug.Log("Bonne réponse ! Score : " + score);
-
+                Debug.Log("Bonne réponse !");
                 if (score >= objectif)
                 {
-                    Debug.Log(" Objectif atteint !");
-                    // ici ton bloc `if` de succès
-                    popupPanel.SetActive(false);
-
-                    // Lancer l'effet magique
-                    if (effetMagique != null)
-                    {
-                        effetMagique.SetActive(true); // Afficher l'effet magique
-                    }
-
-                    // Lancer le fondu du coffre
-                    StartCoroutine(FonduCoffre());
-
-                    // Marquer le coffre comme ouvert pour éviter de réagir plusieurs fois
                     Ouvrir();
-                    isOpened = true;
-
                 }
                 else
                 {
                     LancerNouvelleEquation();
-
                 }
             }
             else
             {
-
-
-                Debug.Log(" Mauvaise réponse !");
-                LancerNouvelleEquation();
+                Debug.Log("Mauvaise réponse !");
                 PrendreDegat();
             }
         }
         else
         {
-            Debug.Log(" Entrez un nombre valide !");
+            Debug.Log("Entrez un nombre valide !");
         }
     }
 
+    void VerifierReponseExpression()
+    {
+        if (int.TryParse(inputField.text, out int userReponse))
+        {
+            if (userReponse == solution)
+            {
+                score++;
+                Debug.Log("Bonne réponse !");
+                if (score >= objectif)
+                {
+                    Ouvrir();
+                }
+                else
+                {
+                    GenerateExpression();
+                }
+            }
+            else
+            {
+                Debug.Log("Mauvaise réponse !");
+                PrendreDegat();
+            }
+        }
+        else
+        {
+            Debug.Log("Entrez un nombre valide !");
+        }
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -309,15 +353,12 @@ public class Coffre : MonoBehaviour
         {
             Debug.Log("Coffre ouvert !");
             effetMagique.SetActive(true);
-            /* if (cle != null && joueur != null && joueur.clePosition != null)
-                 {
-                     cle.transform.SetParent(joueur.clePosition); // Attache la clé au joueur
-                     cle.transform.localPosition = Vector3.zero;  // Elle se place pile au-dessus de la tête
-                     cle.SetActive(true);
-                     Debug.Log("Clé attachée au joueur ! " + cle);
-                 }*/
+            controlButtons.SetActive(false);
+            popupPanel.SetActive(false);
             StartCoroutine(FonduCoffre());
             cléScore++;
+
+            
             textCléScore.text = $"{cléScore} / {clésRequises}";
             isOpened = true;
 
@@ -328,6 +369,13 @@ public class Coffre : MonoBehaviour
     public int GetCleScore()
     {
         return cléScore; // Retourne le score des clés
+    }
+
+
+    public void setCléScore(int score)
+    {
+        cléScore = score; // Définit le score des clés
+        textCléScore.text = $"{cléScore} / {clésRequises}";
     }
 
     

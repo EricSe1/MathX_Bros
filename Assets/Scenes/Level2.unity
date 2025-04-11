@@ -712,37 +712,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &141369205
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 141369206}
-  m_Layer: 0
-  m_Name: PointB
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &141369206
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 141369205}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.220545, y: -6.209475, z: -1.2088554}
-  m_LocalScale: {x: 2.3715, y: 2.3715, z: 2.3715}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &143138755
 GameObject:
   m_ObjectHideFlags: 0
@@ -1662,7 +1631,7 @@ GameObject:
   m_TagString: Coffre
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!212 &272778301
 SpriteRenderer:
@@ -1792,13 +1761,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 240b54abdacd8453184e5e41a9df2221, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  typeDeCoffre: 0
   effetMagique: {fileID: 936730855}
   fonduSpeed: 1
   joueur: {fileID: 1841386516}
   controlButtons: {fileID: 1649503035}
   popupPanel: {fileID: 1069706878}
   equationText: {fileID: 1275502622}
-  scoreText: {fileID: 0}
+  expressionText: {fileID: 0}
+  scoreText: {fileID: 1720506745}
   inputField: {fileID: 932439766}
   submitButton: {fileID: 1932697039}
   closeButton: {fileID: 1235565499}
@@ -5435,37 +5406,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 881776471}
   m_CullTransparentMesh: 1
---- !u!1 &894434463
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 894434464}
-  m_Layer: 0
-  m_Name: PointA
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &894434464
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 894434463}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.35227, y: -6.209475, z: -1.2088554}
-  m_LocalScale: {x: 2.3715, y: 2.3715, z: 2.3715}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &932439764
 GameObject:
   m_ObjectHideFlags: 0
@@ -12034,12 +11974,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 240b54abdacd8453184e5e41a9df2221, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  typeDeCoffre: 0
   effetMagique: {fileID: 0}
   fonduSpeed: 1
   joueur: {fileID: 1841386516}
   controlButtons: {fileID: 0}
   popupPanel: {fileID: 1069706878}
   equationText: {fileID: 1275502622}
+  expressionText: {fileID: 0}
   scoreText: {fileID: 0}
   inputField: {fileID: 932439766}
   submitButton: {fileID: 1932697039}
@@ -27183,12 +27125,13 @@ GameObject:
   - component: {fileID: 2035243660}
   - component: {fileID: 2035243659}
   - component: {fileID: 2035243662}
+  - component: {fileID: 2035243663}
   m_Layer: 7
   m_Name: Coffre2
-  m_TagString: Coffre2
+  m_TagString: Coffre
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!61 &2035243659
 BoxCollider2D:
@@ -27299,7 +27242,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2035243657}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 37.5, y: 4, z: 0}
   m_LocalScale: {x: 0.5127, y: 0.5477, z: 1}
   m_ConstrainProportionsScale: 0
@@ -27313,24 +27256,38 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2035243657}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4343aba7407b4674daafcd2bdfba0082, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  effetMagique: {fileID: 0}
+--- !u!114 &2035243663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035243657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 240b54abdacd8453184e5e41a9df2221, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  typeDeCoffre: 1
+  effetMagique: {fileID: 936730855}
   fonduSpeed: 1
   joueur: {fileID: 1841386516}
   controlButtons: {fileID: 1649503035}
-  popupPanel: {fileID: 1069706878}
+  popupPanel: {fileID: 1821344342}
   equationText: {fileID: 0}
-  scoreText: {fileID: 0}
-  inputField: {fileID: 0}
-  submitButton: {fileID: 0}
-  closeButton: {fileID: 0}
+  expressionText: {fileID: 1065347949}
+  scoreText: {fileID: 1720506745}
+  inputField: {fileID: 1189543553}
+  submitButton: {fileID: 501973652}
+  closeButton: {fileID: 860443959}
   vie: 3
   "cl\xE9Score": 0
-  "textCl\xE9Score": {fileID: 0}
+  "textCl\xE9Score": {fileID: 1720506745}
   coeur1: {fileID: 1416886577}
   coeur2: {fileID: 1555854182}
   coeur3: {fileID: 613140088}
@@ -27340,13 +27297,6 @@ MonoBehaviour:
   menuButton: {fileID: 1881122618}
   restartButton: {fileID: 150427961}
   popupGameOver: {fileID: 231786310}
-  panelExpression: {fileID: 1821344342}
-  expressionText: {fileID: 1065347949}
-  coffre2: {fileID: 2035243657}
-  reponseExpression: {fileID: 1189543553}
-  validateButton: {fileID: 501973652}
-  closeButton2: {fileID: 860443959}
-  effetMagique2: {fileID: 1559329449}
 --- !u!1 &2045559407
 GameObject:
   m_ObjectHideFlags: 0
@@ -27507,8 +27457,6 @@ SceneRoots:
   - {fileID: 466496939}
   - {fileID: 1009542204}
   - {fileID: 1493464675}
-  - {fileID: 894434464}
-  - {fileID: 141369206}
   - {fileID: 810376994}
   - {fileID: 1184360622}
   - {fileID: 1179155538}

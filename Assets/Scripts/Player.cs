@@ -28,9 +28,8 @@ public class Player : MonoBehaviour
     private bool isNearPorte = false; // Vérifie si le joueur est proche d'une porte
 
     private Coffre coffreProche; // Référence vers le coffre à proximité
-    private Coffre2 coffreProche2; // Référence vers le coffre à proximité
     private Porte porteProche; // Référence vers la porte à proximité
-    private int clésRequises = 0; // Nombre de clés nécessaires pour ouvrir une porte
+    private int clésRequises; // Nombre de clés nécessaires pour ouvrir une porte
     private int totalCleScore = 0; // Score total des clés collectées
 
     public Collider2D debouteCollider; // Référence vers le collider du joueur
@@ -127,6 +126,7 @@ public class Player : MonoBehaviour
             Debug.LogWarning($"Aucun Canvas trouvé avec le tag '{tag}'.");
         }
     }
+
     private void Update()
     {
         // On met à jour isGrounded à chaque frame
@@ -137,13 +137,8 @@ public class Player : MonoBehaviour
             Debug.Log("Interaction avec le coffre"); // 👈 tu dois voir ça
             if (coffreProche != null)
             {
-                Debug.Log("Coffre trouvé, on lance l'équation !");
-                coffreProche.StartEquation();
-            }
-            else if (coffreProche2 != null)
-            {
-                Debug.Log("Coffre trouvé, on lance l'équation !");
-                coffreProche2.StartExpression();
+                Debug.Log("Coffre trouvé, on lance l'interaction !");
+                coffreProche.StartInteraction();
             }
             else
             {
@@ -155,8 +150,6 @@ public class Player : MonoBehaviour
         {
             DesactiverCanvasAvecTag("Cadenas"); // Désactiver le cadenas
         }
-
-
 
         if (porteProche != null)
         {
@@ -230,6 +223,7 @@ public class Player : MonoBehaviour
 
             isNearCoffre = true;
             coffreProche = other.GetComponent<Coffre>(); // Stocke le script du coffre
+            coffreProche.setCléScore(totalCleScore); // Met à jour le score des clés dans le coffre
 
             if (interactEText != null) // Vérifie si le label est assigné
             {
@@ -241,23 +235,7 @@ public class Player : MonoBehaviour
                 Debug.LogWarning("Le label interactEText n'est pas assigné !");
             }
         }
-        if (other.CompareTag("Coffre2"))
-        {
-            Debug.Log("Coffre détecté : " + other.name); // Ajoutez ce log
 
-            isNearCoffre = true;
-            coffreProche2 = other.GetComponent<Coffre2>(); // Stocke le script du coffre
-
-            if (interactEText != null) // Vérifie si le label est assigné
-            {
-                interactEText.text = "E pour ouvrir"; // Met à jour le texte
-                Debug.Log("Texte interactEText mis à jour pour le coffre.");
-            }
-            else
-            {
-                Debug.LogWarning("Le label interactEText n'est pas assigné !");
-            }
-        }
         if (other.CompareTag("Porte"))
         {
             Debug.Log($"Porte détectée : {other.name} - Clés collectées : {totalCleScore}, Clés requises : {clésRequises}");
@@ -281,14 +259,11 @@ public class Player : MonoBehaviour
             }
         }
 
-
-
         if (other.CompareTag("Vide")) // Si le joueur tombe dans le vide
         {
             Debug.Log("Le joueur est tombé dans le vide !");
             ShowGameOver(); // Affiche l'écran de Game Over
         }
-
     }
 
     private void OnTriggerExit2D(Collider2D other)
@@ -298,16 +273,6 @@ public class Player : MonoBehaviour
             Debug.Log("Coffre quitté : " + other.name); // Ajoutez ce log
             isNearCoffre = false;
             coffreProche = null; // On oublie le coffre
-            if (interactEText != null) // Vérifie si interactEText est assigné
-            {
-                interactEText.text = ""; // Efface le texte d'interaction
-            }
-        }
-        if (other.CompareTag("Coffre2"))
-        {
-            Debug.Log("Coffre quitté : " + other.name); // Ajoutez ce log
-            isNearCoffre = false;
-            coffreProche2 = null; // On oublie le coffre
             if (interactEText != null) // Vérifie si interactEText est assigné
             {
                 interactEText.text = ""; // Efface le texte d'interaction
@@ -386,6 +351,10 @@ public class Player : MonoBehaviour
     public void AddCleScore(int score)
     {
         totalCleScore += score; // Ajoute le score des clés collectées
+        //coffreProche.setCléScore(totalCleScore); // Met à jour le score des clés dans le coffre
         Debug.Log("Score total des clés mis à jour : " + totalCleScore);
+
     }
+
+    
 }
