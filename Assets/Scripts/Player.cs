@@ -41,6 +41,9 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
+        // Preparation BoxCollider
+        debouteCollider.enabled = true; // Active le collider du joueur
+        mortCollider.enabled = false; // Désactive le collider de mort
         Time.timeScale = 1;
 
         sr = GetComponent<SpriteRenderer>();
