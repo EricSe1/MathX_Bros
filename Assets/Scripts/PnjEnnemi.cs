@@ -59,7 +59,7 @@ public class PnjEnnemi : MonoBehaviour
                 if (collision.contacts[0].normal.y < -0.5f)
                 {
                     EliminerEnnemi(); // Élimine l'ennemi
-                    collision.gameObject.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(0, 10f); // Fait rebondir le joueur
+                    collision.gameObject.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(0, 5f); // Fait rebondir le joueur
                 }
                 else
                 {
