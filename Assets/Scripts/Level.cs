@@ -59,9 +59,8 @@ public class Level : MonoBehaviour
         {
             Level2Text.text = "2"; // Changer le texte du bouton du niveau 2
             Level2Button.interactable = true; // Activer le bouton du niveau 2
-            Level3Text.text = "Bientôt Dispo"; // Changer le texte du bouton du niveau 3
-            Level3Button.interactable = false; // Désactiver le bouton du niveau 3
-            Level3.GetComponent<Image>().color = Color.red; // Mettre le canvas du niveau 3 en vert
+            Level3Text.text = "3"; // Changer le texte du bouton du niveau 3
+            Level3Button.interactable = true; // Désactiver le bouton du niveau 3
             Debug.Log("Le niveau 2 et le niveau 3 sont déverrouillés");
         }
     }

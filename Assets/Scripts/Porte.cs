@@ -1,13 +1,11 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class Porte : MonoBehaviour
 {
     public int clésRequises; // Nombre de clés nécessaires pour ouvrir la porte
     private bool isPlayerInRange = false; // Vérifie si le joueur est proche
     public string prochainNiveau = "Niveau2"; // Nom de la scène du prochain niveau
-    public Text interactEText; // Texte pour afficher "E pour ouvrir"
     public GameObject player; // Référence au controle Button
 
     private Coffre coffreProche; // Référence vers le coffre à proximité
@@ -33,15 +31,7 @@ public class Porte : MonoBehaviour
 
     private void Update()
     {
-        if (isPlayerInRange)
-        {
-            interactEText.text = "E pour ouvrir"; // Affiche le texte d'interaction
-        }
-        else
-        {
-            interactEText.text = ""; // Efface le texte d'interaction
-        }
-
+        // Suppression de l'affichage du texte d'interaction
         if (isPlayerInRange && Input.GetKeyDown(KeyCode.E))
         {
             Player joueur = FindObjectOfType<Player>(); // Trouve le joueur dans la scène
@@ -72,7 +62,6 @@ public class Porte : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             isPlayerInRange = false;
-            interactEText.text = ""; // Efface le texte d'interaction
             Debug.Log("Le joueur s'est éloigné de la porte.");
         }
     }

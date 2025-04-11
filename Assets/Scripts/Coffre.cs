@@ -389,16 +389,16 @@ public class Coffre : MonoBehaviour
         {
             Debug.Log("Coffre ouvert !");
             effetMagique.SetActive(true);
-            controlButtons.SetActive(false);
             popupPanel.SetActive(false);
             StartCoroutine(FonduCoffre());
-            cléScore++;
-
             
-            textCléScore.text = $"{cléScore} / {clésRequises}";
+            cléScore++; // Incrémente correctement le score des clés
+            textCléScore.text = $"{cléScore} / {clésRequises}"; // Met à jour l'affichage des clés
+            Debug.Log($"Clé obtenue : {cléScore} / {clésRequises}"); // Ajoute un log pour vérifier
+
             isOpened = true;
 
-            player.AddCleScore(cléScore);
+            player.AddCleScore(1); // Ajoute 1 clé au score total du joueur
         }
     }
 

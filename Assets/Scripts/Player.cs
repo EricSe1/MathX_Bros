@@ -203,6 +203,8 @@ public class Player : MonoBehaviour
         horizontalMove = context.ReadValue<Vector2>().x;
     }
 
+
+
     private bool IsGrounded()
     {
         // Augmentez la hauteur de la capsule si nécessaire (par exemple, 0.2f au lieu de 0.1f)
@@ -265,6 +267,7 @@ public class Player : MonoBehaviour
         if (other.CompareTag("Vide")) // Si le joueur tombe dans le vide
         {
             Debug.Log("Le joueur est tombé dans le vide !");
+            Dead();
             ShowGameOver(); // Affiche l'écran de Game Over
         }
     }
@@ -354,9 +357,7 @@ public class Player : MonoBehaviour
     public void AddCleScore(int score)
     {
         totalCleScore += score; // Ajoute le score des clés collectées
-        //coffreProche.setCléScore(totalCleScore); // Met à jour le score des clés dans le coffre
-        Debug.Log("Score total des clés mis à jour : " + totalCleScore);
-
+        Debug.Log($"Score total des clés mis à jour : {totalCleScore}"); // Ajoute un log pour vérifier
     }
 
     
