@@ -6,8 +6,10 @@ using UnityEngine.SceneManagement;
 public enum CoffreType
 {
     Equation,   // Coffre qui génère des équations
-    Expression  // Coffre qui génère des expressions mathématiques
-}public class Coffre : MonoBehaviour
+    Expression, // Coffre qui génère des expressions mathématiques
+    DifficileExpression // Coffre qui génère des expressions difficiles
+}
+public class Coffre : MonoBehaviour
 {
     public CoffreType typeDeCoffre; // Définit le type de coffre
     public GameObject effetMagique; // Référence à l'effet magique (particules)
@@ -151,6 +153,10 @@ public enum CoffreType
         {
             StartExpression();
         }
+        else if (typeDeCoffre == CoffreType.DifficileExpression)
+        {
+            StartDifficileExpression();
+        }
     }
 
     public void StartEquation()
@@ -167,6 +173,14 @@ public enum CoffreType
         submitButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
         submitButton.onClick.AddListener(VerifierReponseExpression);
         GenerateExpression();
+    }
+
+    public void StartDifficileExpression()
+    {
+        popupPanel.SetActive(true); // Affiche le panel pour l'expression difficile
+        submitButton.onClick.RemoveAllListeners(); // Pour éviter les doublons
+        submitButton.onClick.AddListener(VerifierReponseExpression);
+        GenerateHardcoreExpression();
     }
 
     void LancerNouvelleEquation()
@@ -230,6 +244,28 @@ public enum CoffreType
 
         expressionText.text = $"Résous : ({a} + {b})² × {c} - {d} \n Score : {score}/{objectif}";
         inputField.text = "";
+        Debug.Log($"Réponse : {solution}"); // Debug pour vérifier l'expression
+    }
+
+    void GenerateHardcoreExpression()
+    {
+        int a = Random.Range(2, 6);  // pour addition interne
+        int b = Random.Range(2, 5);  // pour multiplication
+        int c = Random.Range(2, 8);  // pour soustraction externe
+        int d = Random.Range(2, 5);  // pour division
+
+        int partieGauche = (a + 2) * b;
+        int partieDroite = c / d;
+        int baseCalcul = (partieGauche - partieDroite);
+        int resultat = baseCalcul * baseCalcul;
+
+        string expressionAffichee = $"(({a} + 2) × {b} - ({c} ÷ {d}))²";
+
+        expressionText.text = $"Résous :\n{expressionAffichee}\nScore : {score}/{objectif}";
+        inputField.text = "";
+
+        solution = resultat;
+
         Debug.Log($"Réponse : {solution}"); // Debug pour vérifier l'expression
     }
 
@@ -375,7 +411,11 @@ public enum CoffreType
     public void setCléScore(int score)
     {
         cléScore = score; // Définit le score des clés
-        textCléScore.text = $"{cléScore} / {clésRequises}";
+        if (cléScore >= clésRequises)
+        {
+            textCléScore.text = $"{cléScore} / {clésRequises}"; // Met à jour le texte
+        }
+
     }
 
     

@@ -96,7 +96,7 @@ public class Level : MonoBehaviour
         else
         {
             Level3Button.interactable = true; // Activer le bouton du niveau 3
-            SceneManager.LoadScene("Level3");
+            SceneManager.LoadScene("Menu");
         }
         
     }
